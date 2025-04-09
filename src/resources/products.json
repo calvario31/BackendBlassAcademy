@@ -1,0 +1,1351 @@
+[
+  {
+    "id": 1,
+    "nombre": "quark",
+    "precio": 16.764,
+    "stock": 7,
+    "peso": 9.18,
+    "esPerecible": true,
+    "volumen": 62.26,
+    "criticas": [
+      {
+        "puntaje": 3.01,
+        "comentario": "A heartwarming Georgian soup, featuring fresh borlotti beans and an aromatic blend of traditional spices.",
+        "correo": "Harley.Altenwerth24@hotmail.com",
+        "usuario": "Harley_Altenwerth21"
+      },
+      {
+        "puntaje": 1.29,
+        "comentario": "Grilled ostrich kebabs, marinated in Rajasthani spices and served with a fresh iceberg lettuce and juniper berry salad.",
+        "correo": "Christina.Armstrong@hotmail.com",
+        "usuario": "Christina.Armstrong4"
+      },
+      {
+        "puntaje": 3.89,
+        "comentario": "Grilled beef kebabs, marinated in Mexican spices and served with a fresh cauliflower and papaya salad.",
+        "correo": "Estrella_Aufderhar91@gmail.com",
+        "usuario": "Estrella.Aufderhar"
+      },
+      {
+        "puntaje": 4.72,
+        "comentario": "Our crunchy beef, slow-cooked to perfection, accompanied by steamed snowpea sprouts and a rich, savory gravy.",
+        "correo": "Quinten_Denesik@gmail.com",
+        "usuario": "Quinten.Denesik15"
+      },
+      {
+        "puntaje": 4.84,
+        "comentario": "Fresh mixed greens tossed with mace-rubbed turkey, chives, and a light dressing.",
+        "correo": "Brennan.Russel32@yahoo.com",
+        "usuario": "Brennan_Russel69"
+      }
+    ],
+    "tags": ["Handmade", "Modern", "Sleek", "Refined", "Elegant"]
+  },
+  {
+    "id": 2,
+    "nombre": "fresh chillies",
+    "precio": 15.699,
+    "stock": 10,
+    "peso": 12.704,
+    "esPerecible": false,
+    "volumen": 31.603,
+    "criticas": [
+      {
+        "puntaje": 1.48,
+        "comentario": "Crispy fried quail bites, seasoned with rice paper and served with a tangy lychee dipping sauce.",
+        "correo": "Fredy_Walsh@yahoo.com",
+        "usuario": "Fredy_Walsh95"
+      },
+      {
+        "puntaje": 4.74,
+        "comentario": "Juicy goose, grilled to your liking and drizzled with a bold balti stir fry mix sauce, served alongside roasted bean sprouts.",
+        "correo": "Eloisa.Swaniawski@yahoo.com",
+        "usuario": "Eloisa.Swaniawski82"
+      },
+      {
+        "puntaje": 2.28,
+        "comentario": "A slow-roasted Least Bittern with a tender, moist exterior. Stuffed with blackberry and covered in mango sauce. Sides with kale puree and wild iceberg lettuce.",
+        "correo": "Jayce.Bogisich7@gmail.com",
+        "usuario": "Jayce_Bogisich"
+      },
+      {
+        "puntaje": 2.69,
+        "comentario": "A classic pie filled with delicious quail and rich lentils, baked in a moist pastry crust and topped with a golden-brown lattice.",
+        "correo": "Myah.Pfeffer35@gmail.com",
+        "usuario": "Myah_Pfeffer"
+      },
+      {
+        "puntaje": 4.56,
+        "comentario": "Crispy fried emu bites, seasoned with rogan josh and served with a tangy corella pear dipping sauce.",
+        "correo": "Salvador.Turner60@gmail.com",
+        "usuario": "Salvador_Turner56"
+      }
+    ],
+    "tags": [
+      "Incredible",
+      "Bespoke",
+      "Modern",
+      "Fresh",
+      "Electronic",
+      "Generic",
+      "Oriental",
+      "Handmade",
+      "Luxurious"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "eggplant",
+    "precio": 18.775,
+    "stock": 9,
+    "peso": 9.648,
+    "esPerecible": true,
+    "volumen": 42.883,
+    "criticas": [
+      {
+        "puntaje": 3.79,
+        "comentario": "Tenderly braised lamb in a rich sesame seed and brussels sprouts sauce, served with a side of creamy garlic.",
+        "correo": "Geraldine.Homenick91@yahoo.com",
+        "usuario": "Geraldine_Homenick29"
+      },
+      {
+        "puntaje": 2.26,
+        "comentario": "Three crabs with french eschallots, dried chinese broccoli, kale, dried chinese broccoli and arrowroot. With a side of baked tomato, and your choice of olives or spelt.",
+        "correo": "Kira.Ullrich77@hotmail.com",
+        "usuario": "Kira_Ullrich"
+      },
+      {
+        "puntaje": 2.84,
+        "comentario": "Our bitter crocodile, slow-cooked to perfection, accompanied by steamed arugula and a rich, savory gravy.",
+        "correo": "Jaqueline_Cummerata44@yahoo.com",
+        "usuario": "Jaqueline_Cummerata59"
+      },
+      {
+        "puntaje": 4.98,
+        "comentario": "A special pink sultanas from Malta. To support the strong flavor it is sided with a tablespoon of lemon pepper.",
+        "correo": "Adelia.Pacocha@gmail.com",
+        "usuario": "Adelia_Pacocha79"
+      },
+      {
+        "puntaje": 3.41,
+        "comentario": "Our sweet lamb, slow-cooked to perfection, accompanied by steamed lettuce and a rich, savory gravy.",
+        "correo": "Joanne.Larson13@hotmail.com",
+        "usuario": "Joanne_Larson92"
+      }
+    ],
+    "tags": [
+      "Soft",
+      "Intelligent",
+      "Elegant",
+      "Electronic",
+      "Incredible",
+      "Small",
+      "Handcrafted",
+      "Licensed",
+      "Oriental"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "chickory",
+    "precio": 5.515,
+    "stock": 2,
+    "peso": 8.423,
+    "esPerecible": false,
+    "volumen": 24.56,
+    "criticas": [
+      {
+        "puntaje": 1.43,
+        "comentario": "Fresh muesli with a pinch of amchoor, topped by a caramelized papaw with whipped cream",
+        "correo": "Abigale_Stehr91@hotmail.com",
+        "usuario": "Abigale.Stehr49"
+      },
+      {
+        "puntaje": 4.76,
+        "comentario": "Crispy fried ostrich bites, seasoned with thyme and served with a tangy cavalo dipping sauce.",
+        "correo": "Cooper.Hegmann43@yahoo.com",
+        "usuario": "Cooper.Hegmann"
+      },
+      {
+        "puntaje": 4.31,
+        "comentario": "Crispy fried venison bites, seasoned with cinnamon and served with a tangy sprout dipping sauce.",
+        "correo": "Lyric_King79@yahoo.com",
+        "usuario": "Lyric.King"
+      },
+      {
+        "puntaje": 1.96,
+        "comentario": "Tenderly braised crocodile in a rich vanilla and carrot sauce, served with a side of creamy jicama.",
+        "correo": "Myrtis.Okuneva@yahoo.com",
+        "usuario": "Myrtis.Okuneva12"
+      },
+      {
+        "puntaje": 1.62,
+        "comentario": "Baked pumpkin seed-stuffed kangaroo, seasoned with orange zest and zesty herbs, accompanied by roasted endive medley.",
+        "correo": "Everardo_Paucek76@hotmail.com",
+        "usuario": "Everardo_Paucek"
+      }
+    ],
+    "tags": ["Fantastic", "Sleek", "Generic", "Practical", "Unbranded"]
+  },
+  {
+    "id": 5,
+    "nombre": "vegetable oil",
+    "precio": 19.594,
+    "stock": 3,
+    "peso": 6.606,
+    "esPerecible": false,
+    "volumen": 66.182,
+    "criticas": [
+      {
+        "puntaje": 0.97,
+        "comentario": "Juicy turkey, grilled to your liking and drizzled with a bold curry sauce, served alongside roasted lettuce.",
+        "correo": "Antonetta_Walsh@hotmail.com",
+        "usuario": "Antonetta_Walsh"
+      },
+      {
+        "puntaje": 1.03,
+        "comentario": "Fresh bulghur with a pinch of peppercorns, topped by a caramelized blueberry with whipped cream",
+        "correo": "Ciara.Kertzmann43@yahoo.com",
+        "usuario": "Ciara_Kertzmann"
+      },
+      {
+        "puntaje": 4.48,
+        "comentario": "A robust smoky stew featuring Mordovian flavors, loaded with salty meat, crispy vegetables, and a delicious, juicy broth.",
+        "correo": "Devyn_Grimes-Feeney87@yahoo.com",
+        "usuario": "Devyn_Grimes-Feeney69"
+      },
+      {
+        "puntaje": 1.04,
+        "comentario": "Our smoky pork, slow-cooked to perfection, accompanied by steamed celery and a rich, savory gravy.",
+        "correo": "Osborne_Turcotte46@gmail.com",
+        "usuario": "Osborne_Turcotte"
+      },
+      {
+        "puntaje": 0.67,
+        "comentario": "Hearty hot smoked salmon and goose stew, slow-cooked with coriander and kale for a comforting, flavorful meal.",
+        "correo": "Sheldon.Hudson@gmail.com",
+        "usuario": "Sheldon_Hudson"
+      }
+    ],
+    "tags": ["Handcrafted"]
+  },
+  {
+    "id": 6,
+    "nombre": "jewfish",
+    "precio": 4.162,
+    "stock": 1,
+    "peso": 7.793,
+    "esPerecible": false,
+    "volumen": 76.231,
+    "criticas": [
+      {
+        "puntaje": 4.99,
+        "comentario": "A classic pie filled with delicious kangaroo and sweet lamb, baked in a moist pastry crust and topped with a golden-brown lattice.",
+        "correo": "Madelynn.Luettgen@hotmail.com",
+        "usuario": "Madelynn.Luettgen99"
+      },
+      {
+        "puntaje": 0.76,
+        "comentario": "Tenderly braised beef in a rich thyme and asparagus sauce, served with a side of creamy asian greens.",
+        "correo": "Nikko_Conn27@hotmail.com",
+        "usuario": "Nikko_Conn"
+      },
+      {
+        "puntaje": 2.48,
+        "comentario": "Three agar with lettuce, chilli pepper, beans, peas and cornichons. With a side of baked currant, and your choice of buckwheat or basil basmati rice.",
+        "correo": "Lemuel.Kunde84@hotmail.com",
+        "usuario": "Lemuel_Kunde"
+      },
+      {
+        "puntaje": 3.24,
+        "comentario": "A succulent beef steak, encased in a sweet chilli crust, served with a side of cassia mashed beetroot.",
+        "correo": "Shany_Collins@gmail.com",
+        "usuario": "Shany_Collins"
+      },
+      {
+        "puntaje": 2.96,
+        "comentario": "Tenderly braised quail in a rich peppercorns and peppers sauce, served with a side of creamy rhubarb.",
+        "correo": "Justice.Parker38@yahoo.com",
+        "usuario": "Justice.Parker"
+      }
+    ],
+    "tags": ["Fresh", "Rustic"]
+  },
+  {
+    "id": 7,
+    "nombre": "cheddar",
+    "precio": 5.791,
+    "stock": 4,
+    "peso": 15.733,
+    "esPerecible": false,
+    "volumen": 71.972,
+    "criticas": [
+      {
+        "puntaje": 0.39,
+        "comentario": "Tender salmon skewers, glazed with a sweet and tangy sprout sauce, served over a bed of fragrant jasmine rice.",
+        "correo": "Carmella_Gleason96@hotmail.com",
+        "usuario": "Carmella_Gleason96"
+      },
+      {
+        "puntaje": 1.31,
+        "comentario": "Crispy fried chicken bites, seasoned with chillies and served with a tangy custard apple dipping sauce.",
+        "correo": "Maudie_Dicki@hotmail.com",
+        "usuario": "Maudie_Dicki81"
+      },
+      {
+        "puntaje": 1.88,
+        "comentario": "A slow-roasted Gila Woodpecker with a tangy, spicy exterior. Stuffed with mulberry and covered in dried apricot sauce. Sides with spinach puree and wild capers.",
+        "correo": "Esperanza.Green@hotmail.com",
+        "usuario": "Esperanza_Green"
+      },
+      {
+        "puntaje": 1.84,
+        "comentario": "Tenderly braised venison in a rich pot marjoram and jerusalem artichoke sauce, served with a side of creamy onion.",
+        "correo": "Susie.Adams24@gmail.com",
+        "usuario": "Susie.Adams45"
+      },
+      {
+        "puntaje": 0.11,
+        "comentario": "A robust spicy stew featuring Georgian flavors, loaded with fresh meat, golden vegetables, and a crispy, moist broth.",
+        "correo": "Kaylee_Torphy@gmail.com",
+        "usuario": "Kaylee.Torphy81"
+      }
+    ],
+    "tags": [
+      "Rustic",
+      "Elegant",
+      "Recycled",
+      "Oriental",
+      "Practical",
+      "Handmade",
+      "Generic"
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "avocado",
+    "precio": 12.58,
+    "stock": 3,
+    "peso": 17.628,
+    "esPerecible": true,
+    "volumen": 83.378,
+    "criticas": [
+      {
+        "puntaje": 0.35,
+        "comentario": "A succulent salmon steak, encased in a delicious galangal crust, served with a side of mace mashed radish.",
+        "correo": "Elva.Kemmer@gmail.com",
+        "usuario": "Elva_Kemmer4"
+      },
+      {
+        "puntaje": 1.78,
+        "comentario": "A succulent crocodile steak, encased in a spicy lavender crust, served with a side of asafoetida mashed carrot.",
+        "correo": "Serena.Bruen-Bahringer@hotmail.com",
+        "usuario": "Serena.Bruen-Bahringer"
+      },
+      {
+        "puntaje": 1.74,
+        "comentario": "Hearty brussels sprouts and pigeon stew, slow-cooked with thyme and beans for a comforting, flavorful meal.",
+        "correo": "Shad_OReilly95@gmail.com",
+        "usuario": "Shad_OReilly18"
+      },
+      {
+        "puntaje": 3.68,
+        "comentario": "Tender venison skewers, glazed with a sweet and tangy incaberry sauce, served over a bed of fragrant jasmine rice.",
+        "correo": "Theresa_Beahan@yahoo.com",
+        "usuario": "Theresa.Beahan95"
+      },
+      {
+        "puntaje": 4.23,
+        "comentario": "Hearty baking powder and duck stew, slow-cooked with sage and leeks for a comforting, flavorful meal.",
+        "correo": "Rosella_Carter-Witting@yahoo.com",
+        "usuario": "Rosella.Carter-Witting"
+      }
+    ],
+    "tags": [
+      "Ergonomic",
+      "Tasty",
+      "Refined",
+      "Luxurious",
+      "Elegant",
+      "Licensed",
+      "Electronic",
+      "Sleek",
+      "Frozen"
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "ajowan seed",
+    "precio": 2.546,
+    "stock": 2,
+    "peso": 17.659,
+    "esPerecible": false,
+    "volumen": 52.762,
+    "criticas": [
+      {
+        "puntaje": 1.28,
+        "comentario": "A robust fresh stew featuring Karnataka flavors, loaded with smoky meat, crunchy vegetables, and a fresh, bitter broth.",
+        "correo": "Oran_Davis92@gmail.com",
+        "usuario": "Oran_Davis"
+      },
+      {
+        "puntaje": 2.67,
+        "comentario": "A simple fig pie. No fancy stuff. Just pie.",
+        "correo": "Julius_Wolf89@hotmail.com",
+        "usuario": "Julius.Wolf"
+      },
+      {
+        "puntaje": 2.57,
+        "comentario": "A simple cantaloupe pie. No fancy stuff. Just pie.",
+        "correo": "Jackie.Schumm@gmail.com",
+        "usuario": "Jackie.Schumm"
+      },
+      {
+        "puntaje": 0.75,
+        "comentario": "Fresh mixed greens tossed with liquorice root-rubbed venison, kale, and a light dressing.",
+        "correo": "Lucius_Zemlak@gmail.com",
+        "usuario": "Lucius.Zemlak98"
+      },
+      {
+        "puntaje": 3.52,
+        "comentario": "A heartwarming Hyderabad soup, featuring fresh sunflower seeds and an aromatic blend of traditional spices.",
+        "correo": "Aurore_Osinski2@hotmail.com",
+        "usuario": "Aurore_Osinski2"
+      }
+    ],
+    "tags": ["Awesome"]
+  },
+  {
+    "id": 10,
+    "nombre": "marjoram",
+    "precio": 4.892,
+    "stock": 3,
+    "peso": 3.71,
+    "esPerecible": true,
+    "volumen": 58.396,
+    "criticas": [
+      {
+        "puntaje": 4.62,
+        "comentario": "An exquisite duck roast, infused with the essence of strawberry, slow-roasted to bring out its natural flavors and served with a side of creamy red pepper",
+        "correo": "Stephany_Spencer-Mayert@gmail.com",
+        "usuario": "Stephany.Spencer-Mayert"
+      },
+      {
+        "puntaje": 4.74,
+        "comentario": "A slow-roasted Calliope Hummingbird with a zesty, savory exterior. Stuffed with peach and covered in pineapple sauce. Sides with celery puree and wild cornichons.",
+        "correo": "Noe_Becker@hotmail.com",
+        "usuario": "Noe_Becker24"
+      },
+      {
+        "puntaje": 1.07,
+        "comentario": "Grilled quail kebabs, marinated in Czech spices and served with a fresh bok choy and dragonfruit salad.",
+        "correo": "Carley.Ruecker88@yahoo.com",
+        "usuario": "Carley_Ruecker"
+      },
+      {
+        "puntaje": 0.99,
+        "comentario": "Tenderly braised quail in a rich allspice and turnips sauce, served with a side of creamy cornichons.",
+        "correo": "Christa_Jaskolski@yahoo.com",
+        "usuario": "Christa.Jaskolski"
+      },
+      {
+        "puntaje": 0.59,
+        "comentario": "A succulent emu steak, encased in a moist mustard crust, served with a side of spearmint mashed celery.",
+        "correo": "Spencer.Walter67@hotmail.com",
+        "usuario": "Spencer.Walter"
+      }
+    ],
+    "tags": [
+      "Licensed",
+      "Practical",
+      "Intelligent",
+      "Bespoke",
+      "Fresh",
+      "Frozen"
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "haricot beans",
+    "precio": 4.62,
+    "stock": 4,
+    "peso": 19.26,
+    "esPerecible": false,
+    "volumen": 91.474,
+    "criticas": [
+      {
+        "puntaje": 4.52,
+        "comentario": "Fresh mixed greens tossed with curry-rubbed pigeon, parsnip, and a light dressing.",
+        "correo": "Adolf_Hayes-Sauer14@gmail.com",
+        "usuario": "Adolf_Hayes-Sauer20"
+      },
+      {
+        "puntaje": 2.51,
+        "comentario": "A classic pie filled with delicious crocodile and moist green tea noodles, baked in a crispy pastry crust and topped with a golden-brown lattice.",
+        "correo": "Hanna.DuBuque@gmail.com",
+        "usuario": "Hanna_DuBuque"
+      },
+      {
+        "puntaje": 2.9,
+        "comentario": "Baked asian noodles-stuffed duck, seasoned with colombo and fluffy herbs, accompanied by roasted artichoke medley.",
+        "correo": "Valentina_Gerhold32@yahoo.com",
+        "usuario": "Valentina.Gerhold"
+      },
+      {
+        "puntaje": 0.47,
+        "comentario": "An exquisite venison roast, infused with the essence of juniper berry, slow-roasted to bring out its natural flavors and served with a side of creamy capers",
+        "correo": "Aglae.Nitzsche62@yahoo.com",
+        "usuario": "Aglae.Nitzsche"
+      },
+      {
+        "puntaje": 2.13,
+        "comentario": "Fresh mixed greens tossed with poudre de colombo-rubbed turkey, sweet potato, and a light dressing.",
+        "correo": "Una.Kunde86@gmail.com",
+        "usuario": "Una_Kunde"
+      }
+    ],
+    "tags": ["Sleek"]
+  },
+  {
+    "id": 12,
+    "nombre": "goji berry",
+    "precio": 14.28,
+    "stock": 1,
+    "peso": 11.402,
+    "esPerecible": false,
+    "volumen": 57.667,
+    "criticas": [
+      {
+        "puntaje": 1.33,
+        "comentario": "A heartwarming Filipino soup, featuring fresh besan and an aromatic blend of traditional spices.",
+        "correo": "Kailee.Bergstrom@gmail.com",
+        "usuario": "Kailee_Bergstrom"
+      },
+      {
+        "puntaje": 3.01,
+        "comentario": "Juicy chicken, grilled to your liking and drizzled with a bold onion seed sauce, served alongside roasted iceberg lettuce.",
+        "correo": "Jeffrey_Boyle79@hotmail.com",
+        "usuario": "Jeffrey.Boyle52"
+      },
+      {
+        "puntaje": 2.03,
+        "comentario": "Our sweet salmon, slow-cooked to perfection, accompanied by steamed carob carrot and a rich, savory gravy.",
+        "correo": "Curt.Hettinger23@hotmail.com",
+        "usuario": "Curt.Hettinger"
+      },
+      {
+        "puntaje": 0.17,
+        "comentario": "Fresh mixed greens tossed with poppy seed-rubbed venison, kale, and a light dressing.",
+        "correo": "Gerardo_Crona8@gmail.com",
+        "usuario": "Gerardo.Crona23"
+      },
+      {
+        "puntaje": 2.85,
+        "comentario": "Grilled turkey kebabs, marinated in Jewish - Israeli spices and served with a fresh sweet potato and dragonfruit salad.",
+        "correo": "Percy_Christiansen@hotmail.com",
+        "usuario": "Percy_Christiansen"
+      }
+    ],
+    "tags": ["Incredible", "Awesome", "Sleek"]
+  },
+  {
+    "id": 13,
+    "nombre": "fresh chillies",
+    "precio": 11.432,
+    "stock": 3,
+    "peso": 10.055,
+    "esPerecible": true,
+    "volumen": 47.421,
+    "criticas": [
+      {
+        "puntaje": 0.04,
+        "comentario": "Baked elderberry-stuffed pigeon, seasoned with bay leaves and creamy herbs, accompanied by roasted zucchini medley.",
+        "correo": "Mohammed.Schultz84@yahoo.com",
+        "usuario": "Mohammed.Schultz"
+      },
+      {
+        "puntaje": 3.35,
+        "comentario": "A slow-roasted White-cheeked Pintail with a delicious, bitter exterior. Stuffed with blood orange and covered in feijoa sauce. Sides with cabbage puree and wild parsnip.",
+        "correo": "Kieran_Turner88@hotmail.com",
+        "usuario": "Kieran_Turner95"
+      },
+      {
+        "puntaje": 0.06,
+        "comentario": "Three vanilla beans with green pepper, hijiki, celery, carob carrot and lemongrass. With a side of baked nectarine, and your choice of tuna or gruyere.",
+        "correo": "Lenore_Toy@yahoo.com",
+        "usuario": "Lenore_Toy55"
+      },
+      {
+        "puntaje": 2.21,
+        "comentario": "A classic pie filled with delicious chicken and delicious sausages, baked in a savory pastry crust and topped with a golden-brown lattice.",
+        "correo": "Sarah.Quigley@gmail.com",
+        "usuario": "Sarah_Quigley54"
+      },
+      {
+        "puntaje": 1.52,
+        "comentario": "Fresh mixed greens tossed with kaffir leaves-rubbed ostrich, hijiki, and a light dressing.",
+        "correo": "Jimmy.Johnson71@hotmail.com",
+        "usuario": "Jimmy.Johnson91"
+      }
+    ],
+    "tags": ["Luxurious", "Small", "Elegant", "Generic", "Oriental"]
+  },
+  {
+    "id": 14,
+    "nombre": "french eschallots",
+    "precio": 15.369,
+    "stock": 10,
+    "peso": 3.657,
+    "esPerecible": true,
+    "volumen": 85.219,
+    "criticas": [
+      {
+        "puntaje": 1.9,
+        "comentario": "A special lavender mint from Rwanda. To support the strong flavor it is sided with a tablespoon of piri piri.",
+        "correo": "Cindy_Jacobson@yahoo.com",
+        "usuario": "Cindy.Jacobson42"
+      },
+      {
+        "puntaje": 0.84,
+        "comentario": "Grilled chicken kebabs, marinated in Chinese spices and served with a fresh bok choy and kiwi fruit salad.",
+        "correo": "Hassan.Runolfsdottir@yahoo.com",
+        "usuario": "Hassan_Runolfsdottir83"
+      },
+      {
+        "puntaje": 0.98,
+        "comentario": "Hearty mountain bread and crocodile stew, slow-cooked with anise star and bok choy for a comforting, flavorful meal.",
+        "correo": "Lacey_Hintz@gmail.com",
+        "usuario": "Lacey.Hintz"
+      },
+      {
+        "puntaje": 3.2,
+        "comentario": "Baked brie-stuffed salmon, seasoned with lavender and spicy herbs, accompanied by roasted garlic medley.",
+        "correo": "Emmanuel.Tillman@gmail.com",
+        "usuario": "Emmanuel.Tillman"
+      },
+      {
+        "puntaje": 2.54,
+        "comentario": "Juicy pigeon, grilled to your liking and drizzled with a bold chamomile sauce, served alongside roasted jerusalem artichoke.",
+        "correo": "Alfonzo.Bradtke@yahoo.com",
+        "usuario": "Alfonzo.Bradtke37"
+      }
+    ],
+    "tags": ["Sleek", "Modern", "Awesome"]
+  },
+  {
+    "id": 15,
+    "nombre": "guava",
+    "precio": 3.372,
+    "stock": 2,
+    "peso": 6.525,
+    "esPerecible": true,
+    "volumen": 46.67,
+    "criticas": [
+      {
+        "puntaje": 0.62,
+        "comentario": "A special blue olives from Azerbaijan. To support the strong flavor it is sided with a tablespoon of cinnamon.",
+        "correo": "Delmer.Osinski15@gmail.com",
+        "usuario": "Delmer.Osinski"
+      },
+      {
+        "puntaje": 2.85,
+        "comentario": "Fresh gula melaka with a pinch of rosemary, topped by a caramelized jarrahdale pumpkin with whipped cream",
+        "correo": "Flo_Mosciski@yahoo.com",
+        "usuario": "Flo.Mosciski58"
+      },
+      {
+        "puntaje": 3.09,
+        "comentario": "A robust spicy stew featuring Buddhist flavors, loaded with fluffy meat, creamy vegetables, and a crispy, crunchy broth.",
+        "correo": "Zena.Corkery58@hotmail.com",
+        "usuario": "Zena_Corkery"
+      },
+      {
+        "puntaje": 1.65,
+        "comentario": "Tender duck skewers, glazed with a sweet and tangy dragonfruit sauce, served over a bed of fragrant jasmine rice.",
+        "correo": "Kelsie.Hauck32@yahoo.com",
+        "usuario": "Kelsie.Hauck0"
+      },
+      {
+        "puntaje": 3.85,
+        "comentario": "1-day aged pork steak, with choice of 3 sides.",
+        "correo": "Creola.Bechtelar32@hotmail.com",
+        "usuario": "Creola_Bechtelar20"
+      }
+    ],
+    "tags": ["Bespoke", "Awesome", "Practical", "Refined", "Generic"]
+  },
+  {
+    "id": 16,
+    "nombre": "barley",
+    "precio": 12.844,
+    "stock": 8,
+    "peso": 12.32,
+    "esPerecible": true,
+    "volumen": 36.375,
+    "criticas": [
+      {
+        "puntaje": 3.37,
+        "comentario": "A succulent rabbit steak, encased in a bitter vanilla crust, served with a side of fenugreek mashed raspberry.",
+        "correo": "Hector_Balistreri-Romaguera@gmail.com",
+        "usuario": "Hector_Balistreri-Romaguera"
+      },
+      {
+        "puntaje": 2.92,
+        "comentario": "Three chia seeds with okra, zucchini, kale, bok choy and gruyere. With a side of baked pomegranate, and your choice of turnips or cheddar.",
+        "correo": "Cecilia_Smitham@gmail.com",
+        "usuario": "Cecilia_Smitham77"
+      },
+      {
+        "puntaje": 4.35,
+        "comentario": "Tenderly braised emu in a rich lime leaves and cucumber sauce, served with a side of creamy jicama.",
+        "correo": "Bennett.Senger36@yahoo.com",
+        "usuario": "Bennett_Senger52"
+      },
+      {
+        "puntaje": 0.77,
+        "comentario": "A heartwarming Lebanese soup, featuring fresh enoki mushrooms and an aromatic blend of traditional spices.",
+        "correo": "Marian_Renner@hotmail.com",
+        "usuario": "Marian_Renner8"
+      },
+      {
+        "puntaje": 1.22,
+        "comentario": "Juicy quail, grilled to your liking and drizzled with a bold cassia sauce, served alongside roasted green beans.",
+        "correo": "Adolfo_Nader-Sipes@gmail.com",
+        "usuario": "Adolfo.Nader-Sipes"
+      }
+    ],
+    "tags": ["Modern", "Sleek", "Ergonomic", "Gorgeous", "Luxurious", "Soft"]
+  },
+  {
+    "id": 17,
+    "nombre": "curry leaves",
+    "precio": 3.716,
+    "stock": 2,
+    "peso": 8.254,
+    "esPerecible": false,
+    "volumen": 87.847,
+    "criticas": [
+      {
+        "puntaje": 1.62,
+        "comentario": "A heartwarming Greek soup, featuring fresh limes and an aromatic blend of traditional spices.",
+        "correo": "Nathen.Berge@yahoo.com",
+        "usuario": "Nathen.Berge3"
+      },
+      {
+        "puntaje": 3.32,
+        "comentario": "Tender lamb skewers, glazed with a sweet and tangy custard apple sauce, served over a bed of fragrant jasmine rice.",
+        "correo": "Shanna_Quitzon34@hotmail.com",
+        "usuario": "Shanna.Quitzon"
+      },
+      {
+        "puntaje": 3.5,
+        "comentario": "Baked mustard seed-stuffed crocodile, seasoned with tarragon and salty herbs, accompanied by roasted broccolini medley.",
+        "correo": "Haskell_Becker@hotmail.com",
+        "usuario": "Haskell.Becker"
+      },
+      {
+        "puntaje": 4.43,
+        "comentario": "Fresh mixed greens tossed with ajwain seed-rubbed turkey, chives, and a light dressing.",
+        "correo": "Brook.Windler@gmail.com",
+        "usuario": "Brook_Windler83"
+      },
+      {
+        "puntaje": 2.43,
+        "comentario": "A robust zesty stew featuring Rajasthani flavors, loaded with crunchy meat, crunchy vegetables, and a smoky, crunchy broth.",
+        "correo": "Mireya_Upton@yahoo.com",
+        "usuario": "Mireya_Upton"
+      }
+    ],
+    "tags": ["Recycled", "Elegant", "Rustic"]
+  },
+  {
+    "id": 18,
+    "nombre": "rhubarb",
+    "precio": 16.869,
+    "stock": 2,
+    "peso": 7.247,
+    "esPerecible": false,
+    "volumen": 27.917,
+    "criticas": [
+      {
+        "puntaje": 0.19,
+        "comentario": "Our fluffy salmon, slow-cooked to perfection, accompanied by steamed chives and a rich, savory gravy.",
+        "correo": "Vito_Shields95@yahoo.com",
+        "usuario": "Vito_Shields"
+      },
+      {
+        "puntaje": 0.07,
+        "comentario": "An exquisite lamb roast, infused with the essence of bush tomato, slow-roasted to bring out its natural flavors and served with a side of creamy asian greens",
+        "correo": "Newell_Mayer82@yahoo.com",
+        "usuario": "Newell_Mayer"
+      },
+      {
+        "puntaje": 4.22,
+        "comentario": "Fresh mixed greens tossed with rice paper-rubbed beef, arugula, and a light dressing.",
+        "correo": "Rolando_Mraz@hotmail.com",
+        "usuario": "Rolando.Mraz"
+      },
+      {
+        "puntaje": 4.02,
+        "comentario": "Hearty butter and ostrich stew, slow-cooked with garam masala and arugula for a comforting, flavorful meal.",
+        "correo": "Jammie.Hoppe@gmail.com",
+        "usuario": "Jammie.Hoppe94"
+      },
+      {
+        "puntaje": 4.9,
+        "comentario": "Crispy fried venison bites, seasoned with bay leaves and served with a tangy elderberry dipping sauce.",
+        "correo": "Rigoberto_Bergstrom37@hotmail.com",
+        "usuario": "Rigoberto.Bergstrom7"
+      }
+    ],
+    "tags": [
+      "Unbranded",
+      "Practical",
+      "Handmade",
+      "Tasty",
+      "Luxurious",
+      "Fantastic",
+      "Gorgeous",
+      "Bespoke"
+    ]
+  },
+  {
+    "id": 19,
+    "nombre": "besan",
+    "precio": 8.973,
+    "stock": 4,
+    "peso": 5.648,
+    "esPerecible": true,
+    "volumen": 69.33,
+    "criticas": [
+      {
+        "puntaje": 0.86,
+        "comentario": "Juicy beef, grilled to your liking and drizzled with a bold chilli pepper sauce, served alongside roasted peppers.",
+        "correo": "Eda.Crona55@yahoo.com",
+        "usuario": "Eda.Crona"
+      },
+      {
+        "puntaje": 0.18,
+        "comentario": "Three turnips with purple carrot, broccolini, radish, purple carrot and amaranth. With a side of baked date, and your choice of soy flour or agar.",
+        "correo": "Asia_Runolfsdottir81@yahoo.com",
+        "usuario": "Asia_Runolfsdottir"
+      },
+      {
+        "puntaje": 2.14,
+        "comentario": "An exquisite lamb roast, infused with the essence of starfruit, slow-roasted to bring out its natural flavors and served with a side of creamy radish",
+        "correo": "Paris_Marvin@yahoo.com",
+        "usuario": "Paris_Marvin"
+      },
+      {
+        "puntaje": 3.69,
+        "comentario": "A slow-roasted Northern Waterthrush with a creamy, sour exterior. Stuffed with cumquat and covered in fig sauce. Sides with endive puree and wild french eschallots.",
+        "correo": "Mustafa.Dare@yahoo.com",
+        "usuario": "Mustafa_Dare70"
+      },
+      {
+        "puntaje": 4.85,
+        "comentario": "Grilled emu kebabs, marinated in German spices and served with a fresh cos lettuce and grape salad.",
+        "correo": "Palma.Torphy-Huels54@hotmail.com",
+        "usuario": "Palma.Torphy-Huels24"
+      }
+    ],
+    "tags": ["Frozen", "Handcrafted", "Modern", "Small"]
+  },
+  {
+    "id": 20,
+    "nombre": "margarine",
+    "precio": 16.669,
+    "stock": 6,
+    "peso": 17.704,
+    "esPerecible": true,
+    "volumen": 42.434,
+    "criticas": [
+      {
+        "puntaje": 0.81,
+        "comentario": "A special silver jarrahdale pumpkin from Papua New Guinea. To support the strong flavor it is sided with a tablespoon of basil.",
+        "correo": "Myrna.Haley85@gmail.com",
+        "usuario": "Myrna_Haley18"
+      },
+      {
+        "puntaje": 1.02,
+        "comentario": "95-day aged goose steak, with choice of 4 sides.",
+        "correo": "Theodore.Price58@gmail.com",
+        "usuario": "Theodore_Price88"
+      },
+      {
+        "puntaje": 4.75,
+        "comentario": "Hearty quinoa and duck stew, slow-cooked with fenugreek and french eschallots for a comforting, flavorful meal.",
+        "correo": "Jocelyn.Boehm@hotmail.com",
+        "usuario": "Jocelyn_Boehm"
+      },
+      {
+        "puntaje": 1.39,
+        "comentario": "Hearty honey and goose stew, slow-cooked with bbq and hijiki for a comforting, flavorful meal.",
+        "correo": "Garrison_Weber-Abernathy5@hotmail.com",
+        "usuario": "Garrison_Weber-Abernathy72"
+      },
+      {
+        "puntaje": 2.25,
+        "comentario": "Juicy duck, grilled to your liking and drizzled with a bold tagine sauce, served alongside roasted broccoli.",
+        "correo": "Gerhard_Hirthe18@hotmail.com",
+        "usuario": "Gerhard_Hirthe38"
+      }
+    ],
+    "tags": ["Modern", "Tasty", "Ergonomic", "Soft", "Oriental", "Small"]
+  },
+  {
+    "id": 21,
+    "nombre": "fingerlime",
+    "precio": 7.081,
+    "stock": 1,
+    "peso": 18.009,
+    "esPerecible": false,
+    "volumen": 57.465,
+    "criticas": [
+      {
+        "puntaje": 4.65,
+        "comentario": "Our bitter kangaroo, slow-cooked to perfection, accompanied by steamed kohlrabi and a rich, savory gravy.",
+        "correo": "Brendon.Hahn90@gmail.com",
+        "usuario": "Brendon.Hahn73"
+      },
+      {
+        "puntaje": 1.4,
+        "comentario": "A special yellow apple juice concentrate from Svalbard & Jan Mayen Islands. To support the strong flavor it is sided with a tablespoon of fenugreek.",
+        "correo": "Arvid.Gottlieb@gmail.com",
+        "usuario": "Arvid_Gottlieb79"
+      },
+      {
+        "puntaje": 1.84,
+        "comentario": "A robust savory stew featuring Rajasthani flavors, loaded with fluffy meat, spicy vegetables, and a bitter, spicy broth.",
+        "correo": "Boris.Torp59@gmail.com",
+        "usuario": "Boris.Torp29"
+      },
+      {
+        "puntaje": 1.02,
+        "comentario": "Juicy ostrich, grilled to your liking and drizzled with a bold celery sauce, served alongside roasted broccoli.",
+        "correo": "Katarina.Moore59@gmail.com",
+        "usuario": "Katarina.Moore"
+      },
+      {
+        "puntaje": 1.27,
+        "comentario": "Grilled rabbit kebabs, marinated in Brazilian spices and served with a fresh swiss chard and mulberry salad.",
+        "correo": "Jessy.Wilkinson-Borer@gmail.com",
+        "usuario": "Jessy_Wilkinson-Borer42"
+      }
+    ],
+    "tags": ["Intelligent", "Unbranded", "Rustic", "Tasty"]
+  },
+  {
+    "id": 22,
+    "nombre": "mint",
+    "precio": 3.217,
+    "stock": 3,
+    "peso": 15.903,
+    "esPerecible": false,
+    "volumen": 33.301,
+    "criticas": [
+      {
+        "puntaje": 0.59,
+        "comentario": "A delightful tart combining savory green pepper and sweet plum, set in a buttery pastry shell and finished with a hint of basil.",
+        "correo": "Carey.Vandervort@yahoo.com",
+        "usuario": "Carey_Vandervort84"
+      },
+      {
+        "puntaje": 0.27,
+        "comentario": "Tender lamb skewers, glazed with a sweet and tangy corella pear sauce, served over a bed of fragrant jasmine rice.",
+        "correo": "Juana.OHara@yahoo.com",
+        "usuario": "Juana_OHara"
+      },
+      {
+        "puntaje": 3.33,
+        "comentario": "Tenderly braised kangaroo in a rich mace and parsnip sauce, served with a side of creamy sweet potato.",
+        "correo": "Guiseppe_Fisher@hotmail.com",
+        "usuario": "Guiseppe_Fisher"
+      },
+      {
+        "puntaje": 1.76,
+        "comentario": "A classic pie filled with delicious venison and spicy hokkien noodles, baked in a sweet pastry crust and topped with a golden-brown lattice.",
+        "correo": "Anabelle_Renner@yahoo.com",
+        "usuario": "Anabelle.Renner"
+      },
+      {
+        "puntaje": 2.57,
+        "comentario": "A heartwarming Cajun soup, featuring fresh coriander seed and an aromatic blend of traditional spices.",
+        "correo": "Harold_Bergnaum10@yahoo.com",
+        "usuario": "Harold.Bergnaum47"
+      }
+    ],
+    "tags": [
+      "Ergonomic",
+      "Practical",
+      "Small",
+      "Rustic",
+      "Tasty",
+      "Intelligent",
+      "Oriental"
+    ]
+  },
+  {
+    "id": 23,
+    "nombre": "amaranth",
+    "precio": 9.592,
+    "stock": 2,
+    "peso": 17.535,
+    "esPerecible": true,
+    "volumen": 27.113,
+    "criticas": [
+      {
+        "puntaje": 4.53,
+        "comentario": "A robust rich stew featuring Zanzibari flavors, loaded with spicy meat, sour vegetables, and a moist, spicy broth.",
+        "correo": "Candace.Dibbert23@hotmail.com",
+        "usuario": "Candace_Dibbert"
+      },
+      {
+        "puntaje": 4.78,
+        "comentario": "Hearty tea oil and rabbit stew, slow-cooked with curry and onion for a comforting, flavorful meal.",
+        "correo": "Antonia.Johns88@gmail.com",
+        "usuario": "Antonia_Johns54"
+      },
+      {
+        "puntaje": 1.94,
+        "comentario": "Our crunchy venison, slow-cooked to perfection, accompanied by steamed chinese cabbage and a rich, savory gravy.",
+        "correo": "Zita.OConner-Wisoky@yahoo.com",
+        "usuario": "Zita_OConner-Wisoky"
+      },
+      {
+        "puntaje": 3.79,
+        "comentario": "A robust sweet stew featuring Assyrian flavors, loaded with golden meat, moist vegetables, and a sour, bitter broth.",
+        "correo": "Houston.Volkman47@yahoo.com",
+        "usuario": "Houston_Volkman6"
+      },
+      {
+        "puntaje": 4.64,
+        "comentario": "A classic pie filled with delicious quail and savory mace, baked in a juicy pastry crust and topped with a golden-brown lattice.",
+        "correo": "Yasmine_Lesch@gmail.com",
+        "usuario": "Yasmine_Lesch"
+      }
+    ],
+    "tags": ["Refined", "Frozen", "Generic", "Luxurious"]
+  },
+  {
+    "id": 24,
+    "nombre": "fish sauce",
+    "precio": 2.332,
+    "stock": 8,
+    "peso": 10.959,
+    "esPerecible": true,
+    "volumen": 29.609,
+    "criticas": [
+      {
+        "puntaje": 1.68,
+        "comentario": "A delightful tart combining smoky carrot and sweet mango, set in a buttery pastry shell and finished with a hint of mango.",
+        "correo": "Alvena.Larson33@hotmail.com",
+        "usuario": "Alvena_Larson24"
+      },
+      {
+        "puntaje": 0.79,
+        "comentario": "Baked mandarins-stuffed rabbit, seasoned with bay leaves and juicy herbs, accompanied by roasted english spinach medley.",
+        "correo": "Osbaldo.Gusikowski@yahoo.com",
+        "usuario": "Osbaldo_Gusikowski"
+      },
+      {
+        "puntaje": 4.93,
+        "comentario": "Juicy emu, grilled to your liking and drizzled with a bold asafoetida sauce, served alongside roasted radish.",
+        "correo": "Deonte_Breitenberg@gmail.com",
+        "usuario": "Deonte.Breitenberg58"
+      },
+      {
+        "puntaje": 0.12,
+        "comentario": "Three cashews with chives, capers, endive, turnips and goji berry. With a side of baked cantaloupe, and your choice of starfruit or banana.",
+        "correo": "Ruben.Abshire97@yahoo.com",
+        "usuario": "Ruben.Abshire63"
+      },
+      {
+        "puntaje": 4.34,
+        "comentario": "Our juicy venison, slow-cooked to perfection, accompanied by steamed endive and a rich, savory gravy.",
+        "correo": "Rosalia.Kulas@yahoo.com",
+        "usuario": "Rosalia.Kulas"
+      }
+    ],
+    "tags": ["Unbranded"]
+  },
+  {
+    "id": 25,
+    "nombre": "pear juice",
+    "precio": 10.495,
+    "stock": 5,
+    "peso": 9.128,
+    "esPerecible": false,
+    "volumen": 46.207,
+    "criticas": [
+      {
+        "puntaje": 3.33,
+        "comentario": "52-day aged pigeon steak, with choice of 4 sides.",
+        "correo": "Abel_Ratke55@gmail.com",
+        "usuario": "Abel_Ratke"
+      },
+      {
+        "puntaje": 3.33,
+        "comentario": "Three white wine vinegar with bok choy, bean shoots, asian greens, butternut lettuce and apple juice. With a side of baked kiwiberry, and your choice of sultanas or pumpkin seed.",
+        "correo": "Justus_Bauch@gmail.com",
+        "usuario": "Justus.Bauch"
+      },
+      {
+        "puntaje": 2.8,
+        "comentario": "A robust salty stew featuring Bulgarian flavors, loaded with fluffy meat, salty vegetables, and a crispy, juicy broth.",
+        "correo": "Rodolfo_Lemke63@yahoo.com",
+        "usuario": "Rodolfo_Lemke56"
+      },
+      {
+        "puntaje": 3.66,
+        "comentario": "Tender pigeon skewers, glazed with a sweet and tangy plum sauce, served over a bed of fragrant jasmine rice.",
+        "correo": "Lyric.Metz@gmail.com",
+        "usuario": "Lyric.Metz89"
+      },
+      {
+        "puntaje": 2.18,
+        "comentario": "30-day aged chicken steak, with choice of 3 sides.",
+        "correo": "Ryley_Feest@hotmail.com",
+        "usuario": "Ryley_Feest"
+      }
+    ],
+    "tags": ["Oriental", "Unbranded", "Practical", "Incredible", "Modern"]
+  },
+  {
+    "id": 26,
+    "nombre": "warehou",
+    "precio": 5.512,
+    "stock": 7,
+    "peso": 16.801,
+    "esPerecible": true,
+    "volumen": 20.422,
+    "criticas": [
+      {
+        "puntaje": 2.53,
+        "comentario": "Grilled duck kebabs, marinated in Gujarati spices and served with a fresh carob carrot and dried apricot salad.",
+        "correo": "Louisa.Hamill@gmail.com",
+        "usuario": "Louisa.Hamill"
+      },
+      {
+        "puntaje": 1.89,
+        "comentario": "A delightful tart combining crunchy broccolini and sweet cranberry, set in a buttery pastry shell and finished with a hint of mustard.",
+        "correo": "Caesar.OKeefe@hotmail.com",
+        "usuario": "Caesar.OKeefe30"
+      },
+      {
+        "puntaje": 3.28,
+        "comentario": "Three tabasco with radicchio, rhubarb, rhubarb, french eschallots and mango. With a side of baked blueberry, and your choice of broccolini or garam masala.",
+        "correo": "Kylee.Lynch11@gmail.com",
+        "usuario": "Kylee_Lynch8"
+      },
+      {
+        "puntaje": 2.24,
+        "comentario": "48-day aged ostrich steak, with choice of 4 sides.",
+        "correo": "Casper.Hintz@yahoo.com",
+        "usuario": "Casper_Hintz"
+      },
+      {
+        "puntaje": 1.74,
+        "comentario": "A heartwarming Hyderabad soup, featuring fresh dates and an aromatic blend of traditional spices.",
+        "correo": "Maud_Greenholt90@yahoo.com",
+        "usuario": "Maud_Greenholt"
+      }
+    ],
+    "tags": [
+      "Fantastic",
+      "Elegant",
+      "Frozen",
+      "Electronic",
+      "Intelligent",
+      "Tasty",
+      "Handmade",
+      "Ergonomic",
+      "Luxurious"
+    ]
+  },
+  {
+    "id": 27,
+    "nombre": "stevia",
+    "precio": 8.871,
+    "stock": 4,
+    "peso": 16.135,
+    "esPerecible": true,
+    "volumen": 51.56,
+    "criticas": [
+      {
+        "puntaje": 1.26,
+        "comentario": "A heartwarming Ukrainian soup, featuring fresh common cultivated mushrooms and an aromatic blend of traditional spices.",
+        "correo": "Teresa_Lindgren-Yundt@hotmail.com",
+        "usuario": "Teresa.Lindgren-Yundt"
+      },
+      {
+        "puntaje": 0.97,
+        "comentario": "A special violet strawberries from Guinea-Bissau. To support the strong flavor it is sided with a tablespoon of nutmeg.",
+        "correo": "Lourdes.Corkery@hotmail.com",
+        "usuario": "Lourdes.Corkery62"
+      },
+      {
+        "puntaje": 4.55,
+        "comentario": "27-day aged lamb steak, with choice of 3 sides.",
+        "correo": "Elmer.Upton40@yahoo.com",
+        "usuario": "Elmer.Upton20"
+      },
+      {
+        "puntaje": 0.67,
+        "comentario": "Crispy fried turkey bites, seasoned with vanilla and served with a tangy lime dipping sauce.",
+        "correo": "Reyes.Conroy@yahoo.com",
+        "usuario": "Reyes_Conroy85"
+      },
+      {
+        "puntaje": 0.79,
+        "comentario": "A robust fresh stew featuring Kurdish flavors, loaded with bitter meat, juicy vegetables, and a juicy, smoky broth.",
+        "correo": "Guy_Tillman9@gmail.com",
+        "usuario": "Guy.Tillman"
+      }
+    ],
+    "tags": [
+      "Tasty",
+      "Recycled",
+      "Intelligent",
+      "Fresh",
+      "Modern",
+      "Incredible",
+      "Handcrafted",
+      "Luxurious"
+    ]
+  },
+  {
+    "id": 28,
+    "nombre": "marjoram",
+    "precio": 8.538,
+    "stock": 5,
+    "peso": 17.448,
+    "esPerecible": true,
+    "volumen": 99.083,
+    "criticas": [
+      {
+        "puntaje": 1.99,
+        "comentario": "A robust zesty stew featuring Lebanese flavors, loaded with moist meat, savory vegetables, and a juicy, fresh broth.",
+        "correo": "Geovanny.Johnson60@gmail.com",
+        "usuario": "Geovanny.Johnson"
+      },
+      {
+        "puntaje": 3.5,
+        "comentario": "A classic pie filled with delicious goose and smoky pandanus leaves, baked in a fresh pastry crust and topped with a golden-brown lattice.",
+        "correo": "Craig.MacGyver97@yahoo.com",
+        "usuario": "Craig_MacGyver71"
+      },
+      {
+        "puntaje": 1.92,
+        "comentario": "A robust golden stew featuring South Indian flavors, loaded with fresh meat, smoky vegetables, and a delicious, golden broth.",
+        "correo": "Norbert_Thompson@yahoo.com",
+        "usuario": "Norbert.Thompson32"
+      },
+      {
+        "puntaje": 1.04,
+        "comentario": "53-day aged chicken steak, with choice of 4 sides.",
+        "correo": "Gwen.Wiza@yahoo.com",
+        "usuario": "Gwen_Wiza35"
+      },
+      {
+        "puntaje": 2.31,
+        "comentario": "Hearty barramundi and rabbit stew, slow-cooked with rice paper and capers for a comforting, flavorful meal.",
+        "correo": "Laurianne_Ziemann28@yahoo.com",
+        "usuario": "Laurianne.Ziemann46"
+      }
+    ],
+    "tags": ["Soft", "Licensed", "Rustic", "Electronic", "Elegant"]
+  },
+  {
+    "id": 29,
+    "nombre": "walnut",
+    "precio": 14.682,
+    "stock": 4,
+    "peso": 12.776,
+    "esPerecible": true,
+    "volumen": 39.018,
+    "criticas": [
+      {
+        "puntaje": 1.74,
+        "comentario": "A slow-roasted Tricolored Blackbird with a crispy, tender exterior. Stuffed with guava and covered in custard apple sauce. Sides with dried chinese broccoli puree and wild cos lettuce.",
+        "correo": "Armand.Rippin41@hotmail.com",
+        "usuario": "Armand_Rippin"
+      },
+      {
+        "puntaje": 3.66,
+        "comentario": "Fresh kenchur with a pinch of anise, topped by a caramelized longan with whipped cream",
+        "correo": "Kristoffer_Pacocha-Ziemann79@gmail.com",
+        "usuario": "Kristoffer.Pacocha-Ziemann34"
+      },
+      {
+        "puntaje": 3.68,
+        "comentario": "A delightful tart combining zesty french eschallots and sweet tangelo, set in a buttery pastry shell and finished with a hint of peppercorns.",
+        "correo": "Catalina.Gulgowski23@yahoo.com",
+        "usuario": "Catalina_Gulgowski30"
+      },
+      {
+        "puntaje": 0.28,
+        "comentario": "A robust zesty stew featuring Caribbean flavors, loaded with creamy meat, salty vegetables, and a smoky, smoky broth.",
+        "correo": "Karolann_Murray@hotmail.com",
+        "usuario": "Karolann.Murray"
+      },
+      {
+        "puntaje": 3.99,
+        "comentario": "A heartwarming Bashkir soup, featuring fresh muesli and an aromatic blend of traditional spices.",
+        "correo": "Sally_Greenfelder@gmail.com",
+        "usuario": "Sally.Greenfelder97"
+      }
+    ],
+    "tags": [
+      "Sleek",
+      "Bespoke",
+      "Refined",
+      "Unbranded",
+      "Fresh",
+      "Practical",
+      "Awesome"
+    ]
+  },
+  {
+    "id": 30,
+    "nombre": "dark chocolate",
+    "precio": 14.128,
+    "stock": 8,
+    "peso": 16.587,
+    "esPerecible": true,
+    "volumen": 35.585,
+    "criticas": [
+      {
+        "puntaje": 0.79,
+        "comentario": "A robust moist stew featuring Punjabi flavors, loaded with tangy meat, golden vegetables, and a moist, bitter broth.",
+        "correo": "Linnie.Buckridge@yahoo.com",
+        "usuario": "Linnie_Buckridge73"
+      },
+      {
+        "puntaje": 3.75,
+        "comentario": "92-day aged goose steak, with choice of 3 sides.",
+        "correo": "Hanna.Olson@yahoo.com",
+        "usuario": "Hanna_Olson61"
+      },
+      {
+        "puntaje": 0.91,
+        "comentario": "Tenderly braised chicken in a rich colombo and asian greens sauce, served with a side of creamy potatoes.",
+        "correo": "Lowell.Kuvalis@gmail.com",
+        "usuario": "Lowell.Kuvalis72"
+      },
+      {
+        "puntaje": 3.11,
+        "comentario": "Tender quail skewers, glazed with a sweet and tangy tomato sauce, served over a bed of fragrant jasmine rice.",
+        "correo": "Kayleigh.Keebler@gmail.com",
+        "usuario": "Kayleigh.Keebler50"
+      },
+      {
+        "puntaje": 3.17,
+        "comentario": "A succulent beef steak, encased in a golden sweet laurel crust, served with a side of french lavender mashed chives.",
+        "correo": "Irving.Grimes43@hotmail.com",
+        "usuario": "Irving_Grimes"
+      }
+    ],
+    "tags": ["Refined"]
+  }
+]
