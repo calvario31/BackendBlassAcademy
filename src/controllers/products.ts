@@ -33,6 +33,18 @@ export async function update(request: FastifyRequest, reply: FastifyReply) {
   if (!product) return reply.status(404).send();
 
   return {
+    ...(request.body as any),
+    id,
+  };
+}
+
+export async function patch(request: FastifyRequest, reply: FastifyReply) {
+  const { id } = request.params as { id: string };
+  const product = findBy(id);
+
+  if (!product) return reply.status(404).send();
+
+  return {
     ...product,
     ...(request.body as any),
   };

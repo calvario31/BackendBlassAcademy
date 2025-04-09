@@ -1,10 +1,11 @@
 import { FastifyInstance } from "fastify";
-import { getAll, getById, create, update, deleteById } from "../controllers/products";
+import { getAll, getById, create, patch, deleteById, update } from "../controllers/products";
 
 export default async function routes(fastify: FastifyInstance) {
   fastify.get("/products", getAll);
   fastify.get("/products/:id", getById);
   fastify.post("/products", create);
-  fastify.patch("/products/:id", update);
+  fastify.put("/products/:id", update);
+  fastify.patch("/products/:id", patch);
   fastify.delete("/products/:id", deleteById);
 }
