@@ -10,8 +10,8 @@ function emptyPayloadResolver(reply: FastifyReply) {
   return reply.code(400).send({ message: "Debe especificar un payload" });
 }
 
-function notFoundResolver(reply: FastifyReply) {
-  return reply.status(404).send();
+function notFoundResolver(reply: FastifyReply, id: string) {
+  return reply.status(404).send({ message: `Producto con id ${id} no encontrado` });
 }
 
 export async function getAll(request: FastifyRequest, reply: FastifyReply) {
@@ -22,7 +22,7 @@ export async function getById(request: FastifyRequest, reply: FastifyReply) {
   const { id } = request.params as { id: string };
   const product = findBy(id);
 
-  if (!product) return notFoundResolver(reply);
+  if (!product) return notFoundResolver(reply, id);
 
   return product;
 }
@@ -42,7 +42,7 @@ export async function update(request: FastifyRequest, reply: FastifyReply) {
   const { id } = request.params as { id: string };
   const product = findBy(id);
 
-  if (!product) return notFoundResolver(reply);
+  if (!product) return notFoundResolver(reply, id);
 
   if (isEmptyPayload(request.body)) {
     return emptyPayloadResolver(reply);
@@ -58,7 +58,7 @@ export async function patch(request: FastifyRequest, reply: FastifyReply) {
   const { id } = request.params as { id: string };
   const product = findBy(id);
 
-  if (!product) return notFoundResolver(reply);
+  if (!product) return notFoundResolver(reply, id);
 
   if (isEmptyPayload(request.body)) {
     return emptyPayloadResolver(reply);
@@ -74,7 +74,7 @@ export async function deleteById(request: FastifyRequest, reply: FastifyReply) {
   const { id } = request.params as { id: string };
   const product = findBy(id);
 
-  if (!product) return notFoundResolver(reply);
+  if (!product) return notFoundResolver(reply, id);
 
   return {
     message: `Producto con id ${id} se ha eliminado satisfactoriamente`,
