@@ -14,13 +14,13 @@ export function filterByQuery(data: any[], query: any) {
     filteredData = filteredData.filter((p) => p.nombre === query.nombre);
   }
   switch (query.filterBy) {
-    case "esPerecible": {
+    case "perecible": {
       filteredData = filteredData.filter(
         (p) => p[query.filterBy] === (query.value === "true"),
       );
       break;
     }
-    case "tags": {
+    case "etiquetas": {
       filteredData = filteredData.filter((p) =>
         p[query.filterBy].includes(query.value),
       );

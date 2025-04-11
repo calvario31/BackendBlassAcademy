@@ -3,9 +3,9 @@
     "id": 1,
     "nombre": "quark",
     "precio": 16.764,
-    "stock": 7,
+    "cantidad": 7,
     "peso": 9.18,
-    "esPerecible": true,
+    "perecible": true,
     "volumen": 62.26,
     "criticas": [
       {
@@ -39,15 +39,15 @@
         "usuario": "Brennan_Russel69"
       }
     ],
-    "tags": ["Handmade", "Modern", "Sleek", "Refined", "Elegant"]
+    "etiquetas": ["Handmade", "Modern", "Sleek", "Refined", "Elegant"]
   },
   {
     "id": 2,
     "nombre": "fresh chillies",
     "precio": 15.699,
-    "stock": 10,
+    "cantidad": 10,
     "peso": 12.704,
-    "esPerecible": false,
+    "perecible": false,
     "volumen": 31.603,
     "criticas": [
       {
@@ -81,7 +81,7 @@
         "usuario": "Salvador_Turner56"
       }
     ],
-    "tags": [
+    "etiquetas": [
       "Incredible",
       "Bespoke",
       "Modern",
@@ -97,9 +97,9 @@
     "id": 3,
     "nombre": "eggplant",
     "precio": 18.775,
-    "stock": 9,
+    "cantidad": 9,
     "peso": 9.648,
-    "esPerecible": true,
+    "perecible": true,
     "volumen": 42.883,
     "criticas": [
       {
@@ -133,7 +133,7 @@
         "usuario": "Joanne_Larson92"
       }
     ],
-    "tags": [
+    "etiquetas": [
       "Soft",
       "Intelligent",
       "Elegant",
@@ -149,9 +149,9 @@
     "id": 4,
     "nombre": "chickory",
     "precio": 5.515,
-    "stock": 2,
+    "cantidad": 2,
     "peso": 8.423,
-    "esPerecible": false,
+    "perecible": false,
     "volumen": 24.56,
     "criticas": [
       {
@@ -185,15 +185,15 @@
         "usuario": "Everardo_Paucek"
       }
     ],
-    "tags": ["Fantastic", "Sleek", "Generic", "Practical", "Unbranded"]
+    "etiquetas": ["Fantastic", "Sleek", "Generic", "Practical", "Unbranded"]
   },
   {
     "id": 5,
     "nombre": "vegetable oil",
     "precio": 19.594,
-    "stock": 3,
+    "cantidad": 3,
     "peso": 6.606,
-    "esPerecible": false,
+    "perecible": false,
     "volumen": 66.182,
     "criticas": [
       {
@@ -227,15 +227,15 @@
         "usuario": "Sheldon_Hudson"
       }
     ],
-    "tags": ["Handcrafted"]
+    "etiquetas": ["Handcrafted"]
   },
   {
     "id": 6,
     "nombre": "jewfish",
     "precio": 4.162,
-    "stock": 1,
+    "cantidad": 1,
     "peso": 7.793,
-    "esPerecible": false,
+    "perecible": false,
     "volumen": 76.231,
     "criticas": [
       {
@@ -269,15 +269,15 @@
         "usuario": "Justice.Parker"
       }
     ],
-    "tags": ["Fresh", "Rustic"]
+    "etiquetas": ["Fresh", "Rustic"]
   },
   {
     "id": 7,
     "nombre": "cheddar",
     "precio": 5.791,
-    "stock": 4,
+    "cantidad": 4,
     "peso": 15.733,
-    "esPerecible": false,
+    "perecible": false,
     "volumen": 71.972,
     "criticas": [
       {
@@ -311,7 +311,7 @@
         "usuario": "Kaylee.Torphy81"
       }
     ],
-    "tags": [
+    "etiquetas": [
       "Rustic",
       "Elegant",
       "Recycled",
@@ -325,9 +325,9 @@
     "id": 8,
     "nombre": "avocado",
     "precio": 12.58,
-    "stock": 3,
+    "cantidad": 3,
     "peso": 17.628,
-    "esPerecible": true,
+    "perecible": true,
     "volumen": 83.378,
     "criticas": [
       {
@@ -361,7 +361,7 @@
         "usuario": "Rosella.Carter-Witting"
       }
     ],
-    "tags": [
+    "etiquetas": [
       "Ergonomic",
       "Tasty",
       "Refined",
@@ -377,9 +377,9 @@
     "id": 9,
     "nombre": "ajowan seed",
     "precio": 2.546,
-    "stock": 2,
+    "cantidad": 2,
     "peso": 17.659,
-    "esPerecible": false,
+    "perecible": false,
     "volumen": 52.762,
     "criticas": [
       {
@@ -413,15 +413,15 @@
         "usuario": "Aurore_Osinski2"
       }
     ],
-    "tags": ["Awesome"]
+    "etiquetas": ["Awesome"]
   },
   {
     "id": 10,
     "nombre": "marjoram",
     "precio": 4.892,
-    "stock": 3,
+    "cantidad": 3,
     "peso": 3.71,
-    "esPerecible": true,
+    "perecible": true,
     "volumen": 58.396,
     "criticas": [
       {
@@ -455,7 +455,7 @@
         "usuario": "Spencer.Walter"
       }
     ],
-    "tags": [
+    "etiquetas": [
       "Licensed",
       "Practical",
       "Intelligent",
@@ -468,9 +468,9 @@
     "id": 11,
     "nombre": "haricot beans",
     "precio": 4.62,
-    "stock": 4,
+    "cantidad": 4,
     "peso": 19.26,
-    "esPerecible": false,
+    "perecible": false,
     "volumen": 91.474,
     "criticas": [
       {
@@ -504,15 +504,15 @@
         "usuario": "Una_Kunde"
       }
     ],
-    "tags": ["Sleek"]
+    "etiquetas": ["Sleek"]
   },
   {
     "id": 12,
     "nombre": "goji berry",
     "precio": 14.28,
-    "stock": 1,
+    "cantidad": 1,
     "peso": 11.402,
-    "esPerecible": false,
+    "perecible": false,
     "volumen": 57.667,
     "criticas": [
       {
@@ -546,15 +546,15 @@
         "usuario": "Percy_Christiansen"
       }
     ],
-    "tags": ["Incredible", "Awesome", "Sleek"]
+    "etiquetas": ["Incredible", "Awesome", "Sleek"]
   },
   {
     "id": 13,
     "nombre": "fresh chillies",
     "precio": 11.432,
-    "stock": 3,
+    "cantidad": 3,
     "peso": 10.055,
-    "esPerecible": true,
+    "perecible": true,
     "volumen": 47.421,
     "criticas": [
       {
@@ -588,15 +588,15 @@
         "usuario": "Jimmy.Johnson91"
       }
     ],
-    "tags": ["Luxurious", "Small", "Elegant", "Generic", "Oriental"]
+    "etiquetas": ["Luxurious", "Small", "Elegant", "Generic", "Oriental"]
   },
   {
     "id": 14,
     "nombre": "french eschallots",
     "precio": 15.369,
-    "stock": 10,
+    "cantidad": 10,
     "peso": 3.657,
-    "esPerecible": true,
+    "perecible": true,
     "volumen": 85.219,
     "criticas": [
       {
@@ -630,15 +630,15 @@
         "usuario": "Alfonzo.Bradtke37"
       }
     ],
-    "tags": ["Sleek", "Modern", "Awesome"]
+    "etiquetas": ["Sleek", "Modern", "Awesome"]
   },
   {
     "id": 15,
     "nombre": "guava",
     "precio": 3.372,
-    "stock": 2,
+    "cantidad": 2,
     "peso": 6.525,
-    "esPerecible": true,
+    "perecible": true,
     "volumen": 46.67,
     "criticas": [
       {
@@ -672,15 +672,15 @@
         "usuario": "Creola_Bechtelar20"
       }
     ],
-    "tags": ["Bespoke", "Awesome", "Practical", "Refined", "Generic"]
+    "etiquetas": ["Bespoke", "Awesome", "Practical", "Refined", "Generic"]
   },
   {
     "id": 16,
     "nombre": "barley",
     "precio": 12.844,
-    "stock": 8,
+    "cantidad": 8,
     "peso": 12.32,
-    "esPerecible": true,
+    "perecible": true,
     "volumen": 36.375,
     "criticas": [
       {
@@ -714,15 +714,15 @@
         "usuario": "Adolfo.Nader-Sipes"
       }
     ],
-    "tags": ["Modern", "Sleek", "Ergonomic", "Gorgeous", "Luxurious", "Soft"]
+    "etiquetas": ["Modern", "Sleek", "Ergonomic", "Gorgeous", "Luxurious", "Soft"]
   },
   {
     "id": 17,
     "nombre": "curry leaves",
     "precio": 3.716,
-    "stock": 2,
+    "cantidad": 2,
     "peso": 8.254,
-    "esPerecible": false,
+    "perecible": false,
     "volumen": 87.847,
     "criticas": [
       {
@@ -756,15 +756,15 @@
         "usuario": "Mireya_Upton"
       }
     ],
-    "tags": ["Recycled", "Elegant", "Rustic"]
+    "etiquetas": ["Recycled", "Elegant", "Rustic"]
   },
   {
     "id": 18,
     "nombre": "rhubarb",
     "precio": 16.869,
-    "stock": 2,
+    "cantidad": 2,
     "peso": 7.247,
-    "esPerecible": false,
+    "perecible": false,
     "volumen": 27.917,
     "criticas": [
       {
@@ -798,7 +798,7 @@
         "usuario": "Rigoberto.Bergstrom7"
       }
     ],
-    "tags": [
+    "etiquetas": [
       "Unbranded",
       "Practical",
       "Handmade",
@@ -813,9 +813,9 @@
     "id": 19,
     "nombre": "besan",
     "precio": 8.973,
-    "stock": 4,
+    "cantidad": 4,
     "peso": 5.648,
-    "esPerecible": true,
+    "perecible": true,
     "volumen": 69.33,
     "criticas": [
       {
@@ -849,15 +849,15 @@
         "usuario": "Palma.Torphy-Huels24"
       }
     ],
-    "tags": ["Frozen", "Handcrafted", "Modern", "Small"]
+    "etiquetas": ["Frozen", "Handcrafted", "Modern", "Small"]
   },
   {
     "id": 20,
     "nombre": "margarine",
     "precio": 16.669,
-    "stock": 6,
+    "cantidad": 6,
     "peso": 17.704,
-    "esPerecible": true,
+    "perecible": true,
     "volumen": 42.434,
     "criticas": [
       {
@@ -891,15 +891,15 @@
         "usuario": "Gerhard_Hirthe38"
       }
     ],
-    "tags": ["Modern", "Tasty", "Ergonomic", "Soft", "Oriental", "Small"]
+    "etiquetas": ["Modern", "Tasty", "Ergonomic", "Soft", "Oriental", "Small"]
   },
   {
     "id": 21,
     "nombre": "fingerlime",
     "precio": 7.081,
-    "stock": 1,
+    "cantidad": 1,
     "peso": 18.009,
-    "esPerecible": false,
+    "perecible": false,
     "volumen": 57.465,
     "criticas": [
       {
@@ -933,15 +933,15 @@
         "usuario": "Jessy_Wilkinson-Borer42"
       }
     ],
-    "tags": ["Intelligent", "Unbranded", "Rustic", "Tasty"]
+    "etiquetas": ["Intelligent", "Unbranded", "Rustic", "Tasty"]
   },
   {
     "id": 22,
     "nombre": "mint",
     "precio": 3.217,
-    "stock": 3,
+    "cantidad": 3,
     "peso": 15.903,
-    "esPerecible": false,
+    "perecible": false,
     "volumen": 33.301,
     "criticas": [
       {
@@ -975,7 +975,7 @@
         "usuario": "Harold.Bergnaum47"
       }
     ],
-    "tags": [
+    "etiquetas": [
       "Ergonomic",
       "Practical",
       "Small",
@@ -989,9 +989,9 @@
     "id": 23,
     "nombre": "amaranth",
     "precio": 9.592,
-    "stock": 2,
+    "cantidad": 2,
     "peso": 17.535,
-    "esPerecible": true,
+    "perecible": true,
     "volumen": 27.113,
     "criticas": [
       {
@@ -1025,15 +1025,15 @@
         "usuario": "Yasmine_Lesch"
       }
     ],
-    "tags": ["Refined", "Frozen", "Generic", "Luxurious"]
+    "etiquetas": ["Refined", "Frozen", "Generic", "Luxurious"]
   },
   {
     "id": 24,
     "nombre": "fish sauce",
     "precio": 2.332,
-    "stock": 8,
+    "cantidad": 8,
     "peso": 10.959,
-    "esPerecible": true,
+    "perecible": true,
     "volumen": 29.609,
     "criticas": [
       {
@@ -1067,15 +1067,15 @@
         "usuario": "Rosalia.Kulas"
       }
     ],
-    "tags": ["Unbranded"]
+    "etiquetas": ["Unbranded"]
   },
   {
     "id": 25,
     "nombre": "pear juice",
     "precio": 10.495,
-    "stock": 5,
+    "cantidad": 5,
     "peso": 9.128,
-    "esPerecible": false,
+    "perecible": false,
     "volumen": 46.207,
     "criticas": [
       {
@@ -1109,15 +1109,15 @@
         "usuario": "Ryley_Feest"
       }
     ],
-    "tags": ["Oriental", "Unbranded", "Practical", "Incredible", "Modern"]
+    "etiquetas": ["Oriental", "Unbranded", "Practical", "Incredible", "Modern"]
   },
   {
     "id": 26,
     "nombre": "warehou",
     "precio": 5.512,
-    "stock": 7,
+    "cantidad": 7,
     "peso": 16.801,
-    "esPerecible": true,
+    "perecible": true,
     "volumen": 20.422,
     "criticas": [
       {
@@ -1151,7 +1151,7 @@
         "usuario": "Maud_Greenholt"
       }
     ],
-    "tags": [
+    "etiquetas": [
       "Fantastic",
       "Elegant",
       "Frozen",
@@ -1167,9 +1167,9 @@
     "id": 27,
     "nombre": "stevia",
     "precio": 8.871,
-    "stock": 4,
+    "cantidad": 4,
     "peso": 16.135,
-    "esPerecible": true,
+    "perecible": true,
     "volumen": 51.56,
     "criticas": [
       {
@@ -1203,7 +1203,7 @@
         "usuario": "Guy.Tillman"
       }
     ],
-    "tags": [
+    "etiquetas": [
       "Tasty",
       "Recycled",
       "Intelligent",
@@ -1218,9 +1218,9 @@
     "id": 28,
     "nombre": "marjoram",
     "precio": 8.538,
-    "stock": 5,
+    "cantidad": 5,
     "peso": 17.448,
-    "esPerecible": true,
+    "perecible": true,
     "volumen": 99.083,
     "criticas": [
       {
@@ -1254,15 +1254,15 @@
         "usuario": "Laurianne.Ziemann46"
       }
     ],
-    "tags": ["Soft", "Licensed", "Rustic", "Electronic", "Elegant"]
+    "etiquetas": ["Soft", "Licensed", "Rustic", "Electronic", "Elegant"]
   },
   {
     "id": 29,
     "nombre": "walnut",
     "precio": 14.682,
-    "stock": 4,
+    "cantidad": 4,
     "peso": 12.776,
-    "esPerecible": true,
+    "perecible": true,
     "volumen": 39.018,
     "criticas": [
       {
@@ -1296,7 +1296,7 @@
         "usuario": "Sally.Greenfelder97"
       }
     ],
-    "tags": [
+    "etiquetas": [
       "Sleek",
       "Bespoke",
       "Refined",
@@ -1310,9 +1310,9 @@
     "id": 30,
     "nombre": "dark chocolate",
     "precio": 14.128,
-    "stock": 8,
+    "cantidad": 8,
     "peso": 16.587,
-    "esPerecible": true,
+    "perecible": true,
     "volumen": 35.585,
     "criticas": [
       {
@@ -1346,6 +1346,6 @@
         "usuario": "Irving_Grimes"
       }
     ],
-    "tags": ["Refined"]
+    "etiquetas": ["Refined"]
   }
 ]
