@@ -10,8 +10,8 @@ export function findAll(query: any) {
 
 export function filterByQuery(data: any[], query: any) {
   let filteredData = data;
-  if (query.q) {
-    filteredData = filteredData.filter((p) => p.nombre === query.q);
+  if (query.nombre) {
+    filteredData = filteredData.filter((p) => p.nombre === query.nombre);
   }
   switch (query.filterBy) {
     case "esPerecible": {
