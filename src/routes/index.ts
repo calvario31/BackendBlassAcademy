@@ -1,5 +1,12 @@
 import { FastifyInstance } from "fastify";
-import { getAll, getById, create, patch, deleteById, update } from "../controllers/products";
+import {
+  getAll,
+  getById,
+  create,
+  patch,
+  deleteById,
+  update,
+} from "../controllers/products";
 
 export default async function routes(fastify: FastifyInstance) {
   fastify.get("/products", getAll);
