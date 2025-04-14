@@ -10,14 +10,9 @@ function emptyPayloadResolver(reply: FastifyReply) {
   return reply.code(400).send({ message: "Debe especificar un payload" });
 }
 
-function notFoundResolver(reply: FastifyReply, id: string) {
-  return reply
-    .status(404)
-    .send({ message: `Producto con id ${id} no encontrado` });
-}
-
 export interface MainControllerProps {
   service: MainService;
+  resourceName: string;
 }
 
 export class MainController {
@@ -31,7 +26,7 @@ export class MainController {
     const { id } = request.params as { id: string };
     const product = this.props.service.findBy(id);
 
-    if (!product) return notFoundResolver(reply, id);
+    if (!product) return this.notFoundResolver(reply, id);
 
     return product;
   }
@@ -51,7 +46,7 @@ export class MainController {
     const { id } = request.params as { id: string };
     const product = this.props.service.findBy(id);
 
-    if (!product) return notFoundResolver(reply, id);
+    if (!product) return this.notFoundResolver(reply, id);
 
     if (isEmptyPayload(request.body)) {
       return emptyPayloadResolver(reply);
@@ -67,7 +62,7 @@ export class MainController {
     const { id } = request.params as { id: string };
     const product = this.props.service.findBy(id);
 
-    if (!product) return notFoundResolver(reply, id);
+    if (!product) return this.notFoundResolver(reply, id);
 
     if (isEmptyPayload(request.body)) {
       return emptyPayloadResolver(reply);
@@ -83,10 +78,16 @@ export class MainController {
     const { id } = request.params as { id: string };
     const product = this.props.service.findBy(id);
 
-    if (!product) return notFoundResolver(reply, id);
+    if (!product) return this.notFoundResolver(reply, id);
 
     return {
-      message: `Producto con id ${id} se ha eliminado satisfactoriamente`,
+      message: `${this.props.resourceName} con id ${id} se ha eliminado satisfactoriamente`,
     };
+  }
+
+  private notFoundResolver(reply: FastifyReply, id: string) {
+    return reply
+      .status(404)
+      .send({ message: `${this.props.resourceName} con id ${id} no encontrado` });
   }
 }
