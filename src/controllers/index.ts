@@ -8,17 +8,17 @@ import {
 
 export const animalsController = new MainController({
   service: animalsService,
-  resourceName: "Animal"
+  resourceName: "Animal",
 });
 export const participantsController = new MainController({
   service: participantsService,
-  resourceName: "Participante"
+  resourceName: "Participante",
 });
 export const productsController = new MainController({
   service: productsService,
-  resourceName: "Producto"
+  resourceName: "Producto",
 });
 export const videogamesController = new MainController({
   service: videogamesService,
-  resourceName: "Videojuego"
+  resourceName: "Videojuego",
 });

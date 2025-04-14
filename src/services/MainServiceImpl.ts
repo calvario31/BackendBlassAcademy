@@ -13,4 +13,10 @@ export class MainServiceImpl implements MainService {
   findAll(query: any) {
     return orderByQuery(filterByQuery(this.props.resources, query), query);
   }
+  getKeysNotSupportedIn(body: any) {
+    const keys = Object.keys(body);
+    const resourceKeys = Object.keys(this.props.resources[0]);
+
+    return keys.filter((key) => !resourceKeys.includes(key));
+  }
 }

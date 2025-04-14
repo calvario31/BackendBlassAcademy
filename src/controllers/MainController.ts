@@ -10,6 +10,14 @@ function emptyPayloadResolver(reply: FastifyReply) {
   return reply.code(400).send({ message: "Debe especificar un payload" });
 }
 
+function keysNotSupportedResolver(reply: FastifyReply, keys: string[]) {
+  return reply
+    .code(400)
+    .send({
+      message: `Los siguientes campos no son aceptados para este recurso: ${keys.join(",")}`,
+    });
+}
+
 export interface MainControllerProps {
   service: MainService;
   resourceName: string;
@@ -32,9 +40,7 @@ export class MainController {
   }
 
   async create(request: FastifyRequest, reply: FastifyReply) {
-    if (isEmptyPayload(request.body)) {
-      return emptyPayloadResolver(reply);
-    }
+    if (this.validateBody(request, reply)) return;
 
     return reply.code(201).send({
       ...(request.body as any),
@@ -48,9 +54,7 @@ export class MainController {
 
     if (!product) return this.notFoundResolver(reply, id);
 
-    if (isEmptyPayload(request.body)) {
-      return emptyPayloadResolver(reply);
-    }
+    if (this.validateBody(request, reply)) return;
 
     return {
       ...(request.body as any),
@@ -64,9 +68,7 @@ export class MainController {
 
     if (!product) return this.notFoundResolver(reply, id);
 
-    if (isEmptyPayload(request.body)) {
-      return emptyPayloadResolver(reply);
-    }
+    if (this.validateBody(request, reply)) return;
 
     return {
       ...product,
@@ -88,6 +90,21 @@ export class MainController {
   private notFoundResolver(reply: FastifyReply, id: string) {
     return reply
       .status(404)
-      .send({ message: `${this.props.resourceName} con id ${id} no encontrado` });
+      .send({
+        message: `${this.props.resourceName} con id ${id} no encontrado`,
+      });
+  }
+
+  private validateBody(request: FastifyRequest, reply: FastifyReply) {
+    if (isEmptyPayload(request.body)) {
+      return emptyPayloadResolver(reply);
+    }
+
+    const keysNotSupported = this.props.service.getKeysNotSupportedIn(
+      request.body,
+    );
+    if (keysNotSupported.length > 0) {
+      return keysNotSupportedResolver(reply, keysNotSupported);
+    }
   }
 }
