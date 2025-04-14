@@ -1,14 +1,16 @@
 import products from "@src/resources/products.json";
+import { MainService } from "./MainService";
 
-export function findBy(id: string) {
-  return products.filter((p) => p.id.toString() === id)[0];
+export class ProductsServiceImpl implements MainService {
+  findBy(id: string) {
+    return products.filter((p) => p.id.toString() === id)[0];
+  }
+  findAll(query: any) {
+    return orderByQuery(filterByQuery(products, query), query);
+  }
 }
 
-export function findAll(query: any) {
-  return orderByQuery(filterByQuery(products, query), query);
-}
-
-export function filterByQuery(data: any[], query: any) {
+function filterByQuery(data: any[], query: any) {
   let filteredData = data;
   if (query.nombre) {
     filteredData = filteredData.filter((p) => p.nombre === query.nombre);
@@ -31,7 +33,7 @@ export function filterByQuery(data: any[], query: any) {
   return filteredData;
 }
 
-export function orderByQuery(data: any[], query: any) {
+function orderByQuery(data: any[], query: any) {
   let orderedData = data;
   if (query.sortBy) {
     const order = query.order === "desc" ? -1 : 1;
