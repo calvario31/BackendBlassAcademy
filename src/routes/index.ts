@@ -1,9 +1,17 @@
 import { FastifyInstance } from "fastify";
 import { MainController } from "@src/controllers/MainController";
-import { productsController } from "@src/controllers";
+import {
+  animalsController,
+  participantsController,
+  productsController,
+  videogamesController,
+} from "@src/controllers";
 
 export default async function routes(fastify: FastifyInstance) {
-  routesBy(fastify, "products", productsController);
+  routesBy(fastify, "animales", animalsController);
+  routesBy(fastify, "participantes", participantsController);
+  routesBy(fastify, "productos", productsController);
+  routesBy(fastify, "videojuegos", videogamesController);
 }
 
 function routesBy(

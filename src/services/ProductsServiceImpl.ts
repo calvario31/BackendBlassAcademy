@@ -1,12 +1,12 @@
-import products from "@src/resources/products.json";
-import { MainService } from "./MainService";
+import { MainServiceImpl, MainServiceProps } from "./MainServiceImpl";
+import { orderByQuery } from "@src/utilities/queryProcessing";
 
-export class ProductsServiceImpl implements MainService {
-  findBy(id: string) {
-    return products.filter((p) => p.id.toString() === id)[0];
+export class ProductsServiceImpl extends MainServiceImpl {
+  constructor(protected props: MainServiceProps) {
+    super(props);
   }
   findAll(query: any) {
-    return orderByQuery(filterByQuery(products, query), query);
+    return orderByQuery(filterByQuery(this.props.resources, query), query);
   }
 }
 
@@ -31,15 +31,4 @@ function filterByQuery(data: any[], query: any) {
     default:
   }
   return filteredData;
-}
-
-function orderByQuery(data: any[], query: any) {
-  let orderedData = data;
-  if (query.sortBy) {
-    const order = query.order === "desc" ? -1 : 1;
-    orderedData = orderedData.sort(
-      (a, b) => order * (a[query.sortBy] - b[query.sortBy]),
-    );
-  }
-  return orderedData;
 }

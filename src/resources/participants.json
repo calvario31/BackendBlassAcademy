@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "nombre": "Lexie",
+    "apellido": "Sanford",
+    "correo": "Lexie.Sanford@hotmail.com",
+    "usuario": "Lexie.Sanford55",
+    "clave": "hvTf3KTd67wDLr1",
+    "reaccion": {
+      "likes": 2956,
+      "dislikes": 4406
+    },
+    "plataforma": "facebook"
+  },
+  {
+    "id": 2,
+    "nombre": "Taurean",
+    "apellido": "Olson",
+    "correo": "Taurean_Olson42@gmail.com",
+    "usuario": "Taurean_Olson92",
+    "clave": "Hwop8E_8rJXPRI3",
+    "reaccion": {
+      "likes": 1719,
+      "dislikes": 2605
+    },
+    "plataforma": "facebook"
+  },
+  {
+    "id": 3,
+    "nombre": "Cloyd",
+    "apellido": "Breitenberg",
+    "correo": "Cloyd.Breitenberg@gmail.com",
+    "usuario": "Cloyd_Breitenberg",
+    "clave": "17nQRcilMODpUJ2",
+    "reaccion": {
+      "likes": 3911,
+      "dislikes": 420
+    },
+    "plataforma": "instagram"
+  },
+  {
+    "id": 4,
+    "nombre": "Lea",
+    "apellido": "Hodkiewicz",
+    "correo": "Lea_Hodkiewicz@yahoo.com",
+    "usuario": "Lea_Hodkiewicz",
+    "clave": "AmDBiSPKjBGdH8j",
+    "reaccion": {
+      "likes": 1561,
+      "dislikes": 3168
+    },
+    "plataforma": "youtube"
+  },
+  {
+    "id": 5,
+    "nombre": "Karlie",
+    "apellido": "Willms",
+    "correo": "Karlie.Willms@hotmail.com",
+    "usuario": "Karlie.Willms55",
+    "clave": "NcY5QUltOr5Vif2",
+    "reaccion": {
+      "likes": 822,
+      "dislikes": 3380
+    },
+    "plataforma": "instagram"
+  },
+  {
+    "id": 6,
+    "nombre": "August",
+    "apellido": "Boyer",
+    "correo": "August.Boyer2@gmail.com",
+    "usuario": "August_Boyer",
+    "clave": "_NeS94V23bFyGMq",
+    "reaccion": {
+      "likes": 4401,
+      "dislikes": 3495
+    },
+    "plataforma": "tiktok"
+  },
+  {
+    "id": 7,
+    "nombre": "Lowell",
+    "apellido": "Feil",
+    "correo": "Lowell.Feil@gmail.com",
+    "usuario": "Lowell.Feil86",
+    "clave": "CheDSHk6myaTcA3",
+    "reaccion": {
+      "likes": 1903,
+      "dislikes": 4895
+    },
+    "plataforma": "facebook"
+  },
+  {
+    "id": 8,
+    "nombre": "Letitia",
+    "apellido": "Johns",
+    "correo": "Letitia.Johns38@hotmail.com",
+    "usuario": "Letitia.Johns",
+    "clave": "ZUvyGEVp3OGatc4",
+    "reaccion": {
+      "likes": 2147,
+      "dislikes": 1481
+    },
+    "plataforma": "facebook"
+  },
+  {
+    "id": 9,
+    "nombre": "Cathy",
+    "apellido": "Bernier",
+    "correo": "Cathy_Bernier42@gmail.com",
+    "usuario": "Cathy.Bernier",
+    "clave": "WG1_2pxtC799ySH",
+    "reaccion": {
+      "likes": 4052,
+      "dislikes": 412
+    },
+    "plataforma": "youtube"
+  },
+  {
+    "id": 10,
+    "nombre": "Jennifer",
+    "apellido": "Waters",
+    "correo": "Jennifer.Waters@gmail.com",
+    "usuario": "Jennifer_Waters8",
+    "clave": "P7MgVQTiCFMWpfA",
+    "reaccion": {
+      "likes": 3288,
+      "dislikes": 1199
+    },
+    "plataforma": "facebook"
+  },
+  {
+    "id": 11,
+    "nombre": "Muriel",
+    "apellido": "McLaughlin-Thompson",
+    "correo": "Muriel.McLaughlin-Thompson@gmail.com",
+    "usuario": "Muriel_McLaughlin-Thompson",
+    "clave": "purCeJpTZpdZrN4",
+    "reaccion": {
+      "likes": 1952,
+      "dislikes": 4144
+    },
+    "plataforma": "tiktok"
+  },
+  {
+    "id": 12,
+    "nombre": "Nellie",
+    "apellido": "Lebsack",
+    "correo": "Nellie.Lebsack85@hotmail.com",
+    "usuario": "Nellie.Lebsack",
+    "clave": "u_cLWx1oyZJ8NY2",
+    "reaccion": {
+      "likes": 4226,
+      "dislikes": 3769
+    },
+    "plataforma": "tiktok"
+  },
+  {
+    "id": 13,
+    "nombre": "Kurt",
+    "apellido": "Stamm",
+    "correo": "Kurt.Stamm@hotmail.com",
+    "usuario": "Kurt_Stamm",
+    "clave": "51dXxYrpFfmzWCf",
+    "reaccion": {
+      "likes": 453,
+      "dislikes": 233
+    },
+    "plataforma": "instagram"
+  },
+  {
+    "id": 14,
+    "nombre": "Syble",
+    "apellido": "Watsica",
+    "correo": "Syble_Watsica58@hotmail.com",
+    "usuario": "Syble_Watsica41",
+    "clave": "KGu03DPNyMIl0zC",
+    "reaccion": {
+      "likes": 1391,
+      "dislikes": 2367
+    },
+    "plataforma": "instagram"
+  },
+  {
+    "id": 15,
+    "nombre": "Noemie",
+    "apellido": "Fay",
+    "correo": "Noemie_Fay13@gmail.com",
+    "usuario": "Noemie.Fay",
+    "clave": "yV0PWH583bTw34w",
+    "reaccion": {
+      "likes": 1123,
+      "dislikes": 1324
+    },
+    "plataforma": "facebook"
+  },
+  {
+    "id": 16,
+    "nombre": "Arvel",
+    "apellido": "Gulgowski",
+    "correo": "Arvel.Gulgowski66@gmail.com",
+    "usuario": "Arvel.Gulgowski",
+    "clave": "hSkd_DLVi5BbZGt",
+    "reaccion": {
+      "likes": 1296,
+      "dislikes": 1624
+    },
+    "plataforma": "tiktok"
+  },
+  {
+    "id": 17,
+    "nombre": "Hailie",
+    "apellido": "McCullough",
+    "correo": "Hailie_McCullough@gmail.com",
+    "usuario": "Hailie_McCullough77",
+    "clave": "JN16zvzPrsyczIy",
+    "reaccion": {
+      "likes": 339,
+      "dislikes": 1766
+    },
+    "plataforma": "tiktok"
+  },
+  {
+    "id": 18,
+    "nombre": "Will",
+    "apellido": "Brakus",
+    "correo": "Will_Brakus@hotmail.com",
+    "usuario": "Will_Brakus81",
+    "clave": "Ki7HlcmxwmNfmdG",
+    "reaccion": {
+      "likes": 3589,
+      "dislikes": 482
+    },
+    "plataforma": "instagram"
+  },
+  {
+    "id": 19,
+    "nombre": "Lavern",
+    "apellido": "Tremblay",
+    "correo": "Lavern.Tremblay83@hotmail.com",
+    "usuario": "Lavern.Tremblay13",
+    "clave": "4HjLAIEBconvKS5",
+    "reaccion": {
+      "likes": 4717,
+      "dislikes": 1615
+    },
+    "plataforma": "instagram"
+  },
+  {
+    "id": 20,
+    "nombre": "Demond",
+    "apellido": "Goyette",
+    "correo": "Demond_Goyette@yahoo.com",
+    "usuario": "Demond_Goyette",
+    "clave": "crfm04M0JM3WeTU",
+    "reaccion": {
+      "likes": 210,
+      "dislikes": 1533
+    },
+    "plataforma": "youtube"
+  },
+  {
+    "id": 21,
+    "nombre": "Oral",
+    "apellido": "West",
+    "correo": "Oral_West@yahoo.com",
+    "usuario": "Oral_West49",
+    "clave": "IqkbHOUcMaoumJD",
+    "reaccion": {
+      "likes": 1288,
+      "dislikes": 1611
+    },
+    "plataforma": "youtube"
+  },
+  {
+    "id": 22,
+    "nombre": "Joshua",
+    "apellido": "Stoltenberg",
+    "correo": "Joshua_Stoltenberg14@gmail.com",
+    "usuario": "Joshua.Stoltenberg48",
+    "clave": "pxjxvRUZpxbFDXR",
+    "reaccion": {
+      "likes": 4946,
+      "dislikes": 4219
+    },
+    "plataforma": "tiktok"
+  },
+  {
+    "id": 23,
+    "nombre": "Madeline",
+    "apellido": "Yundt",
+    "correo": "Madeline_Yundt59@gmail.com",
+    "usuario": "Madeline_Yundt",
+    "clave": "UGfLlwV5Iwc3nVH",
+    "reaccion": {
+      "likes": 324,
+      "dislikes": 4844
+    },
+    "plataforma": "tiktok"
+  },
+  {
+    "id": 24,
+    "nombre": "Jannie",
+    "apellido": "Ruecker",
+    "correo": "Jannie_Ruecker@gmail.com",
+    "usuario": "Jannie_Ruecker83",
+    "clave": "C7PD8_UNDW47ORk",
+    "reaccion": {
+      "likes": 4931,
+      "dislikes": 2528
+    },
+    "plataforma": "tiktok"
+  },
+  {
+    "id": 25,
+    "nombre": "Ettie",
+    "apellido": "Terry",
+    "correo": "Ettie_Terry3@hotmail.com",
+    "usuario": "Ettie.Terry75",
+    "clave": "5twh8JdhQ2KKloS",
+    "reaccion": {
+      "likes": 3443,
+      "dislikes": 2082
+    },
+    "plataforma": "instagram"
+  },
+  {
+    "id": 26,
+    "nombre": "Wilfredo",
+    "apellido": "Hettinger",
+    "correo": "Wilfredo.Hettinger@yahoo.com",
+    "usuario": "Wilfredo.Hettinger51",
+    "clave": "fpVu3uqlS6rFtRx",
+    "reaccion": {
+      "likes": 2835,
+      "dislikes": 1135
+    },
+    "plataforma": "facebook"
+  },
+  {
+    "id": 27,
+    "nombre": "Malvina",
+    "apellido": "Lockman",
+    "correo": "Malvina_Lockman@hotmail.com",
+    "usuario": "Malvina.Lockman",
+    "clave": "9oFVLp8qdPbQBsX",
+    "reaccion": {
+      "likes": 1683,
+      "dislikes": 1274
+    },
+    "plataforma": "instagram"
+  },
+  {
+    "id": 28,
+    "nombre": "Filomena",
+    "apellido": "Bruen",
+    "correo": "Filomena.Bruen98@yahoo.com",
+    "usuario": "Filomena_Bruen",
+    "clave": "Ku7hIY5a1jXwumH",
+    "reaccion": {
+      "likes": 467,
+      "dislikes": 2412
+    },
+    "plataforma": "instagram"
+  },
+  {
+    "id": 29,
+    "nombre": "Selina",
+    "apellido": "Friesen",
+    "correo": "Selina_Friesen@yahoo.com",
+    "usuario": "Selina.Friesen56",
+    "clave": "62vGNcDbcClI1gt",
+    "reaccion": {
+      "likes": 4616,
+      "dislikes": 3669
+    },
+    "plataforma": "instagram"
+  },
+  {
+    "id": 30,
+    "nombre": "Jeromy",
+    "apellido": "Bode",
+    "correo": "Jeromy_Bode@yahoo.com",
+    "usuario": "Jeromy_Bode",
+    "clave": "upgX1xUC_C03j5j",
+    "reaccion": {
+      "likes": 1395,
+      "dislikes": 1591
+    },
+    "plataforma": "tiktok"
+  }
+]

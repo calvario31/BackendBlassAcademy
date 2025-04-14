@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "nombre": "Herzog",
+    "epoca": 2021,
+    "precio": 50.44,
+    "duracion": 7,
+    "genero": "genero",
+    "empresa": {
+      "nombre": "Beer Group",
+      "paginaWeb": "https://fake-lieu.net/",
+      "mision": "Virtual discrete structure",
+      "direccion": {
+        "direccion": "65349 8th Avenue",
+        "ciudad": "Willowton",
+        "estado": "Maryland",
+        "pais": "Costa Rica",
+        "continente": "North America",
+        "codigoPostal": "41942-8451",
+        "coordenadas": {
+          "latitud": 18.98,
+          "longitud": 113.13
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "The Pillars of the Earth",
+    "epoca": 2000,
+    "precio": 51.26,
+    "duracion": 9,
+    "genero": "accion",
+    "empresa": {
+      "nombre": "Schumm, Frami and Heaney",
+      "paginaWeb": "https://difficult-luck.com/",
+      "mision": "Automated static service-desk",
+      "direccion": {
+        "direccion": "9087 Waters Course",
+        "ciudad": "Zemlakside",
+        "estado": "Idaho",
+        "pais": "Democratic Republic of the Congo",
+        "continente": "Antarctica",
+        "codigoPostal": "36084",
+        "coordenadas": {
+          "latitud": 8.34,
+          "longitud": 43.93
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Tom Jones",
+    "epoca": 2010,
+    "precio": 40.52,
+    "duracion": 6,
+    "genero": "genero",
+    "empresa": {
+      "nombre": "Stoltenberg, Kris and Sawayn",
+      "paginaWeb": "https://enchanting-ruin.com/",
+      "mision": "Ergonomic sustainable model",
+      "direccion": {
+        "direccion": "65202 King's Road",
+        "ciudad": "East Miloside",
+        "estado": "Virginia",
+        "pais": "French Polynesia",
+        "continente": "Antarctica",
+        "codigoPostal": "24576",
+        "coordenadas": {
+          "latitud": 118.79,
+          "longitud": 78.08
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "The Trial",
+    "epoca": 2005,
+    "precio": 43.88,
+    "duracion": 8,
+    "genero": "comedia",
+    "empresa": {
+      "nombre": "Morar Inc",
+      "paginaWeb": "https://friendly-vibration.info",
+      "mision": "Centralized static process improvement",
+      "direccion": {
+        "direccion": "13244 Breitenberg Meadow",
+        "ciudad": "Kettering",
+        "estado": "Oregon",
+        "pais": "Belize",
+        "continente": "South America",
+        "codigoPostal": "95663",
+        "coordenadas": {
+          "latitud": 53.84,
+          "longitud": 112.24
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "Dao De Jing: A Minimalist Translation",
+    "epoca": 2024,
+    "precio": 31.3,
+    "duracion": 7,
+    "genero": "accion",
+    "empresa": {
+      "nombre": "Kuphal, Kris and Lubowitz",
+      "paginaWeb": "https://afraid-summer.net",
+      "mision": "Immersive intermediate utilisation",
+      "direccion": {
+        "direccion": "22257 W Pine Street",
+        "ciudad": "Carmichael",
+        "estado": "North Carolina",
+        "pais": "Malaysia",
+        "continente": "North America",
+        "codigoPostal": "68268-3939",
+        "coordenadas": {
+          "latitud": 110.94,
+          "longitud": 84.64
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "Atlas Shrugged",
+    "epoca": 1998,
+    "precio": 41.37,
+    "duracion": 5,
+    "genero": "accion",
+    "empresa": {
+      "nombre": "Nolan Inc",
+      "paginaWeb": "https://afraid-object.biz/",
+      "mision": "Managed mobile frame",
+      "direccion": {
+        "direccion": "248 Oxford Street",
+        "ciudad": "Lake Adrianmouth",
+        "estado": "Massachusetts",
+        "pais": "Isle of Man",
+        "continente": "South America",
+        "codigoPostal": "72812-7149",
+        "coordenadas": {
+          "latitud": 60.09,
+          "longitud": 101.47
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "Robinson Crusoe",
+    "epoca": 1992,
+    "precio": 42.49,
+    "duracion": 5,
+    "genero": "accion",
+    "empresa": {
+      "nombre": "Hudson, Kub and O'Keefe",
+      "paginaWeb": "https://usable-submitter.info",
+      "mision": "Total hybrid monitoring",
+      "direccion": {
+        "direccion": "444 Immanuel Loaf",
+        "ciudad": "Lemkefurt",
+        "estado": "Kansas",
+        "pais": "Cape Verde",
+        "continente": "Africa",
+        "codigoPostal": "82242",
+        "coordenadas": {
+          "latitud": 59.07,
+          "longitud": 2.86
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "nombre": "The Master and Margarita",
+    "epoca": 1997,
+    "precio": 38.58,
+    "duracion": 8,
+    "genero": "accion",
+    "empresa": {
+      "nombre": "Smitham - Hills",
+      "paginaWeb": "https://aged-underneath.biz/",
+      "mision": "Innovative scalable functionalities",
+      "direccion": {
+        "direccion": "7798 Jakubowski Circle",
+        "ciudad": "Jedburgh",
+        "estado": "Rhode Island",
+        "pais": "Cook Islands",
+        "continente": "South America",
+        "codigoPostal": "24877",
+        "coordenadas": {
+          "latitud": 67.05,
+          "longitud": 72.15
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "nombre": "Beyond Good and Evil",
+    "epoca": 2018,
+    "precio": 39.35,
+    "duracion": 10,
+    "genero": "accion",
+    "empresa": {
+      "nombre": "O'Conner, Schoen and Gutkowski",
+      "paginaWeb": "https://emotional-larva.net/",
+      "mision": "User-centric sustainable analyzer",
+      "direccion": {
+        "direccion": "579 Monahan Divide",
+        "ciudad": "Bradenton",
+        "estado": "Kentucky",
+        "pais": "Malaysia",
+        "continente": "Australia",
+        "codigoPostal": "44141",
+        "coordenadas": {
+          "latitud": 80.4,
+          "longitud": 103.9
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "nombre": "The Complete Works of Edgar Allen Poe",
+    "epoca": 2025,
+    "precio": 52.14,
+    "duracion": 6,
+    "genero": "accion",
+    "empresa": {
+      "nombre": "Beier LLC",
+      "paginaWeb": "https://rich-dulcimer.name/",
+      "mision": "Balanced systematic orchestration",
+      "direccion": {
+        "direccion": "210 N Cedar Street",
+        "ciudad": "Cordiestead",
+        "estado": "North Dakota",
+        "pais": "Antigua and Barbuda",
+        "continente": "Europe",
+        "codigoPostal": "87873-6115",
+        "coordenadas": {
+          "latitud": 81.67,
+          "longitud": 112.91
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "nombre": "On the Duty of Civil Disobedience",
+    "epoca": 2003,
+    "precio": 57.79,
+    "duracion": 5,
+    "genero": "accion",
+    "empresa": {
+      "nombre": "Wolff - Brown",
+      "paginaWeb": "https://messy-jet.biz/",
+      "mision": "Stand-alone empowering archive",
+      "direccion": {
+        "direccion": "49272 Fisher Square",
+        "ciudad": "Merlinshire",
+        "estado": "North Dakota",
+        "pais": "Guyana",
+        "continente": "Europe",
+        "codigoPostal": "20090-8424",
+        "coordenadas": {
+          "latitud": 109.21,
+          "longitud": 100.86
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "nombre": "Tom Jones",
+    "epoca": 1993,
+    "precio": 39.16,
+    "duracion": 6,
+    "genero": "genero",
+    "empresa": {
+      "nombre": "Crist LLC",
+      "paginaWeb": "https://purple-pine.info",
+      "mision": "Monitored contextually-based open architecture",
+      "direccion": {
+        "direccion": "6218 Arthur Fork",
+        "ciudad": "West Kory",
+        "estado": "Virginia",
+        "pais": "Mozambique",
+        "continente": "South America",
+        "codigoPostal": "34738",
+        "coordenadas": {
+          "latitud": 69.01,
+          "longitud": 103.18
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "nombre": "On the Duty of Civil Disobedience",
+    "epoca": 1996,
+    "precio": 36.48,
+    "duracion": 6,
+    "genero": "comedia",
+    "empresa": {
+      "nombre": "Little - Bahringer",
+      "paginaWeb": "https://infatuated-license.name/",
+      "mision": "Programmable methodical orchestration",
+      "direccion": {
+        "direccion": "55589 McGlynn Corners",
+        "ciudad": "Gloverberg",
+        "estado": "Florida",
+        "pais": "Bermuda",
+        "continente": "Africa",
+        "codigoPostal": "13182-0137",
+        "coordenadas": {
+          "latitud": 73.22,
+          "longitud": 4.07
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "nombre": "The Lord of the Rings",
+    "epoca": 1993,
+    "precio": 35.77,
+    "duracion": 10,
+    "genero": "comedia",
+    "empresa": {
+      "nombre": "Carroll - Jast",
+      "paginaWeb": "https://dead-gripper.info/",
+      "mision": "Adaptive impactful protocol",
+      "direccion": {
+        "direccion": "4600 Clarendon Road",
+        "ciudad": "East Aaliyahberg",
+        "estado": "Wisconsin",
+        "pais": "Cuba",
+        "continente": "Asia",
+        "codigoPostal": "84573-3101",
+        "coordenadas": {
+          "latitud": 75.79,
+          "longitud": 79.54
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "nombre": "Nostromo",
+    "epoca": 2007,
+    "precio": 36.37,
+    "duracion": 6,
+    "genero": "comedia",
+    "empresa": {
+      "nombre": "Ryan, Gleichner and Douglas",
+      "paginaWeb": "https://austere-developing.info/",
+      "mision": "Distributed impactful function",
+      "direccion": {
+        "direccion": "68130 Reinhold Manors",
+        "ciudad": "Lake Terrence",
+        "estado": "Rhode Island",
+        "pais": "Belgium",
+        "continente": "Asia",
+        "codigoPostal": "41632-9361",
+        "coordenadas": {
+          "latitud": 68.5,
+          "longitud": 21.73
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "nombre": "The Adventures of Augie March",
+    "epoca": 2004,
+    "precio": 57.62,
+    "duracion": 6,
+    "genero": "accion",
+    "empresa": {
+      "nombre": "Johnson and Sons",
+      "paginaWeb": "https://breakable-phrase.biz/",
+      "mision": "Reverse-engineered maximized standardization",
+      "direccion": {
+        "direccion": "3542 Haag Pike",
+        "ciudad": "Joliet",
+        "estado": "Oklahoma",
+        "pais": "Turkey",
+        "continente": "Antarctica",
+        "codigoPostal": "44451-3843",
+        "coordenadas": {
+          "latitud": 42.93,
+          "longitud": 105.98
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "nombre": "Underworld",
+    "epoca": 2012,
+    "precio": 31.51,
+    "duracion": 7,
+    "genero": "genero",
+    "empresa": {
+      "nombre": "Bergstrom, Renner and Hoeger",
+      "paginaWeb": "https://unwieldy-earth.net/",
+      "mision": "Automated resilient task-force",
+      "direccion": {
+        "direccion": "82616 Trisha Fords",
+        "ciudad": "Pourosshire",
+        "estado": "Michigan",
+        "pais": "Lebanon",
+        "continente": "South America",
+        "codigoPostal": "12502",
+        "coordenadas": {
+          "latitud": 105.06,
+          "longitud": 118.47
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "nombre": "The Heart of the Matter",
+    "epoca": 1991,
+    "precio": 59.49,
+    "duracion": 8,
+    "genero": "genero",
+    "empresa": {
+      "nombre": "Pouros Group",
+      "paginaWeb": "https://wrathful-curl.com",
+      "mision": "Integrated interactive workforce",
+      "direccion": {
+        "direccion": "949 W 2nd Street",
+        "ciudad": "Waukesha",
+        "estado": "Oregon",
+        "pais": "Kazakhstan",
+        "continente": "Australia",
+        "codigoPostal": "80765-2349",
+        "coordenadas": {
+          "latitud": 108.91,
+          "longitud": 3.29
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "nombre": "Hamlet",
+    "epoca": 2019,
+    "precio": 55.59,
+    "duracion": 10,
+    "genero": "genero",
+    "empresa": {
+      "nombre": "Kunde, Durgan and Jacobs",
+      "paginaWeb": "https://acceptable-solution.com",
+      "mision": "Extended heuristic synergy",
+      "direccion": {
+        "direccion": "22898 Goyette Plain",
+        "ciudad": "Nienowboro",
+        "estado": "New Jersey",
+        "pais": "Tajikistan",
+        "continente": "Europe",
+        "codigoPostal": "95060",
+        "coordenadas": {
+          "latitud": 6.78,
+          "longitud": 40.07
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "nombre": "The Big Sleep",
+    "epoca": 1993,
+    "precio": 58.81,
+    "duracion": 7,
+    "genero": "genero",
+    "empresa": {
+      "nombre": "Bernhard, Ledner and Ritchie",
+      "paginaWeb": "https://legal-begonia.info/",
+      "mision": "Multi-tiered bottom-line concept",
+      "direccion": {
+        "direccion": "79377 Misty Lodge",
+        "ciudad": "Luisachester",
+        "estado": "Nebraska",
+        "pais": "Switzerland",
+        "continente": "Asia",
+        "codigoPostal": "31880-2709",
+        "coordenadas": {
+          "latitud": 22.41,
+          "longitud": 56.16
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "nombre": "Anna Karenina",
+    "epoca": 2010,
+    "precio": 59.17,
+    "duracion": 8,
+    "genero": "genero",
+    "empresa": {
+      "nombre": "Rolfson - Kassulke",
+      "paginaWeb": "https://peppery-essence.name/",
+      "mision": "Configurable homogeneous encryption",
+      "direccion": {
+        "direccion": "1644 E 7th Street",
+        "ciudad": "Wilkinsoncester",
+        "estado": "Arizona",
+        "pais": "Bahrain",
+        "continente": "South America",
+        "codigoPostal": "54030-8927",
+        "coordenadas": {
+          "latitud": 25.35,
+          "longitud": 97.98
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "nombre": "The Call of the Wild",
+    "epoca": 2000,
+    "precio": 53.42,
+    "duracion": 6,
+    "genero": "genero",
+    "empresa": {
+      "nombre": "McClure and Sons",
+      "paginaWeb": "https://wee-halt.org/",
+      "mision": "Open-source explicit algorithm",
+      "direccion": {
+        "direccion": "79338 Baron Square",
+        "ciudad": "Emmanuellefield",
+        "estado": "Alabama",
+        "pais": "American Samoa",
+        "continente": "South America",
+        "codigoPostal": "67806-0538",
+        "coordenadas": {
+          "latitud": 19.71,
+          "longitud": 66.64
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "nombre": "Madame Bovary",
+    "epoca": 1991,
+    "precio": 30.54,
+    "duracion": 8,
+    "genero": "accion",
+    "empresa": {
+      "nombre": "Howell Inc",
+      "paginaWeb": "https://shiny-safe.info/",
+      "mision": "Business-focused heuristic challenge",
+      "direccion": {
+        "direccion": "5494 Old Lane",
+        "ciudad": "North Jamartown",
+        "estado": "Alaska",
+        "pais": "United States Minor Outlying Islands",
+        "continente": "Europe",
+        "codigoPostal": "11622-4830",
+        "coordenadas": {
+          "latitud": 36.83,
+          "longitud": 91.8
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "nombre": "The Complete Works of Edgar Allen Poe",
+    "epoca": 1992,
+    "precio": 48.98,
+    "duracion": 7,
+    "genero": "comedia",
+    "empresa": {
+      "nombre": "Cummings Group",
+      "paginaWeb": "https://french-ruin.net/",
+      "mision": "User-centric tertiary throughput",
+      "direccion": {
+        "direccion": "768 Armstrong Pike",
+        "ciudad": "Leschton",
+        "estado": "Virginia",
+        "pais": "French Polynesia",
+        "continente": "South America",
+        "codigoPostal": "55557-8928",
+        "coordenadas": {
+          "latitud": 99.01,
+          "longitud": 108.83
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "nombre": "Of Mice and Men",
+    "epoca": 1991,
+    "precio": 56.66,
+    "duracion": 7,
+    "genero": "comedia",
+    "empresa": {
+      "nombre": "Weissnat and Sons",
+      "paginaWeb": "https://winding-zebra.net/",
+      "mision": "Persevering executive monitoring",
+      "direccion": {
+        "direccion": "3241 Branson Streets",
+        "ciudad": "Poway",
+        "estado": "North Carolina",
+        "pais": "Saint Kitts and Nevis",
+        "continente": "North America",
+        "codigoPostal": "64902-8286",
+        "coordenadas": {
+          "latitud": 108.22,
+          "longitud": 64.02
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "nombre": "Catch-22",
+    "epoca": 2004,
+    "precio": 36.41,
+    "duracion": 5,
+    "genero": "genero",
+    "empresa": {
+      "nombre": "Mohr - Heathcote",
+      "paginaWeb": "https://ignorant-attraction.org/",
+      "mision": "Networked transitional productivity",
+      "direccion": {
+        "direccion": "720 Sandringham Road",
+        "ciudad": "New Odahaven",
+        "estado": "Vermont",
+        "pais": "Colombia",
+        "continente": "Africa",
+        "codigoPostal": "51565-6201",
+        "coordenadas": {
+          "latitud": 80.38,
+          "longitud": 40.77
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "nombre": "Fahrenheit 451",
+    "epoca": 2018,
+    "precio": 38.38,
+    "duracion": 6,
+    "genero": "comedia",
+    "empresa": {
+      "nombre": "Spencer LLC",
+      "paginaWeb": "https://metallic-version.biz",
+      "mision": "Horizontal logistical encoding",
+      "direccion": {
+        "direccion": "37863 Rupert Mission",
+        "ciudad": "Luisside",
+        "estado": "North Dakota",
+        "pais": "Dominican Republic",
+        "continente": "Europe",
+        "codigoPostal": "53380-7261",
+        "coordenadas": {
+          "latitud": 71.35,
+          "longitud": 110.32
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "nombre": "Charlotte's Web",
+    "epoca": 2002,
+    "precio": 32.26,
+    "duracion": 9,
+    "genero": "accion",
+    "empresa": {
+      "nombre": "Rolfson - Monahan",
+      "paginaWeb": "https://orderly-ostrich.biz/",
+      "mision": "Progressive content-based project",
+      "direccion": {
+        "direccion": "7392 Wiza Extensions",
+        "ciudad": "Lake Faustoberg",
+        "estado": "Iowa",
+        "pais": "Guinea",
+        "continente": "Asia",
+        "codigoPostal": "77533-5660",
+        "coordenadas": {
+          "latitud": 67.65,
+          "longitud": 22.86
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "nombre": "The Portrait of a Lady",
+    "epoca": 2004,
+    "precio": 42.48,
+    "duracion": 7,
+    "genero": "genero",
+    "empresa": {
+      "nombre": "Hoeger - Hackett",
+      "paginaWeb": "https://likely-minion.com/",
+      "mision": "User-friendly next generation solution",
+      "direccion": {
+        "direccion": "8681 Ivy Burgs",
+        "ciudad": "North Ryan",
+        "estado": "Tennessee",
+        "pais": "Libyan Arab Jamahiriya",
+        "continente": "Africa",
+        "codigoPostal": "27379-4897",
+        "coordenadas": {
+          "latitud": 4.18,
+          "longitud": 72.55
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "nombre": "The Canterbury Tales",
+    "epoca": 2010,
+    "precio": 36.48,
+    "duracion": 10,
+    "genero": "genero",
+    "empresa": {
+      "nombre": "Goldner, Boyle and Towne",
+      "paginaWeb": "https://athletic-thyme.info/",
+      "mision": "Sharable zero tolerance task-force",
+      "direccion": {
+        "direccion": "61118 Rogahn Ports",
+        "ciudad": "Brookline",
+        "estado": "North Carolina",
+        "pais": "Mexico",
+        "continente": "Antarctica",
+        "codigoPostal": "55384-4790",
+        "coordenadas": {
+          "latitud": 56.87,
+          "longitud": 43.3
+        }
+      }
+    }
+  }
+]
