@@ -11,6 +11,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@fastify/auth": "^5.0.2",
+    "@fastify/basic-auth": "^6.1.0",
+    "@fastify/bearer-auth": "^10.1.1",
     "fastify": "^5.2.2"
   },
   "devDependencies": {

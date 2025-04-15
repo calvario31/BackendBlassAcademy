@@ -11,11 +11,9 @@ function emptyPayloadResolver(reply: FastifyReply) {
 }
 
 function keysNotSupportedResolver(reply: FastifyReply, keys: string[]) {
-  return reply
-    .code(400)
-    .send({
-      message: `Los siguientes campos no son aceptados para este recurso: ${keys.join(",")}`,
-    });
+  return reply.code(400).send({
+    message: `Los siguientes campos no son aceptados para este recurso: ${keys.join(",")}`,
+  });
 }
 
 export interface MainControllerProps {
@@ -88,11 +86,9 @@ export class MainController {
   }
 
   private notFoundResolver(reply: FastifyReply, id: string) {
-    return reply
-      .status(404)
-      .send({
-        message: `${this.props.resourceName} con id ${id} no encontrado`,
-      });
+    return reply.status(404).send({
+      message: `${this.props.resourceName} con id ${id} no encontrado`,
+    });
   }
 
   private validateBody(request: FastifyRequest, reply: FastifyReply) {

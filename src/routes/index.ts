@@ -6,15 +6,17 @@ import {
   productsController,
   videogamesController,
 } from "@src/controllers";
+import { auth } from "@src/middleware/auth";
 
 export default async function routes(fastify: FastifyInstance) {
-  routesBy(fastify, "animales", animalsController);
-  routesBy(fastify, "participantes", participantsController);
-  routesBy(fastify, "productos", productsController);
-  routesBy(fastify, "videojuegos", videogamesController);
+  await auth(fastify);
+  registerRoutes(fastify, "animales", animalsController);
+  registerRoutes(fastify, "participantes", participantsController);
+  registerRoutes(fastify, "productos", productsController);
+  registerRoutes(fastify, "videojuegos", videogamesController);
 }
 
-function routesBy(
+function registerRoutes(
   fastify: FastifyInstance,
   resource: string,
   controller: MainController,
