@@ -14,10 +14,13 @@
     "@fastify/auth": "^5.0.2",
     "@fastify/basic-auth": "^6.1.0",
     "@fastify/bearer-auth": "^10.1.1",
-    "fastify": "^5.2.2"
+    "fastify": "^5.2.2",
+    "jsonwebtoken": "^9.0.2",
+    "node-cache": "^5.1.2"
   },
   "devDependencies": {
     "@tsconfig/node20": "^20.1.5",
+    "@types/jsonwebtoken": "^9.0.9",
     "@types/node": "^22.14.0",
     "prettier": "^3.5.3",
     "source-map-support": "^0.5.21",

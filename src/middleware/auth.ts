@@ -2,6 +2,8 @@ import { FastifyInstance, FastifyReply, FastifyRequest } from "fastify";
 import fastifyAuth from "@fastify/auth";
 import fastifyBasicAuth from "@fastify/basic-auth";
 import bearerAuthPlugin from "@fastify/bearer-auth";
+import { sign } from "jsonwebtoken";
+import { getCache, setCache } from "./cache";
 
 const secretKey = "secret-key";
 
@@ -13,7 +15,9 @@ export function login(fastify: FastifyInstance) {
         .code(401)
         .send({ message: "Usuario o contraseña incorrecta" });
     }
-    return reply.code(200).send({ accessToken: secretKey });
+    const accessToken = sign({ username }, secretKey);
+    setCache(accessToken);
+    return reply.code(200).send({ accessToken });
   });
 }
 
@@ -52,15 +56,14 @@ async function validate(
   req: FastifyRequest,
 ) {
   if (
-    req.headers.auth === "basic" &&
-    !validateCredentials(username, password)
+    !(req.headers.auth === "basic" && validateCredentials(username, password))
   ) {
     return new Error("No autorizado");
   }
 }
 
 function validateKey(key: string, req: FastifyRequest) {
-  return req.headers.auth === "bearer" && key === secretKey;
+  return req.headers.auth === "bearer" && key === getCache();
 }
 
 function validateCredentials(username: string, password: string) {
