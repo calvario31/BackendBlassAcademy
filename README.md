@@ -17,13 +17,15 @@ Link de la documentación:
 
 ## Requerimientos
 
-* Node
-* VSCode (opcional)
+* Instalar Node https://nodejs.org/en/download
+* Instalar VSCode https://code.visualstudio.com/download
+
 ## Instalación
 
 1. Descargar o clonar el proyecto
 2. Abrir el proyecto con vscode
-3. En la terminal de vscode escribir:
+3. Abrir la terminal de vscode 
+4. Instalar las dependencias con:
 
 ```bash
   npm ci
@@ -31,7 +33,8 @@ Link de la documentación:
     
 ## Ejecución
 
-Una vez instalado, para ejecutar el servidor:
+Abrir la terminal de VSCode
+Escribir el siguiente comando para ejecutar el servidor:
 
 ```bash
   npm run start
@@ -42,5 +45,3 @@ Una vez instalado, para ejecutar el servidor:
 Todos los API están documentandos en el siguiente link:
 
 [Documentación de Postman](https://documenter.getpostman.com/view/7849298/2sB2ca7fHY)
-
-
