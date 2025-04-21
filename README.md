@@ -3,18 +3,6 @@
 
 Proyecto de Blass Academy para uso de API 
 
-Requerimientos
-
-
-
-Abrir el servidor
-Escribir el comando npm run start
-
-Link de la documentación:
-
-
-
-
 ## Requerimientos
 
 * Instalar Node https://nodejs.org/en/download
