@@ -5,8 +5,14 @@ Proyecto de Blass Academy para uso de API
 
 ## Requerimientos
 
-* Instalar Node https://nodejs.org/en/download
-* Instalar VSCode https://code.visualstudio.com/download
+* Instalar Node:
+  * [Link Oficial](https://nodejs.org/en/download)
+  * [Guía para Windows](https://www.youtube.com/watch?v=M_veZSGIX_w)
+  * [Guía para MacOS](https://www.youtube.com/watch?v=CDcf1sJZTlE)
+* Instalar VSCode:
+  * [Link Oficial](https://code.visualstudio.com/download)
+  * [Guía para Windows](https://www.youtube.com/watch?v=FwOJXIN2_po)
+  * [Guía para MacOS](https://www.youtube.com/watch?v=A84-F-JWb2g)
 * Opcional: tener instalado/configurado git para clonar el proyecto
 
 ## Instalación
@@ -29,7 +35,7 @@ Escribir el siguiente comando para ejecutar el servidor:
   npm run start
 ```
     
-## Documentation
+## Documentación de los API
 
 Todos los API están documentandos en el siguiente link:
 
