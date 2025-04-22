@@ -14,6 +14,16 @@ export default async function routes(fastify: FastifyInstance) {
   registerRoutes(fastify, "participantes", participantsController);
   registerRoutes(fastify, "productos", productsController);
   registerRoutes(fastify, "videojuegos", videogamesController);
+
+  registerRoutes(fastify, "basic/animales", animalsController);
+  registerRoutes(fastify, "basic/participantes", participantsController);
+  registerRoutes(fastify, "basic/productos", productsController);
+  registerRoutes(fastify, "basic/videojuegos", videogamesController);
+
+  registerRoutes(fastify, "auth/animales", animalsController);
+  registerRoutes(fastify, "auth/participantes", participantsController);
+  registerRoutes(fastify, "auth/productos", productsController);
+  registerRoutes(fastify, "auth/videojuegos", videogamesController);
 }
 
 function registerRoutes(
