@@ -46,7 +46,7 @@ export async function auth(fastify: FastifyInstance) {
 }
 
 function noAuthenticated(req: FastifyRequest, reply: FastifyReply, done) {
-  if (!req.headers.auth) done();
+  if (pathUnauthenticated(req.url)) done();
   else done(new Error());
 }
 
@@ -56,16 +56,20 @@ async function validate(
   req: FastifyRequest,
 ) {
   if (
-    !(req.headers.auth === "basic" && validateCredentials(username, password))
+    !(req.url.includes("/basic") && validateCredentials(username, password))
   ) {
     return new Error("No autorizado");
   }
 }
 
 function validateKey(key: string, req: FastifyRequest) {
-  return req.headers.auth === "bearer" && key === getCache();
+  return req.url.includes("/auth") && key === getCache();
 }
 
 function validateCredentials(username: string, password: string) {
   return username === "standard_user" && password === "secret_blass_academy";
+}
+
+function pathUnauthenticated(url: string) {
+  return !url.includes("/basic") && !url.includes("/auth");
 }
