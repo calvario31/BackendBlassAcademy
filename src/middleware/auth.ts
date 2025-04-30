@@ -6,42 +6,54 @@ import { sign } from "jsonwebtoken";
 import { getCache, setCache } from "./cache";
 
 const secretKey = "secret-key";
+const loginPayload = {
+  id: 1,
+  usuario: "standard_user",
+  email: "standard-user@blass-academy.com",
+  nombre: "Blass",
+  apellido: "Academy",
+  edad: 50,
+};
 
 export function login(fastify: FastifyInstance) {
   fastify.post("/auth/login", (req, reply) => {
     const { username, password } = req.body as any;
     if (!validateCredentials(username, password)) {
-      return reply
-        .code(401)
-        .send({ message: "Usuario o contraseña incorrecta" });
+      return reply.code(401).send({ message: "Usuario/Clave incorrectas" });
     }
-    const accessToken = sign({ username }, secretKey);
+    const accessToken = sign(
+      { ...loginPayload, image: "image1.jpeg" },
+      secretKey,
+      {},
+    );
     setCache(accessToken);
-    return reply.code(200).send({ accessToken });
+    return reply
+      .code(200)
+      .send({ ...loginPayload, accessToken, refreshToken: accessToken });
   });
 }
 
-export async function auth(fastify: FastifyInstance) {
-  await fastify
-    .register(fastifyAuth)
-    .register(fastifyBasicAuth, { validate })
-    .register(bearerAuthPlugin, {
-      addHook: false,
-      keys: [secretKey],
-      auth: validateKey,
-    });
+export async function basicAuth(fastify: FastifyInstance) {
+  await fastify.register(fastifyAuth).register(fastifyBasicAuth, { validate });
   fastify.decorate("allowUnauthenticated", noAuthenticated).addHook(
     "onRequest",
-    fastify.auth(
-      [
-        fastify.allowUnauthenticated,
-        fastify.basicAuth,
-        fastify.verifyBearerAuth,
-      ],
-      {
-        relation: "or",
-      },
-    ),
+    fastify.auth([fastify.allowUnauthenticated, fastify.basicAuth], {
+      relation: "or",
+    }),
+  );
+}
+
+export async function bearerAuth(fastify: FastifyInstance) {
+  await fastify.register(fastifyAuth).register(bearerAuthPlugin, {
+    addHook: false,
+    keys: [secretKey],
+    auth: validateKey,
+  });
+  fastify.decorate("allowUnauthenticated", noAuthenticated).addHook(
+    "onRequest",
+    fastify.auth([fastify.allowUnauthenticated, fastify.verifyBearerAuth], {
+      relation: "or",
+    }),
   );
 }
 
@@ -58,7 +70,7 @@ async function validate(
   if (
     !(req.url.includes("/basic") && validateCredentials(username, password))
   ) {
-    return new Error("No autorizado");
+    return new Error("Usuario/Clave incorrectas");
   }
 }
 

@@ -1,12 +1,16 @@
 import Fastify from "fastify";
-import routes from "./routes";
+import { basicRoutes, bearerRoutes, routeGenerator } from "./routes";
 import error from "./middleware/error";
 import { login } from "./middleware/auth";
+import hooks from "./middleware/hooks";
 
 const fastify = Fastify({ logger: true });
 
 fastify.register(login);
-fastify.register(routes);
+hooks(fastify);
+fastify.register(routeGenerator());
+fastify.register(basicRoutes);
+fastify.register(bearerRoutes);
 fastify.setErrorHandler(error);
 
 fastify.listen({ port: 3000 }, (err, address) => {
