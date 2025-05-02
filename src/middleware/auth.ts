@@ -22,7 +22,7 @@ export function login(fastify: FastifyInstance) {
       return reply.code(401).send({ message: "Usuario/Clave incorrectas" });
     }
     const accessToken = sign(
-      { ...loginPayload, image: "image1.jpeg" },
+      { ...loginPayload, i: "i" },
       secretKey,
       {},
     );
