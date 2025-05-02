@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nombre": "quark",
+    "nombre": "Filen de Georgina",
     "precio": 16.764,
     "cantidad": 7,
     "peso": 9.18,
@@ -10,40 +10,40 @@
     "criticas": [
       {
         "puntaje": 3.01,
-        "comentario": "A heartwarming Georgian soup, featuring fresh borlotti beans and an aromatic blend of traditional spices.",
-        "correo": "Harley.Altenwerth24@hotmail.com",
-        "usuario": "Harley_Altenwerth21"
+        "comentario": "Una reconfortante sopa georgiana, con frijoles borlotti frescos y una mezcla aromática de especias tradicionales.",
+        "correo": "Harley.Alt24@hotmail.com",
+        "usuario": "Harley_Alt21"
       },
       {
         "puntaje": 1.29,
-        "comentario": "Grilled ostrich kebabs, marinated in Rajasthani spices and served with a fresh iceberg lettuce and juniper berry salad.",
-        "correo": "Christina.Armstrong@hotmail.com",
-        "usuario": "Christina.Armstrong4"
+        "comentario": "Brochetas de avestruz a la parrilla, marinadas en especias de Rajastán y servidas con una ensalada fresca de lechuga iceberg y bayas de enebro.",
+        "correo": "Christina.Arm@hotmail.com",
+        "usuario": "Christina.Arm4"
       },
       {
         "puntaje": 3.89,
-        "comentario": "Grilled beef kebabs, marinated in Mexican spices and served with a fresh cauliflower and papaya salad.",
-        "correo": "Estrella_Aufderhar91@gmail.com",
-        "usuario": "Estrella.Aufderhar"
+        "comentario": "Brochetas de carne de res a la parrilla, marinadas en especias mexicanas y servidas con una ensalada fresca de coliflor y papaya.",
+        "correo": "Estrella_Adona@gmail.com",
+        "usuario": "Estrella.Audon"
       },
       {
         "puntaje": 4.72,
-        "comentario": "Our crunchy beef, slow-cooked to perfection, accompanied by steamed snowpea sprouts and a rich, savory gravy.",
+        "comentario": "Nuestra carne crujiente, cocinada a fuego lento a la perfección, acompañada de brotes de guisantes al vapor y una salsa rica y sabrosa.",
         "correo": "Quinten_Denesik@gmail.com",
         "usuario": "Quinten.Denesik15"
       },
       {
         "puntaje": 4.84,
-        "comentario": "Fresh mixed greens tossed with mace-rubbed turkey, chives, and a light dressing.",
-        "correo": "Brennan.Russel32@yahoo.com",
-        "usuario": "Brennan_Russel69"
+        "comentario": "Mezcla de verduras frescas con pavo frotado con macis, cebollino y un aderezo ligero.",
+        "correo": "Brennan.Rus32@yahoo.com",
+        "usuario": "Brennan_Rus69"
       }
     ],
-    "etiquetas": ["Handmade", "Modern", "Sleek", "Refined", "Elegant"]
+    "etiquetas": ["Hecho a mano", "Moderno", "Elegante", "Refinado"]
   },
   {
     "id": 2,
-    "nombre": "fresh chillies",
+    "nombre": "Papas fritas",
     "precio": 15.699,
     "cantidad": 10,
     "peso": 12.704,
@@ -52,50 +52,50 @@
     "criticas": [
       {
         "puntaje": 1.48,
-        "comentario": "Crispy fried quail bites, seasoned with rice paper and served with a tangy lychee dipping sauce.",
+        "comentario": "Bocados de codorniz fritos y crujientes, condimentados con papel de arroz y servidos con una salsa picante de lichi.",
         "correo": "Fredy_Walsh@yahoo.com",
         "usuario": "Fredy_Walsh95"
       },
       {
         "puntaje": 4.74,
-        "comentario": "Juicy goose, grilled to your liking and drizzled with a bold balti stir fry mix sauce, served alongside roasted bean sprouts.",
-        "correo": "Eloisa.Swaniawski@yahoo.com",
-        "usuario": "Eloisa.Swaniawski82"
+        "comentario": "Asado a su gusto y rociado con una audaz salsa salteada de balti, servido junto con brotes de soja tostados.",
+        "correo": "Elisa.S@yahoo.com",
+        "usuario": "Elisa.Si82"
       },
       {
         "puntaje": 2.28,
-        "comentario": "A slow-roasted Least Bittern with a tender, moist exterior. Stuffed with blackberry and covered in mango sauce. Sides with kale puree and wild iceberg lettuce.",
-        "correo": "Jayce.Bogisich7@gmail.com",
-        "usuario": "Jayce_Bogisich"
+        "comentario": "Un avetoro común asado a fuego lento con un exterior tierno y jugoso. Relleno de mora y cubierto de salsa de mango. Guarniciones con puré de col rizada y lechuga iceberg silvestre.",
+        "correo": "Jayce.Bo7@gmail.com",
+        "usuario": "Jayce_Bo7"
       },
       {
         "puntaje": 2.69,
-        "comentario": "A classic pie filled with delicious quail and rich lentils, baked in a moist pastry crust and topped with a golden-brown lattice.",
-        "correo": "Myah.Pfeffer35@gmail.com",
-        "usuario": "Myah_Pfeffer"
+        "comentario": "Un pastel clásico relleno de deliciosa codorniz y ricas lentejas, horneado en una corteza de hojaldre húmeda y cubierto con una celosía de color marrón dorado.",
+        "correo": "Mia.fer35@gmail.com",
+        "usuario": "Mia_Fer"
       },
       {
         "puntaje": 4.56,
-        "comentario": "Crispy fried emu bites, seasoned with rogan josh and served with a tangy corella pear dipping sauce.",
+        "comentario": "Bocados de emú fritos y crujientes, condimentados con rogan josh y servidos con una salsa picante de pera Corella.",
         "correo": "Salvador.Turner60@gmail.com",
         "usuario": "Salvador_Turner56"
       }
     ],
     "etiquetas": [
-      "Incredible",
-      "Bespoke",
-      "Modern",
-      "Fresh",
-      "Electronic",
-      "Generic",
+      "Increíble",
+      "Hecho a medida",
+      "Moderno",
+      "Fresco",
+      "Electrónico",
+      "Genérico",
       "Oriental",
-      "Handmade",
-      "Luxurious"
+      "Hecho a mano",
+      "Lujoso"
     ]
   },
   {
     "id": 3,
-    "nombre": "eggplant",
+    "nombre": "Berenjena",
     "precio": 18.775,
     "cantidad": 9,
     "peso": 9.648,
@@ -104,50 +104,50 @@
     "criticas": [
       {
         "puntaje": 3.79,
-        "comentario": "Tenderly braised lamb in a rich sesame seed and brussels sprouts sauce, served with a side of creamy garlic.",
-        "correo": "Geraldine.Homenick91@yahoo.com",
-        "usuario": "Geraldine_Homenick29"
+        "comentario": "Cordero tiernamente estofado en una rica salsa de semillas de sésamo y coles de Bruselas, servido con un acompañamiento de ajo cremoso.",
+        "correo": "Geraldine.Hom91@yahoo.com",
+        "usuario": "Geraldine_Hom29"
       },
       {
         "puntaje": 2.26,
-        "comentario": "Three crabs with french eschallots, dried chinese broccoli, kale, dried chinese broccoli and arrowroot. With a side of baked tomato, and your choice of olives or spelt.",
-        "correo": "Kira.Ullrich77@hotmail.com",
-        "usuario": "Kira_Ullrich"
+        "comentario": "Tres cangrejos con chalotes franceses, brócoli chino seco, col rizada, brócoli chino seco y arrurruz. Con una guarnición de tomate asado y aceitunas o espelta a elegir.",
+        "correo": "Kiara.Ul77@hotmail.com",
+        "usuario": "Kiara_Ul"
       },
       {
         "puntaje": 2.84,
-        "comentario": "Our bitter crocodile, slow-cooked to perfection, accompanied by steamed arugula and a rich, savory gravy.",
-        "correo": "Jaqueline_Cummerata44@yahoo.com",
-        "usuario": "Jaqueline_Cummerata59"
+        "comentario": "Nuestro cocodrilo amargo, cocinado a fuego lento a la perfección, acompañado de rúcula al vapor y una salsa rica y sabrosa.",
+        "correo": "Jaqueline_Cu44@yahoo.com",
+        "usuario": "Jaqueline_Curata59"
       },
       {
         "puntaje": 4.98,
-        "comentario": "A special pink sultanas from Malta. To support the strong flavor it is sided with a tablespoon of lemon pepper.",
-        "correo": "Adelia.Pacocha@gmail.com",
-        "usuario": "Adelia_Pacocha79"
+        "comentario": "Unas pasas rosadas especiales de Malta. Para realzar su intenso sabor, se acompañan con una cucharada de pimienta limón.",
+        "correo": "Adelia.Paco@gmail.com",
+        "usuario": "Adelia_Paco79"
       },
       {
         "puntaje": 3.41,
-        "comentario": "Our sweet lamb, slow-cooked to perfection, accompanied by steamed lettuce and a rich, savory gravy.",
-        "correo": "Joanne.Larson13@hotmail.com",
-        "usuario": "Joanne_Larson92"
+        "comentario": "Nuestro dulce cordero, cocinado a fuego lento a la perfección, acompañado de lechuga al vapor y una salsa rica y sabrosa.",
+        "correo": "Joanne.La13@hotmail.com",
+        "usuario": "Joanne_La92"
       }
     ],
     "etiquetas": [
-      "Soft",
-      "Intelligent",
-      "Elegant",
-      "Electronic",
-      "Incredible",
-      "Small",
-      "Handcrafted",
-      "Licensed",
+      "Suave",
+      "Inteligente",
+      "Elegante",
+      "Electrónico",
+      "Increíble",
+      "Pequeño",
+      "Hecho a mano",
+      "Con licencia",
       "Oriental"
     ]
   },
   {
     "id": 4,
-    "nombre": "chickory",
+    "nombre": "Pollo empanizado",
     "precio": 5.515,
     "cantidad": 2,
     "peso": 8.423,
@@ -156,40 +156,40 @@
     "criticas": [
       {
         "puntaje": 1.43,
-        "comentario": "Fresh muesli with a pinch of amchoor, topped by a caramelized papaw with whipped cream",
-        "correo": "Abigale_Stehr91@hotmail.com",
+        "comentario": "Muesli fresco con una pizca de amchoor, cubierto con una papaya caramelizada con crema batida.",
+        "correo": "Abigael_Stehr91@hotmail.com",
         "usuario": "Abigale.Stehr49"
       },
       {
         "puntaje": 4.76,
-        "comentario": "Crispy fried ostrich bites, seasoned with thyme and served with a tangy cavalo dipping sauce.",
-        "correo": "Cooper.Hegmann43@yahoo.com",
+        "comentario": "Bocados de avestruz fritos y crujientes, condimentados con tomillo y servidos con una salsa picante de cavalo.",
+        "correo": "Cooper.Hemann43@yahoo.com",
         "usuario": "Cooper.Hegmann"
       },
       {
         "puntaje": 4.31,
-        "comentario": "Crispy fried venison bites, seasoned with cinnamon and served with a tangy sprout dipping sauce.",
+        "comentario": "Bocados crujientes de venado frito, condimentados con canela y servidos con una salsa picante de brotes.",
         "correo": "Lyric_King79@yahoo.com",
         "usuario": "Lyric.King"
       },
       {
         "puntaje": 1.96,
-        "comentario": "Tenderly braised crocodile in a rich vanilla and carrot sauce, served with a side of creamy jicama.",
-        "correo": "Myrtis.Okuneva@yahoo.com",
-        "usuario": "Myrtis.Okuneva12"
+        "comentario": "Cocodrilo tiernamente estofado en una rica salsa de vainilla y zanahoria, servido con un acompañamiento de jícama cremosa.",
+        "correo": "Martis.Ok@yahoo.com",
+        "usuario": "Martis.Ok12"
       },
       {
         "puntaje": 1.62,
-        "comentario": "Baked pumpkin seed-stuffed kangaroo, seasoned with orange zest and zesty herbs, accompanied by roasted endive medley.",
-        "correo": "Everardo_Paucek76@hotmail.com",
-        "usuario": "Everardo_Paucek"
+        "comentario": "Canguro relleno de semillas de calabaza al horno, condimentado con ralladura de naranja y hierbas picantes, acompañado de una mezcla de endivias asadas.",
+        "correo": "Everardo_Pau76@hotmail.com",
+        "usuario": "Everardo_Pau"
       }
     ],
-    "etiquetas": ["Fantastic", "Sleek", "Generic", "Practical", "Unbranded"]
+    "etiquetas": ["Fantástico", "Elegante", "Genérico", "Práctico", "Sin marca"]
   },
   {
     "id": 5,
-    "nombre": "vegetable oil",
+    "nombre": "Aceite Vegetal",
     "precio": 19.594,
     "cantidad": 3,
     "peso": 6.606,
@@ -198,40 +198,40 @@
     "criticas": [
       {
         "puntaje": 0.97,
-        "comentario": "Juicy turkey, grilled to your liking and drizzled with a bold curry sauce, served alongside roasted lettuce.",
+        "comentario": "Pavo jugoso, asado a su gusto y rociado con una salsa de curry intensa, servido junto con lechuga asada.",
         "correo": "Antonetta_Walsh@hotmail.com",
         "usuario": "Antonetta_Walsh"
       },
       {
         "puntaje": 1.03,
-        "comentario": "Fresh bulghur with a pinch of peppercorns, topped by a caramelized blueberry with whipped cream",
+        "comentario": "Bulghur fresco con una pizca de pimienta, cubierto con un arándano caramelizado con crema batida.",
         "correo": "Ciara.Kertzmann43@yahoo.com",
         "usuario": "Ciara_Kertzmann"
       },
       {
         "puntaje": 4.48,
-        "comentario": "A robust smoky stew featuring Mordovian flavors, loaded with salty meat, crispy vegetables, and a delicious, juicy broth.",
+        "comentario": "Un estofado ahumado y robusto con sabores de Mordovia, cargado de carne salada, vegetales crujientes y un caldo delicioso y jugoso.",
         "correo": "Devyn_Grimes-Feeney87@yahoo.com",
         "usuario": "Devyn_Grimes-Feeney69"
       },
       {
         "puntaje": 1.04,
-        "comentario": "Our smoky pork, slow-cooked to perfection, accompanied by steamed celery and a rich, savory gravy.",
+        "comentario": "Nuestro cerdo ahumado, cocinado a fuego lento a la perfección, acompañado de apio al vapor y una salsa rica y sabrosa.",
         "correo": "Osborne_Turcotte46@gmail.com",
         "usuario": "Osborne_Turcotte"
       },
       {
         "puntaje": 0.67,
-        "comentario": "Hearty hot smoked salmon and goose stew, slow-cooked with coriander and kale for a comforting, flavorful meal.",
+        "comentario": "Estofado abundante de salmón ahumado caliente y ganso, cocinado a fuego lento con cilantro y col rizada para una comida reconfortante y sabrosa.",
         "correo": "Sheldon.Hudson@gmail.com",
         "usuario": "Sheldon_Hudson"
       }
     ],
-    "etiquetas": ["Handcrafted"]
+    "etiquetas": ["Hecho a mano"]
   },
   {
     "id": 6,
-    "nombre": "jewfish",
+    "nombre": "Pez joya",
     "precio": 4.162,
     "cantidad": 1,
     "peso": 7.793,
@@ -240,40 +240,40 @@
     "criticas": [
       {
         "puntaje": 4.99,
-        "comentario": "A classic pie filled with delicious kangaroo and sweet lamb, baked in a moist pastry crust and topped with a golden-brown lattice.",
+        "comentario": "Un pastel clásico relleno de delicioso canguro y dulce cordero, horneado en una corteza de pastelería húmeda y cubierto con una celosía de color marrón dorado.",
         "correo": "Madelynn.Luettgen@hotmail.com",
         "usuario": "Madelynn.Luettgen99"
       },
       {
         "puntaje": 0.76,
-        "comentario": "Tenderly braised beef in a rich thyme and asparagus sauce, served with a side of creamy asian greens.",
+        "comentario": "Carne de res tiernamente estofada en una rica salsa de tomillo y espárragos, servida con un acompañamiento de verduras asiáticas cremosas.",
         "correo": "Nikko_Conn27@hotmail.com",
         "usuario": "Nikko_Conn"
       },
       {
         "puntaje": 2.48,
-        "comentario": "Three agar with lettuce, chilli pepper, beans, peas and cornichons. With a side of baked currant, and your choice of buckwheat or basil basmati rice.",
+        "comentario": "Tres agar con lechuga, chile, frijoles, guisantes y pepinillos. Con un acompañamiento de grosella negra asada y a elegir entre trigo sarraceno o arroz basmati con albahaca.",
         "correo": "Lemuel.Kunde84@hotmail.com",
         "usuario": "Lemuel_Kunde"
       },
       {
         "puntaje": 3.24,
-        "comentario": "A succulent beef steak, encased in a sweet chilli crust, served with a side of cassia mashed beetroot.",
+        "comentario": "Un jugoso filete de res, envuelto en una corteza dulce de chile, servido con un acompañamiento de puré de remolacha con casia.",
         "correo": "Shany_Collins@gmail.com",
         "usuario": "Shany_Collins"
       },
       {
         "puntaje": 2.96,
-        "comentario": "Tenderly braised quail in a rich peppercorns and peppers sauce, served with a side of creamy rhubarb.",
+        "comentario": "Codorniz tiernamente estofada en una rica salsa de granos de pimienta y pimientos, servida con un acompañamiento de ruibarbo cremoso.",
         "correo": "Justice.Parker38@yahoo.com",
         "usuario": "Justice.Parker"
       }
     ],
-    "etiquetas": ["Fresh", "Rustic"]
+    "etiquetas": ["Fresco", "Rústico"]
   },
   {
     "id": 7,
-    "nombre": "cheddar",
+    "nombre": "Queso cheddar",
     "precio": 5.791,
     "cantidad": 4,
     "peso": 15.733,
@@ -282,48 +282,48 @@
     "criticas": [
       {
         "puntaje": 0.39,
-        "comentario": "Tender salmon skewers, glazed with a sweet and tangy sprout sauce, served over a bed of fragrant jasmine rice.",
+        "comentario": "Brochetas tiernas de salmón, glaseadas con una salsa dulce y ácida de brotes, servidas sobre una cama de fragante arroz jazmín.",
         "correo": "Carmella_Gleason96@hotmail.com",
         "usuario": "Carmella_Gleason96"
       },
       {
         "puntaje": 1.31,
-        "comentario": "Crispy fried chicken bites, seasoned with chillies and served with a tangy custard apple dipping sauce.",
+        "comentario": "Bocados crujientes de pollo frito, sazonados con chiles y servidos con una salsa picante de manzana de crema.",
         "correo": "Maudie_Dicki@hotmail.com",
         "usuario": "Maudie_Dicki81"
       },
       {
         "puntaje": 1.88,
-        "comentario": "A slow-roasted Gila Woodpecker with a tangy, spicy exterior. Stuffed with mulberry and covered in dried apricot sauce. Sides with spinach puree and wild capers.",
+        "comentario": "Un pájaro carpintero de Gila asado a fuego lento con un exterior picante y ácido. Relleno de mora y cubierto con salsa de albaricoque seco. Acompañamientos con puré de espinacas y alcaparras silvestres.",
         "correo": "Esperanza.Green@hotmail.com",
         "usuario": "Esperanza_Green"
       },
       {
         "puntaje": 1.84,
-        "comentario": "Tenderly braised venison in a rich pot marjoram and jerusalem artichoke sauce, served with a side of creamy onion.",
+        "comentario": "Venado tiernamente estofado en una rica salsa de mejorana y alcachofa de Jerusalén, servido con un acompañamiento de cebolla cremosa.",
         "correo": "Susie.Adams24@gmail.com",
         "usuario": "Susie.Adams45"
       },
       {
         "puntaje": 0.11,
-        "comentario": "A robust spicy stew featuring Georgian flavors, loaded with fresh meat, golden vegetables, and a crispy, moist broth.",
+        "comentario": "Un estofado picante y robusto con sabores georgianos, cargado de carne fresca, vegetales dorados y un caldo crujiente y húmedo.",
         "correo": "Kaylee_Torphy@gmail.com",
         "usuario": "Kaylee.Torphy81"
       }
     ],
     "etiquetas": [
-      "Rustic",
-      "Elegant",
-      "Recycled",
+      "Rústico",
+      "Elegante",
+      "Reciclado",
       "Oriental",
-      "Practical",
-      "Handmade",
-      "Generic"
+      "Práctico",
+      "Hecho a mano",
+      "Genérico"
     ]
   },
   {
     "id": 8,
-    "nombre": "avocado",
+    "nombre": "Aguacate",
     "precio": 12.58,
     "cantidad": 3,
     "peso": 17.628,
@@ -332,50 +332,50 @@
     "criticas": [
       {
         "puntaje": 0.35,
-        "comentario": "A succulent salmon steak, encased in a delicious galangal crust, served with a side of mace mashed radish.",
+        "comentario": "Un jugoso filete de salmón, envuelto en una deliciosa corteza de galanga, servido con un acompañamiento de puré de rábano con macis.",
         "correo": "Elva.Kemmer@gmail.com",
         "usuario": "Elva_Kemmer4"
       },
       {
         "puntaje": 1.78,
-        "comentario": "A succulent crocodile steak, encased in a spicy lavender crust, served with a side of asafoetida mashed carrot.",
+        "comentario": "Un jugoso filete de cocodrilo, envuelto en una corteza picante de lavanda, servido con un acompañamiento de puré de zanahoria con asafétida.",
         "correo": "Serena.Bruen-Bahringer@hotmail.com",
         "usuario": "Serena.Bruen-Bahringer"
       },
       {
         "puntaje": 1.74,
-        "comentario": "Hearty brussels sprouts and pigeon stew, slow-cooked with thyme and beans for a comforting, flavorful meal.",
+        "comentario": "Estofado abundante de coles de Bruselas y paloma, cocinado a fuego lento con tomillo y frijoles para una comida reconfortante y sabrosa.",
         "correo": "Shad_OReilly95@gmail.com",
         "usuario": "Shad_OReilly18"
       },
       {
         "puntaje": 3.68,
-        "comentario": "Tender venison skewers, glazed with a sweet and tangy incaberry sauce, served over a bed of fragrant jasmine rice.",
+        "comentario": "Brochetas tiernas de venado, glaseadas con una salsa dulce y ácida de incaberry, servidas sobre una cama de fragante arroz jazmín.",
         "correo": "Theresa_Beahan@yahoo.com",
         "usuario": "Theresa.Beahan95"
       },
       {
         "puntaje": 4.23,
-        "comentario": "Hearty baking powder and duck stew, slow-cooked with sage and leeks for a comforting, flavorful meal.",
+        "comentario": "Estofado abundante de polvo de hornear y pato, cocinado a fuego lento con salvia y puerros para una comida reconfortante y sabrosa.",
         "correo": "Rosella_Carter-Witting@yahoo.com",
         "usuario": "Rosella.Carter-Witting"
       }
     ],
     "etiquetas": [
-      "Ergonomic",
-      "Tasty",
-      "Refined",
-      "Luxurious",
-      "Elegant",
-      "Licensed",
-      "Electronic",
-      "Sleek",
-      "Frozen"
+      "Ergonómico",
+      "Sabroso",
+      "Refinado",
+      "Lujoso",
+      "Elegante",
+      "Con licencia",
+      "Electrónico",
+      "Elegante",
+      "Congelado"
     ]
   },
   {
     "id": 9,
-    "nombre": "ajowan seed",
+    "nombre": "Semillas de ajowan",
     "precio": 2.546,
     "cantidad": 2,
     "peso": 17.659,
@@ -384,40 +384,40 @@
     "criticas": [
       {
         "puntaje": 1.28,
-        "comentario": "A robust fresh stew featuring Karnataka flavors, loaded with smoky meat, crunchy vegetables, and a fresh, bitter broth.",
+        "comentario": "Un estofado fresco y robusto con sabores de Karnataka, cargado de carne ahumada, vegetales crujientes y un caldo fresco y amargo.",
         "correo": "Oran_Davis92@gmail.com",
         "usuario": "Oran_Davis"
       },
       {
         "puntaje": 2.67,
-        "comentario": "A simple fig pie. No fancy stuff. Just pie.",
+        "comentario": "Un simple pastel de higos. Nada elegante. Solo pastel.",
         "correo": "Julius_Wolf89@hotmail.com",
         "usuario": "Julius.Wolf"
       },
       {
         "puntaje": 2.57,
-        "comentario": "A simple cantaloupe pie. No fancy stuff. Just pie.",
+        "comentario": "Un simple pastel de melón. Nada elegante. Solo pastel.",
         "correo": "Jackie.Schumm@gmail.com",
         "usuario": "Jackie.Schumm"
       },
       {
         "puntaje": 0.75,
-        "comentario": "Fresh mixed greens tossed with liquorice root-rubbed venison, kale, and a light dressing.",
+        "comentario": "Mezcla de verduras frescas con venado frotado con raíz de regaliz, col rizada y un aderezo ligero.",
         "correo": "Lucius_Zemlak@gmail.com",
         "usuario": "Lucius.Zemlak98"
       },
       {
         "puntaje": 3.52,
-        "comentario": "A heartwarming Hyderabad soup, featuring fresh sunflower seeds and an aromatic blend of traditional spices.",
+        "comentario": "Una sopa reconfortante de Hyderabad, con semillas de girasol frescas y una mezcla aromática de especias tradicionales.",
         "correo": "Aurore_Osinski2@hotmail.com",
         "usuario": "Aurore_Osinski2"
       }
     ],
-    "etiquetas": ["Awesome"]
+    "etiquetas": ["Increíble"]
   },
   {
     "id": 10,
-    "nombre": "marjoram",
+    "nombre": "Mejorana",
     "precio": 4.892,
     "cantidad": 3,
     "peso": 3.71,
@@ -426,47 +426,47 @@
     "criticas": [
       {
         "puntaje": 4.62,
-        "comentario": "An exquisite duck roast, infused with the essence of strawberry, slow-roasted to bring out its natural flavors and served with a side of creamy red pepper",
+        "comentario": "Un exquisito asado de pato, infundido con la esencia de fresa, asado a fuego lento para resaltar sus sabores naturales y servido con un acompañamiento de pimiento rojo cremoso.",
         "correo": "Stephany_Spencer-Mayert@gmail.com",
         "usuario": "Stephany.Spencer-Mayert"
       },
       {
         "puntaje": 4.74,
-        "comentario": "A slow-roasted Calliope Hummingbird with a zesty, savory exterior. Stuffed with peach and covered in pineapple sauce. Sides with celery puree and wild cornichons.",
+        "comentario": "Un colibrí Calliope asado a fuego lento con un exterior sabroso y ácido. Relleno de melocotón y cubierto con salsa de piña. Acompañamientos con puré de apio y pepinillos silvestres.",
         "correo": "Noe_Becker@hotmail.com",
         "usuario": "Noe_Becker24"
       },
       {
         "puntaje": 1.07,
-        "comentario": "Grilled quail kebabs, marinated in Czech spices and served with a fresh bok choy and dragonfruit salad.",
+        "comentario": "Brochetas de codorniz a la parrilla, marinadas en especias checas y servidas con una ensalada fresca de bok choy y fruta del dragón.",
         "correo": "Carley.Ruecker88@yahoo.com",
         "usuario": "Carley_Ruecker"
       },
       {
         "puntaje": 0.99,
-        "comentario": "Tenderly braised quail in a rich allspice and turnips sauce, served with a side of creamy cornichons.",
+        "comentario": "Codorniz tiernamente estofada en una rica salsa de pimienta de Jamaica y nabos, servida con un acompañamiento de pepinillos cremosos.",
         "correo": "Christa_Jaskolski@yahoo.com",
         "usuario": "Christa.Jaskolski"
       },
       {
         "puntaje": 0.59,
-        "comentario": "A succulent emu steak, encased in a moist mustard crust, served with a side of spearmint mashed celery.",
+        "comentario": "Un jugoso filete de emú, envuelto en una corteza húmeda de mostaza, servido con un acompañamiento de puré de apio con hierbabuena.",
         "correo": "Spencer.Walter67@hotmail.com",
         "usuario": "Spencer.Walter"
       }
     ],
     "etiquetas": [
-      "Licensed",
-      "Practical",
-      "Intelligent",
-      "Bespoke",
-      "Fresh",
-      "Frozen"
+      "Con licencia",
+      "Práctico",
+      "Inteligente",
+      "Hecho a medida",
+      "Fresco",
+      "Congelado"
     ]
   },
   {
     "id": 11,
-    "nombre": "haricot beans",
+    "nombre": "Frijoles haricot",
     "precio": 4.62,
     "cantidad": 4,
     "peso": 19.26,
@@ -475,40 +475,40 @@
     "criticas": [
       {
         "puntaje": 4.52,
-        "comentario": "Fresh mixed greens tossed with curry-rubbed pigeon, parsnip, and a light dressing.",
+        "comentario": "Mezcla de verduras frescas con paloma frotada con curry, chirivía y un aderezo ligero.",
         "correo": "Adolf_Hayes-Sauer14@gmail.com",
         "usuario": "Adolf_Hayes-Sauer20"
       },
       {
         "puntaje": 2.51,
-        "comentario": "A classic pie filled with delicious crocodile and moist green tea noodles, baked in a crispy pastry crust and topped with a golden-brown lattice.",
+        "comentario": "Un pastel clásico relleno de delicioso cocodrilo y húmedos fideos de té verde, horneado en una corteza de pastelería crujiente y cubierto con una celosía de color marrón dorado.",
         "correo": "Hanna.DuBuque@gmail.com",
         "usuario": "Hanna_DuBuque"
       },
       {
         "puntaje": 2.9,
-        "comentario": "Baked asian noodles-stuffed duck, seasoned with colombo and fluffy herbs, accompanied by roasted artichoke medley.",
+        "comentario": "Pato al horno relleno de fideos asiáticos, sazonado con colombo y hierbas esponjosas, acompañado de una mezcla asada de alcachofas.",
         "correo": "Valentina_Gerhold32@yahoo.com",
         "usuario": "Valentina.Gerhold"
       },
       {
         "puntaje": 0.47,
-        "comentario": "An exquisite venison roast, infused with the essence of juniper berry, slow-roasted to bring out its natural flavors and served with a side of creamy capers",
+        "comentario": "Un exquisito asado de venado, infundido con la esencia de bayas de enebro, asado a fuego lento para resaltar sus sabores naturales y servido con un acompañamiento de alcaparras cremosas.",
         "correo": "Aglae.Nitzsche62@yahoo.com",
         "usuario": "Aglae.Nitzsche"
       },
       {
         "puntaje": 2.13,
-        "comentario": "Fresh mixed greens tossed with poudre de colombo-rubbed turkey, sweet potato, and a light dressing.",
+        "comentario": "Mezcla de verduras frescas con pavo frotado con poudre de colombo, batata y un aderezo ligero.",
         "correo": "Una.Kunde86@gmail.com",
         "usuario": "Una_Kunde"
       }
     ],
-    "etiquetas": ["Sleek"]
+    "etiquetas": ["Elegante"]
   },
   {
     "id": 12,
-    "nombre": "goji berry",
+    "nombre": "Bayas de goji",
     "precio": 14.28,
     "cantidad": 1,
     "peso": 11.402,
@@ -517,40 +517,40 @@
     "criticas": [
       {
         "puntaje": 1.33,
-        "comentario": "A heartwarming Filipino soup, featuring fresh besan and an aromatic blend of traditional spices.",
+        "comentario": "Una sopa reconfortante filipina, con besan fresco y una mezcla aromática de especias tradicionales.",
         "correo": "Kailee.Bergstrom@gmail.com",
         "usuario": "Kailee_Bergstrom"
       },
       {
         "puntaje": 3.01,
-        "comentario": "Juicy chicken, grilled to your liking and drizzled with a bold onion seed sauce, served alongside roasted iceberg lettuce.",
+        "comentario": "Pollo jugoso, asado a su gusto y rociado con una salsa audaz de semillas de cebolla, servido junto con lechuga iceberg asada.",
         "correo": "Jeffrey_Boyle79@hotmail.com",
         "usuario": "Jeffrey.Boyle52"
       },
       {
         "puntaje": 2.03,
-        "comentario": "Our sweet salmon, slow-cooked to perfection, accompanied by steamed carob carrot and a rich, savory gravy.",
+        "comentario": "Nuestro dulce salmón, cocinado a fuego lento a la perfección, acompañado de zanahoria de algarroba al vapor y una salsa rica y sabrosa.",
         "correo": "Curt.Hettinger23@hotmail.com",
         "usuario": "Curt.Hettinger"
       },
       {
         "puntaje": 0.17,
-        "comentario": "Fresh mixed greens tossed with poppy seed-rubbed venison, kale, and a light dressing.",
+        "comentario": "Mezcla de verduras frescas con venado frotado con semillas de amapola, col rizada y un aderezo ligero.",
         "correo": "Gerardo_Crona8@gmail.com",
         "usuario": "Gerardo.Crona23"
       },
       {
         "puntaje": 2.85,
-        "comentario": "Grilled turkey kebabs, marinated in Jewish - Israeli spices and served with a fresh sweet potato and dragonfruit salad.",
+        "comentario": "Brochetas de pavo a la parrilla, marinadas en especias judías-israelíes y servidas con una ensalada fresca de batata y fruta del dragón.",
         "correo": "Percy_Christiansen@hotmail.com",
         "usuario": "Percy_Christiansen"
       }
     ],
-    "etiquetas": ["Incredible", "Awesome", "Sleek"]
+    "etiquetas": ["Increíble", "Increíble", "Elegante"]
   },
   {
     "id": 13,
-    "nombre": "fresh chillies",
+    "nombre": "Chiles frescos",
     "precio": 11.432,
     "cantidad": 3,
     "peso": 10.055,
@@ -559,36 +559,36 @@
     "criticas": [
       {
         "puntaje": 0.04,
-        "comentario": "Baked elderberry-stuffed pigeon, seasoned with bay leaves and creamy herbs, accompanied by roasted zucchini medley.",
+        "comentario": "Paloma al horno rellena de saúco, sazonada con hojas de laurel y hierbas cremosas, acompañada de una mezcla asada de calabacín.",
         "correo": "Mohammed.Schultz84@yahoo.com",
         "usuario": "Mohammed.Schultz"
       },
       {
         "puntaje": 3.35,
-        "comentario": "A slow-roasted White-cheeked Pintail with a delicious, bitter exterior. Stuffed with blood orange and covered in feijoa sauce. Sides with cabbage puree and wild parsnip.",
+        "comentario": "Un pato de cara blanca asado a fuego lento con un exterior amargo y delicioso. Relleno de naranja sanguina y cubierto con salsa de feijoa. Acompañamientos con puré de repollo y chirivía silvestre.",
         "correo": "Kieran_Turner88@hotmail.com",
         "usuario": "Kieran_Turner95"
       },
       {
         "puntaje": 0.06,
-        "comentario": "Three vanilla beans with green pepper, hijiki, celery, carob carrot and lemongrass. With a side of baked nectarine, and your choice of tuna or gruyere.",
+        "comentario": "Tres vainas de vainilla con pimiento verde, hijiki, apio, zanahoria de algarroba y limoncillo. Con un acompañamiento de nectarina asada y a elegir entre atún o gruyer.",
         "correo": "Lenore_Toy@yahoo.com",
         "usuario": "Lenore_Toy55"
       },
       {
         "puntaje": 2.21,
-        "comentario": "A classic pie filled with delicious chicken and delicious sausages, baked in a savory pastry crust and topped with a golden-brown lattice.",
+        "comentario": "Un pastel clásico relleno de delicioso pollo y sabrosas salchichas, horneado en una corteza de pastelería sabrosa y cubierto con una celosía de color marrón dorado.",
         "correo": "Sarah.Quigley@gmail.com",
         "usuario": "Sarah_Quigley54"
       },
       {
         "puntaje": 1.52,
-        "comentario": "Fresh mixed greens tossed with kaffir leaves-rubbed ostrich, hijiki, and a light dressing.",
+        "comentario": "Mezcla de verduras frescas con avestruz frotado con hojas de kaffir, hijiki y un aderezo ligero.",
         "correo": "Jimmy.Johnson71@hotmail.com",
         "usuario": "Jimmy.Johnson91"
       }
     ],
-    "etiquetas": ["Luxurious", "Small", "Elegant", "Generic", "Oriental"]
+    "etiquetas": ["Lujoso", "Pequeño", "Elegante", "Genérico", "Oriental"]
   },
   {
     "id": 14,
@@ -601,36 +601,36 @@
     "criticas": [
       {
         "puntaje": 1.9,
-        "comentario": "A special lavender mint from Rwanda. To support the strong flavor it is sided with a tablespoon of piri piri.",
+        "comentario": "Una menta lavanda especial de Ruanda. Para resaltar su fuerte sabor, se acompaña con una cucharada de piri piri.",
         "correo": "Cindy_Jacobson@yahoo.com",
         "usuario": "Cindy.Jacobson42"
       },
       {
         "puntaje": 0.84,
-        "comentario": "Grilled chicken kebabs, marinated in Chinese spices and served with a fresh bok choy and kiwi fruit salad.",
+        "comentario": "Brochetas de pollo a la parrilla, marinadas con especias chinas y servidas con una ensalada fresca de bok choy y kiwi.",
         "correo": "Hassan.Runolfsdottir@yahoo.com",
         "usuario": "Hassan_Runolfsdottir83"
       },
       {
         "puntaje": 0.98,
-        "comentario": "Hearty mountain bread and crocodile stew, slow-cooked with anise star and bok choy for a comforting, flavorful meal.",
+        "comentario": "Pan de montaña abundante y estofado de cocodrilo, cocido a fuego lento con anís estrellado y bok choy para una comida reconfortante y sabrosa.",
         "correo": "Lacey_Hintz@gmail.com",
         "usuario": "Lacey.Hintz"
       },
       {
         "puntaje": 3.2,
-        "comentario": "Baked brie-stuffed salmon, seasoned with lavender and spicy herbs, accompanied by roasted garlic medley.",
+        "comentario": "Salmón relleno de queso brie al horno, sazonado con lavanda y hierbas picantes, acompañado de una mezcla de ajo asado.",
         "correo": "Emmanuel.Tillman@gmail.com",
         "usuario": "Emmanuel.Tillman"
       },
       {
         "puntaje": 2.54,
-        "comentario": "Juicy pigeon, grilled to your liking and drizzled with a bold chamomile sauce, served alongside roasted jerusalem artichoke.",
+        "comentario": "Paloma jugosa, asada a tu gusto y rociada con una salsa de manzanilla audaz, servida junto con alcachofa de Jerusalén asada.",
         "correo": "Alfonzo.Bradtke@yahoo.com",
         "usuario": "Alfonzo.Bradtke37"
       }
     ],
-    "etiquetas": ["Sleek", "Modern", "Awesome"]
+    "etiquetas": ["Elegante", "Moderno", "Increíble"]
   },
   {
     "id": 15,
@@ -643,36 +643,42 @@
     "criticas": [
       {
         "puntaje": 0.62,
-        "comentario": "A special blue olives from Azerbaijan. To support the strong flavor it is sided with a tablespoon of cinnamon.",
+        "comentario": "Aceitunas azules especiales de Azerbaiyán. Para resaltar su fuerte sabor, se acompaña con una cucharada de canela.",
         "correo": "Delmer.Osinski15@gmail.com",
         "usuario": "Delmer.Osinski"
       },
       {
         "puntaje": 2.85,
-        "comentario": "Fresh gula melaka with a pinch of rosemary, topped by a caramelized jarrahdale pumpkin with whipped cream",
+        "comentario": "Gula melaka fresca con un toque de romero, cubierta con una calabaza jarrahdale caramelizada con crema batida.",
         "correo": "Flo_Mosciski@yahoo.com",
         "usuario": "Flo.Mosciski58"
       },
       {
         "puntaje": 3.09,
-        "comentario": "A robust spicy stew featuring Buddhist flavors, loaded with fluffy meat, creamy vegetables, and a crispy, crunchy broth.",
+        "comentario": "Un estofado picante robusto con sabores budistas, cargado con carne esponjosa, vegetales cremosos y un caldo crujiente.",
         "correo": "Zena.Corkery58@hotmail.com",
         "usuario": "Zena_Corkery"
       },
       {
         "puntaje": 1.65,
-        "comentario": "Tender duck skewers, glazed with a sweet and tangy dragonfruit sauce, served over a bed of fragrant jasmine rice.",
+        "comentario": "Brochetas de pato tiernas, glaseadas con una salsa dulce y ácida de pitahaya, servidas sobre una cama de arroz jazmín fragante.",
         "correo": "Kelsie.Hauck32@yahoo.com",
         "usuario": "Kelsie.Hauck0"
       },
       {
         "puntaje": 3.85,
-        "comentario": "1-day aged pork steak, with choice of 3 sides.",
+        "comentario": "Filete de cerdo añejado por 1 día, con elección de 3 acompañamientos.",
         "correo": "Creola.Bechtelar32@hotmail.com",
         "usuario": "Creola_Bechtelar20"
       }
     ],
-    "etiquetas": ["Bespoke", "Awesome", "Practical", "Refined", "Generic"]
+    "etiquetas": [
+      "Hecho a medida",
+      "Increíble",
+      "Práctico",
+      "Refinado",
+      "Genérico"
+    ]
   },
   {
     "id": 16,
@@ -685,42 +691,42 @@
     "criticas": [
       {
         "puntaje": 3.37,
-        "comentario": "A succulent rabbit steak, encased in a bitter vanilla crust, served with a side of fenugreek mashed raspberry.",
+        "comentario": "Un filete de conejo suculento, envuelto en una corteza de vainilla amarga, servido con un acompañamiento de puré de frambuesa con fenogreco.",
         "correo": "Hector_Balistreri-Romaguera@gmail.com",
         "usuario": "Hector_Balistreri-Romaguera"
       },
       {
         "puntaje": 2.92,
-        "comentario": "Three chia seeds with okra, zucchini, kale, bok choy and gruyere. With a side of baked pomegranate, and your choice of turnips or cheddar.",
+        "comentario": "Tres semillas de chía con okra, calabacín, col rizada, bok choy y gruyere. Con un acompañamiento de granada al horno, y tu elección de nabos o queso cheddar.",
         "correo": "Cecilia_Smitham@gmail.com",
         "usuario": "Cecilia_Smitham77"
       },
       {
         "puntaje": 4.35,
-        "comentario": "Tenderly braised emu in a rich lime leaves and cucumber sauce, served with a side of creamy jicama.",
+        "comentario": "Emú tiernamente estofado en una rica salsa de hojas de lima y pepino, servido con un acompañamiento de jícama cremosa.",
         "correo": "Bennett.Senger36@yahoo.com",
         "usuario": "Bennett_Senger52"
       },
       {
         "puntaje": 0.77,
-        "comentario": "A heartwarming Lebanese soup, featuring fresh enoki mushrooms and an aromatic blend of traditional spices.",
+        "comentario": "Una sopa libanesa reconfortante, con champiñones enoki frescos y una mezcla aromática de especias tradicionales.",
         "correo": "Marian_Renner@hotmail.com",
         "usuario": "Marian_Renner8"
       },
       {
         "puntaje": 1.22,
-        "comentario": "Juicy quail, grilled to your liking and drizzled with a bold cassia sauce, served alongside roasted green beans.",
+        "comentario": "Codorniz jugosa, asada a tu gusto y rociada con una salsa de casia audaz, servida junto con judías verdes asadas.",
         "correo": "Adolfo_Nader-Sipes@gmail.com",
         "usuario": "Adolfo.Nader-Sipes"
       }
     ],
     "etiquetas": [
-      "Modern",
-      "Sleek",
-      "Ergonomic",
-      "Gorgeous",
-      "Luxurious",
-      "Soft"
+      "Moderno",
+      "Elegante",
+      "Ergonómico",
+      "Hermoso",
+      "Lujoso",
+      "Suave"
     ]
   },
   {
@@ -734,36 +740,36 @@
     "criticas": [
       {
         "puntaje": 1.62,
-        "comentario": "A heartwarming Greek soup, featuring fresh limes and an aromatic blend of traditional spices.",
+        "comentario": "Una sopa griega reconfortante, con limas frescas y una mezcla aromática de especias tradicionales.",
         "correo": "Nathen.Berge@yahoo.com",
         "usuario": "Nathen.Berge3"
       },
       {
         "puntaje": 3.32,
-        "comentario": "Tender lamb skewers, glazed with a sweet and tangy custard apple sauce, served over a bed of fragrant jasmine rice.",
+        "comentario": "Brochetas de cordero tiernas, glaseadas con una salsa dulce y ácida de manzana de azúcar, servidas sobre una cama de arroz jazmín fragante.",
         "correo": "Shanna_Quitzon34@hotmail.com",
         "usuario": "Shanna.Quitzon"
       },
       {
         "puntaje": 3.5,
-        "comentario": "Baked mustard seed-stuffed crocodile, seasoned with tarragon and salty herbs, accompanied by roasted broccolini medley.",
+        "comentario": "Cocodrilo relleno de semillas de mostaza al horno, sazonado con estragón y hierbas saladas, acompañado de una mezcla de brócoli asado.",
         "correo": "Haskell_Becker@hotmail.com",
         "usuario": "Haskell.Becker"
       },
       {
         "puntaje": 4.43,
-        "comentario": "Fresh mixed greens tossed with ajwain seed-rubbed turkey, chives, and a light dressing.",
+        "comentario": "Verdes mixtos frescos mezclados con pavo frotado con semillas de ajwain, cebollino y un aderezo ligero.",
         "correo": "Brook.Windler@gmail.com",
         "usuario": "Brook_Windler83"
       },
       {
         "puntaje": 2.43,
-        "comentario": "A robust zesty stew featuring Rajasthani flavors, loaded with crunchy meat, crunchy vegetables, and a smoky, crunchy broth.",
+        "comentario": "Un estofado picante robusto con sabores de Rajastán, cargado con carne crujiente, vegetales crujientes y un caldo ahumado y crujiente.",
         "correo": "Mireya_Upton@yahoo.com",
         "usuario": "Mireya_Upton"
       }
     ],
-    "etiquetas": ["Recycled", "Elegant", "Rustic"]
+    "etiquetas": ["Reciclado", "Elegante", "Rústico"]
   },
   {
     "id": 18,
@@ -776,44 +782,44 @@
     "criticas": [
       {
         "puntaje": 0.19,
-        "comentario": "Our fluffy salmon, slow-cooked to perfection, accompanied by steamed chives and a rich, savory gravy.",
+        "comentario": "Nuestro salmón esponjoso, cocido a fuego lento a la perfección, acompañado de cebollino al vapor y una salsa rica y sabrosa.",
         "correo": "Vito_Shields95@yahoo.com",
         "usuario": "Vito_Shields"
       },
       {
         "puntaje": 0.07,
-        "comentario": "An exquisite lamb roast, infused with the essence of bush tomato, slow-roasted to bring out its natural flavors and served with a side of creamy asian greens",
+        "comentario": "Un exquisito asado de cordero, infusionado con la esencia de tomate de monte, asado lentamente para resaltar sus sabores naturales y servido con un acompañamiento de verduras asiáticas cremosas.",
         "correo": "Newell_Mayer82@yahoo.com",
         "usuario": "Newell_Mayer"
       },
       {
         "puntaje": 4.22,
-        "comentario": "Fresh mixed greens tossed with rice paper-rubbed beef, arugula, and a light dressing.",
+        "comentario": "Verdes mixtos frescos mezclados con carne de res frotada con papel de arroz, rúcula y un aderezo ligero.",
         "correo": "Rolando_Mraz@hotmail.com",
         "usuario": "Rolando.Mraz"
       },
       {
         "puntaje": 4.02,
-        "comentario": "Hearty butter and ostrich stew, slow-cooked with garam masala and arugula for a comforting, flavorful meal.",
+        "comentario": "Estofado abundante de mantequilla y avestruz, cocido a fuego lento con garam masala y rúcula para una comida reconfortante y sabrosa.",
         "correo": "Jammie.Hoppe@gmail.com",
         "usuario": "Jammie.Hoppe94"
       },
       {
         "puntaje": 4.9,
-        "comentario": "Crispy fried venison bites, seasoned with bay leaves and served with a tangy elderberry dipping sauce.",
+        "comentario": "Bocados de venado fritos crujientes, sazonados con hojas de laurel y servidos con una salsa de saúco ácida.",
         "correo": "Rigoberto_Bergstrom37@hotmail.com",
         "usuario": "Rigoberto.Bergstrom7"
       }
     ],
     "etiquetas": [
-      "Unbranded",
-      "Practical",
-      "Handmade",
-      "Tasty",
-      "Luxurious",
-      "Fantastic",
-      "Gorgeous",
-      "Bespoke"
+      "Sin marca",
+      "Práctico",
+      "Hecho a mano",
+      "Sabroso",
+      "Lujoso",
+      "Fantástico",
+      "Hermoso",
+      "Hecho a medida"
     ]
   },
   {
@@ -827,36 +833,36 @@
     "criticas": [
       {
         "puntaje": 0.86,
-        "comentario": "Juicy beef, grilled to your liking and drizzled with a bold chilli pepper sauce, served alongside roasted peppers.",
+        "comentario": "Carne de res jugosa, asada a tu gusto y rociada con una salsa de chile audaz, servida junto con pimientos asados.",
         "correo": "Eda.Crona55@yahoo.com",
         "usuario": "Eda.Crona"
       },
       {
         "puntaje": 0.18,
-        "comentario": "Three turnips with purple carrot, broccolini, radish, purple carrot and amaranth. With a side of baked date, and your choice of soy flour or agar.",
+        "comentario": "Tres nabos con zanahoria morada, brócoli, rábano, zanahoria morada y amaranto. Con un acompañamiento de dátil al horno, y tu elección de harina de soja o agar.",
         "correo": "Asia_Runolfsdottir81@yahoo.com",
         "usuario": "Asia_Runolfsdottir"
       },
       {
         "puntaje": 2.14,
-        "comentario": "An exquisite lamb roast, infused with the essence of starfruit, slow-roasted to bring out its natural flavors and served with a side of creamy radish",
+        "comentario": "Un exquisito asado de cordero, infusionado con la esencia de carambola, asado lentamente para resaltar sus sabores naturales y servido con un acompañamiento de rábano cremoso.",
         "correo": "Paris_Marvin@yahoo.com",
         "usuario": "Paris_Marvin"
       },
       {
         "puntaje": 3.69,
-        "comentario": "A slow-roasted Northern Waterthrush with a creamy, sour exterior. Stuffed with cumquat and covered in fig sauce. Sides with endive puree and wild french eschallots.",
+        "comentario": "Un Northern Waterthrush asado lentamente con un exterior cremoso y ácido. Relleno con kumquat y cubierto con salsa de higo. Acompañado con puré de achicoria y chalotas francesas silvestres.",
         "correo": "Mustafa.Dare@yahoo.com",
         "usuario": "Mustafa_Dare70"
       },
       {
         "puntaje": 4.85,
-        "comentario": "Grilled emu kebabs, marinated in German spices and served with a fresh cos lettuce and grape salad.",
+        "comentario": "Brochetas de emú a la parrilla, marinadas con especias alemanas y servidas con una ensalada fresca de lechuga cos y uvas.",
         "correo": "Palma.Torphy-Huels54@hotmail.com",
         "usuario": "Palma.Torphy-Huels24"
       }
     ],
-    "etiquetas": ["Frozen", "Handcrafted", "Modern", "Small"]
+    "etiquetas": ["Congelado", "Artesanal", "Moderno", "Pequeño"]
   },
   {
     "id": 20,
@@ -869,36 +875,43 @@
     "criticas": [
       {
         "puntaje": 0.81,
-        "comentario": "A special silver jarrahdale pumpkin from Papua New Guinea. To support the strong flavor it is sided with a tablespoon of basil.",
+        "comentario": "Una calabaza jarrahdale plateada especial de Papúa Nueva Guinea. Para resaltar su fuerte sabor, se acompaña con una cucharada de albahaca.",
         "correo": "Myrna.Haley85@gmail.com",
         "usuario": "Myrna_Haley18"
       },
       {
         "puntaje": 1.02,
-        "comentario": "95-day aged goose steak, with choice of 4 sides.",
+        "comentario": "Filete de ganso añejado por 95 días, con elección de 4 acompañamientos.",
         "correo": "Theodore.Price58@gmail.com",
         "usuario": "Theodore_Price88"
       },
       {
         "puntaje": 4.75,
-        "comentario": "Hearty quinoa and duck stew, slow-cooked with fenugreek and french eschallots for a comforting, flavorful meal.",
+        "comentario": "Estofado abundante de quinua y pato, cocido a fuego lento con fenogreco y chalotas francesas para una comida reconfortante y sabrosa.",
         "correo": "Jocelyn.Boehm@hotmail.com",
         "usuario": "Jocelyn_Boehm"
       },
       {
         "puntaje": 1.39,
-        "comentario": "Hearty honey and goose stew, slow-cooked with bbq and hijiki for a comforting, flavorful meal.",
+        "comentario": "Estofado abundante de miel y ganso, cocido a fuego lento con barbacoa e hijiki para una comida reconfortante y sabrosa.",
         "correo": "Garrison_Weber-Abernathy5@hotmail.com",
         "usuario": "Garrison_Weber-Abernathy72"
       },
       {
         "puntaje": 2.25,
-        "comentario": "Juicy duck, grilled to your liking and drizzled with a bold tagine sauce, served alongside roasted broccoli.",
+        "comentario": "Pato jugoso, asado a tu gusto y rociado con una salsa de tagine audaz, servido junto con brócoli asado.",
         "correo": "Gerhard_Hirthe18@hotmail.com",
         "usuario": "Gerhard_Hirthe38"
       }
     ],
-    "etiquetas": ["Modern", "Tasty", "Ergonomic", "Soft", "Oriental", "Small"]
+    "etiquetas": [
+      "Moderno",
+      "Sabroso",
+      "Ergonómico",
+      "Suave",
+      "Oriental",
+      "Pequeño"
+    ]
   },
   {
     "id": 21,
@@ -911,36 +924,36 @@
     "criticas": [
       {
         "puntaje": 4.65,
-        "comentario": "Our bitter kangaroo, slow-cooked to perfection, accompanied by steamed kohlrabi and a rich, savory gravy.",
+        "comentario": "Nuestro canguro amargo, cocido a fuego lento a la perfección, acompañado de colinabo al vapor y una salsa rica y sabrosa.",
         "correo": "Brendon.Hahn90@gmail.com",
         "usuario": "Brendon.Hahn73"
       },
       {
         "puntaje": 1.4,
-        "comentario": "A special yellow apple juice concentrate from Svalbard & Jan Mayen Islands. To support the strong flavor it is sided with a tablespoon of fenugreek.",
+        "comentario": "Un concentrado de jugo de manzana amarilla especial de las islas Svalbard y Jan Mayen. Para resaltar su fuerte sabor, se acompaña con una cucharada de fenogreco.",
         "correo": "Arvid.Gottlieb@gmail.com",
         "usuario": "Arvid_Gottlieb79"
       },
       {
         "puntaje": 1.84,
-        "comentario": "A robust savory stew featuring Rajasthani flavors, loaded with fluffy meat, spicy vegetables, and a bitter, spicy broth.",
+        "comentario": "Un estofado sabroso robusto con sabores de Rajastán, cargado con carne esponjosa, vegetales picantes y un caldo amargo y picante.",
         "correo": "Boris.Torp59@gmail.com",
         "usuario": "Boris.Torp29"
       },
       {
         "puntaje": 1.02,
-        "comentario": "Juicy ostrich, grilled to your liking and drizzled with a bold celery sauce, served alongside roasted broccoli.",
+        "comentario": "Avestruz jugoso, asado a tu gusto y rociado con una salsa de apio audaz, servido junto con brócoli asado.",
         "correo": "Katarina.Moore59@gmail.com",
         "usuario": "Katarina.Moore"
       },
       {
         "puntaje": 1.27,
-        "comentario": "Grilled rabbit kebabs, marinated in Brazilian spices and served with a fresh swiss chard and mulberry salad.",
+        "comentario": "Brochetas de conejo a la parrilla, marinadas con especias brasileñas y servidas con una ensalada fresca de acelga suiza y mora.",
         "correo": "Jessy.Wilkinson-Borer@gmail.com",
         "usuario": "Jessy_Wilkinson-Borer42"
       }
     ],
-    "etiquetas": ["Intelligent", "Unbranded", "Rustic", "Tasty"]
+    "etiquetas": ["Inteligente", "Sin marca", "Rústico", "Sabroso"]
   },
   {
     "id": 22,
@@ -953,42 +966,42 @@
     "criticas": [
       {
         "puntaje": 0.59,
-        "comentario": "A delightful tart combining savory green pepper and sweet plum, set in a buttery pastry shell and finished with a hint of basil.",
+        "comentario": "Una tarta deliciosa que combina pimiento verde sabroso y ciruela dulce, en una masa de mantequilla y terminada con un toque de albahaca.",
         "correo": "Carey.Vandervort@yahoo.com",
         "usuario": "Carey_Vandervort84"
       },
       {
         "puntaje": 0.27,
-        "comentario": "Tender lamb skewers, glazed with a sweet and tangy corella pear sauce, served over a bed of fragrant jasmine rice.",
+        "comentario": "Brochetas de cordero tiernas, glaseadas con una salsa dulce y ácida de pera corella, servidas sobre una cama de arroz jazmín fragante.",
         "correo": "Juana.OHara@yahoo.com",
         "usuario": "Juana_OHara"
       },
       {
         "puntaje": 3.33,
-        "comentario": "Tenderly braised kangaroo in a rich mace and parsnip sauce, served with a side of creamy sweet potato.",
+        "comentario": "Canguro tiernamente estofado en una rica salsa de macis y chirivía, servido con un acompañamiento de camote cremoso.",
         "correo": "Guiseppe_Fisher@hotmail.com",
         "usuario": "Guiseppe_Fisher"
       },
       {
         "puntaje": 1.76,
-        "comentario": "A classic pie filled with delicious venison and spicy hokkien noodles, baked in a sweet pastry crust and topped with a golden-brown lattice.",
+        "comentario": "Un pastel clásico relleno con delicioso venado y fideos hokkien picantes, horneado en una masa dulce y cubierto con un enrejado dorado.",
         "correo": "Anabelle_Renner@yahoo.com",
         "usuario": "Anabelle.Renner"
       },
       {
         "puntaje": 2.57,
-        "comentario": "A heartwarming Cajun soup, featuring fresh coriander seed and an aromatic blend of traditional spices.",
+        "comentario": "Una sopa cajún reconfortante, con semillas de cilantro frescas y una mezcla aromática de especias tradicionales.",
         "correo": "Harold_Bergnaum10@yahoo.com",
         "usuario": "Harold.Bergnaum47"
       }
     ],
     "etiquetas": [
-      "Ergonomic",
-      "Practical",
-      "Small",
-      "Rustic",
-      "Tasty",
-      "Intelligent",
+      "Ergonómico",
+      "Práctico",
+      "Pequeño",
+      "Rústico",
+      "Sabroso",
+      "Inteligente",
       "Oriental"
     ]
   },
@@ -1003,36 +1016,36 @@
     "criticas": [
       {
         "puntaje": 4.53,
-        "comentario": "A robust rich stew featuring Zanzibari flavors, loaded with spicy meat, sour vegetables, and a moist, spicy broth.",
+        "comentario": "Un estofado rico robusto con sabores de Zanzíbar, cargado con carne picante, vegetales ácidos y un caldo húmedo y picante.",
         "correo": "Candace.Dibbert23@hotmail.com",
         "usuario": "Candace_Dibbert"
       },
       {
         "puntaje": 4.78,
-        "comentario": "Hearty tea oil and rabbit stew, slow-cooked with curry and onion for a comforting, flavorful meal.",
+        "comentario": "Estofado abundante de aceite de té y conejo, cocido a fuego lento con curry y cebolla para una comida reconfortante y sabrosa.",
         "correo": "Antonia.Johns88@gmail.com",
         "usuario": "Antonia_Johns54"
       },
       {
         "puntaje": 1.94,
-        "comentario": "Our crunchy venison, slow-cooked to perfection, accompanied by steamed chinese cabbage and a rich, savory gravy.",
+        "comentario": "Nuestro venado crujiente, cocido a fuego lento a la perfección, acompañado de repollo chino al vapor y una salsa rica y sabrosa.",
         "correo": "Zita.OConner-Wisoky@yahoo.com",
         "usuario": "Zita_OConner-Wisoky"
       },
       {
         "puntaje": 3.79,
-        "comentario": "A robust sweet stew featuring Assyrian flavors, loaded with golden meat, moist vegetables, and a sour, bitter broth.",
+        "comentario": "Un estofado dulce robusto con sabores asirios, cargado con carne dorada, vegetales húmedos y un caldo ácido y amargo.",
         "correo": "Houston.Volkman47@yahoo.com",
         "usuario": "Houston_Volkman6"
       },
       {
         "puntaje": 4.64,
-        "comentario": "A classic pie filled with delicious quail and savory mace, baked in a juicy pastry crust and topped with a golden-brown lattice.",
+        "comentario": "Un pastel clásico relleno con deliciosa codorniz y macis sabroso, horneado en una masa jugosa y cubierto con un enrejado dorado.",
         "correo": "Yasmine_Lesch@gmail.com",
         "usuario": "Yasmine_Lesch"
       }
     ],
-    "etiquetas": ["Refined", "Frozen", "Generic", "Luxurious"]
+    "etiquetas": ["Refinado", "Congelado", "Genérico", "Lujoso"]
   },
   {
     "id": 24,
@@ -1045,36 +1058,36 @@
     "criticas": [
       {
         "puntaje": 1.68,
-        "comentario": "A delightful tart combining smoky carrot and sweet mango, set in a buttery pastry shell and finished with a hint of mango.",
+        "comentario": "Una tarta deliciosa que combina zanahoria ahumada y mango dulce, en una masa de mantequilla y terminada con un toque de mango.",
         "correo": "Alvena.Larson33@hotmail.com",
         "usuario": "Alvena_Larson24"
       },
       {
         "puntaje": 0.79,
-        "comentario": "Baked mandarins-stuffed rabbit, seasoned with bay leaves and juicy herbs, accompanied by roasted english spinach medley.",
+        "comentario": "Conejo relleno de mandarinas al horno, sazonado con hojas de laurel y hierbas jugosas, acompañado de una mezcla de espinaca inglesa asada.",
         "correo": "Osbaldo.Gusikowski@yahoo.com",
         "usuario": "Osbaldo_Gusikowski"
       },
       {
         "puntaje": 4.93,
-        "comentario": "Juicy emu, grilled to your liking and drizzled with a bold asafoetida sauce, served alongside roasted radish.",
+        "comentario": "Emú jugoso, asado a tu gusto y rociado con una salsa de asafétida audaz, servido junto con rábano asado.",
         "correo": "Deonte_Breitenberg@gmail.com",
         "usuario": "Deonte.Breitenberg58"
       },
       {
         "puntaje": 0.12,
-        "comentario": "Three cashews with chives, capers, endive, turnips and goji berry. With a side of baked cantaloupe, and your choice of starfruit or banana.",
+        "comentario": "Tres nueces de cajú con cebollino, alcaparras, achicoria, nabos y bayas de goji. Con un acompañamiento de melón al horno, y tu elección de carambola o plátano.",
         "correo": "Ruben.Abshire97@yahoo.com",
         "usuario": "Ruben.Abshire63"
       },
       {
         "puntaje": 4.34,
-        "comentario": "Our juicy venison, slow-cooked to perfection, accompanied by steamed endive and a rich, savory gravy.",
+        "comentario": "Nuestro venado jugoso, cocido a fuego lento a la perfección, acompañado de achicoria al vapor y una salsa rica y sabrosa.",
         "correo": "Rosalia.Kulas@yahoo.com",
         "usuario": "Rosalia.Kulas"
       }
     ],
-    "etiquetas": ["Unbranded"]
+    "etiquetas": ["Sin marca"]
   },
   {
     "id": 25,
@@ -1087,36 +1100,36 @@
     "criticas": [
       {
         "puntaje": 3.33,
-        "comentario": "52-day aged pigeon steak, with choice of 4 sides.",
+        "comentario": "Filete de paloma añejado por 52 días, con elección de 4 acompañamientos.",
         "correo": "Abel_Ratke55@gmail.com",
         "usuario": "Abel_Ratke"
       },
       {
         "puntaje": 3.33,
-        "comentario": "Three white wine vinegar with bok choy, bean shoots, asian greens, butternut lettuce and apple juice. With a side of baked kiwiberry, and your choice of sultanas or pumpkin seed.",
+        "comentario": "Tres vinagres de vino blanco con bok choy, brotes de frijol, verduras asiáticas, lechuga mantecosa y jugo de manzana. Con un acompañamiento de kiwiberry al horno, y tu elección de pasas o semillas de calabaza.",
         "correo": "Justus_Bauch@gmail.com",
         "usuario": "Justus.Bauch"
       },
       {
         "puntaje": 2.8,
-        "comentario": "A robust salty stew featuring Bulgarian flavors, loaded with fluffy meat, salty vegetables, and a crispy, juicy broth.",
+        "comentario": "Un estofado salado robusto con sabores búlgaros, cargado con carne esponjosa, vegetales salados y un caldo crujiente y jugoso.",
         "correo": "Rodolfo_Lemke63@yahoo.com",
         "usuario": "Rodolfo_Lemke56"
       },
       {
         "puntaje": 3.66,
-        "comentario": "Tender pigeon skewers, glazed with a sweet and tangy plum sauce, served over a bed of fragrant jasmine rice.",
+        "comentario": "Brochetas de paloma tiernas, glaseadas con una salsa dulce y ácida de ciruela, servidas sobre una cama de arroz jazmín fragante.",
         "correo": "Lyric.Metz@gmail.com",
         "usuario": "Lyric.Metz89"
       },
       {
         "puntaje": 2.18,
-        "comentario": "30-day aged chicken steak, with choice of 3 sides.",
+        "comentario": "Filete de pollo añejado por 30 días, con elección de 3 acompañamientos.",
         "correo": "Ryley_Feest@hotmail.com",
         "usuario": "Ryley_Feest"
       }
     ],
-    "etiquetas": ["Oriental", "Unbranded", "Practical", "Incredible", "Modern"]
+    "etiquetas": ["Oriental", "Sin marca", "Práctico", "Increíble", "Moderno"]
   },
   {
     "id": 26,
@@ -1129,45 +1142,45 @@
     "criticas": [
       {
         "puntaje": 2.53,
-        "comentario": "Grilled duck kebabs, marinated in Gujarati spices and served with a fresh carob carrot and dried apricot salad.",
+        "comentario": "Brochetas de pato a la parrilla, marinadas con especias de Gujarat y servidas con una ensalada fresca de zanahoria carob y albaricoque seco.",
         "correo": "Louisa.Hamill@gmail.com",
         "usuario": "Louisa.Hamill"
       },
       {
         "puntaje": 1.89,
-        "comentario": "A delightful tart combining crunchy broccolini and sweet cranberry, set in a buttery pastry shell and finished with a hint of mustard.",
+        "comentario": "Una tarta deliciosa que combina brócoli crujiente y arándano dulce, en una masa de mantequilla y terminada con un toque de mostaza.",
         "correo": "Caesar.OKeefe@hotmail.com",
         "usuario": "Caesar.OKeefe30"
       },
       {
         "puntaje": 3.28,
-        "comentario": "Three tabasco with radicchio, rhubarb, rhubarb, french eschallots and mango. With a side of baked blueberry, and your choice of broccolini or garam masala.",
+        "comentario": "Tres tabascos con radicchio, ruibarbo, ruibarbo, chalotas francesas y mango. Con un acompañamiento de arándano al horno, y tu elección de brócoli o garam masala.",
         "correo": "Kylee.Lynch11@gmail.com",
         "usuario": "Kylee_Lynch8"
       },
       {
         "puntaje": 2.24,
-        "comentario": "48-day aged ostrich steak, with choice of 4 sides.",
+        "comentario": "Filete de avestruz añejado por 48 días, con elección de 4 acompañamientos.",
         "correo": "Casper.Hintz@yahoo.com",
         "usuario": "Casper_Hintz"
       },
       {
         "puntaje": 1.74,
-        "comentario": "A heartwarming Hyderabad soup, featuring fresh dates and an aromatic blend of traditional spices.",
+        "comentario": "Una sopa de Hyderabad reconfortante, con dátiles frescos y una mezcla aromática de especias tradicionales.",
         "correo": "Maud_Greenholt90@yahoo.com",
         "usuario": "Maud_Greenholt"
       }
     ],
     "etiquetas": [
-      "Fantastic",
-      "Elegant",
-      "Frozen",
-      "Electronic",
-      "Intelligent",
-      "Tasty",
-      "Handmade",
-      "Ergonomic",
-      "Luxurious"
+      "Fantástico",
+      "Elegante",
+      "Congelado",
+      "Electrónico",
+      "Inteligente",
+      "Sabroso",
+      "Hecho a mano",
+      "Ergonómico",
+      "Lujoso"
     ]
   },
   {
@@ -1181,44 +1194,44 @@
     "criticas": [
       {
         "puntaje": 1.26,
-        "comentario": "A heartwarming Ukrainian soup, featuring fresh common cultivated mushrooms and an aromatic blend of traditional spices.",
+        "comentario": "Una sopa ucraniana reconfortante, con champiñones cultivados comunes frescos y una mezcla aromática de especias tradicionales.",
         "correo": "Teresa_Lindgren-Yundt@hotmail.com",
         "usuario": "Teresa.Lindgren-Yundt"
       },
       {
         "puntaje": 0.97,
-        "comentario": "A special violet strawberries from Guinea-Bissau. To support the strong flavor it is sided with a tablespoon of nutmeg.",
+        "comentario": "Fresas violetas especiales de Guinea-Bisáu. Para resaltar su fuerte sabor, se acompaña con una cucharada de nuez moscada.",
         "correo": "Lourdes.Corkery@hotmail.com",
         "usuario": "Lourdes.Corkery62"
       },
       {
         "puntaje": 4.55,
-        "comentario": "27-day aged lamb steak, with choice of 3 sides.",
+        "comentario": "Filete de cordero añejado por 27 días, con elección de 3 acompañamientos.",
         "correo": "Elmer.Upton40@yahoo.com",
         "usuario": "Elmer.Upton20"
       },
       {
         "puntaje": 0.67,
-        "comentario": "Crispy fried turkey bites, seasoned with vanilla and served with a tangy lime dipping sauce.",
+        "comentario": "Bocados de pavo fritos crujientes, sazonados con vainilla y servidos con una salsa de lima ácida.",
         "correo": "Reyes.Conroy@yahoo.com",
         "usuario": "Reyes_Conroy85"
       },
       {
         "puntaje": 0.79,
-        "comentario": "A robust fresh stew featuring Kurdish flavors, loaded with bitter meat, juicy vegetables, and a juicy, smoky broth.",
+        "comentario": "Un estofado fresco robusto con sabores kurdos, cargado con carne amarga, vegetales jugosos y un caldo jugoso y ahumado.",
         "correo": "Guy_Tillman9@gmail.com",
         "usuario": "Guy.Tillman"
       }
     ],
     "etiquetas": [
-      "Tasty",
-      "Recycled",
-      "Intelligent",
-      "Fresh",
-      "Modern",
-      "Incredible",
-      "Handcrafted",
-      "Luxurious"
+      "Sabroso",
+      "Reciclado",
+      "Inteligente",
+      "Fresco",
+      "Moderno",
+      "Increíble",
+      "Artesanal",
+      "Lujoso"
     ]
   },
   {
@@ -1232,36 +1245,36 @@
     "criticas": [
       {
         "puntaje": 1.99,
-        "comentario": "A robust zesty stew featuring Lebanese flavors, loaded with moist meat, savory vegetables, and a juicy, fresh broth.",
+        "comentario": "Un estofado picante robusto con sabores libaneses, cargado con carne húmeda, vegetales sabrosos y un caldo jugoso y fresco.",
         "correo": "Geovanny.Johnson60@gmail.com",
         "usuario": "Geovanny.Johnson"
       },
       {
         "puntaje": 3.5,
-        "comentario": "A classic pie filled with delicious goose and smoky pandanus leaves, baked in a fresh pastry crust and topped with a golden-brown lattice.",
+        "comentario": "Un pastel clásico relleno con delicioso ganso y hojas de pandano ahumadas, horneado en una masa fresca y cubierto con un enrejado dorado.",
         "correo": "Craig.MacGyver97@yahoo.com",
         "usuario": "Craig_MacGyver71"
       },
       {
         "puntaje": 1.92,
-        "comentario": "A robust golden stew featuring South Indian flavors, loaded with fresh meat, smoky vegetables, and a delicious, golden broth.",
+        "comentario": "Un estofado dorado robusto con sabores del sur de India, cargado con carne fresca, vegetales ahumados y un caldo delicioso y dorado.",
         "correo": "Norbert_Thompson@yahoo.com",
         "usuario": "Norbert.Thompson32"
       },
       {
         "puntaje": 1.04,
-        "comentario": "53-day aged chicken steak, with choice of 4 sides.",
+        "comentario": "Filete de pollo añejado por 53 días, con elección de 4 acompañamientos.",
         "correo": "Gwen.Wiza@yahoo.com",
         "usuario": "Gwen_Wiza35"
       },
       {
         "puntaje": 2.31,
-        "comentario": "Hearty barramundi and rabbit stew, slow-cooked with rice paper and capers for a comforting, flavorful meal.",
+        "comentario": "Estofado abundante de barramundi y conejo, cocido a fuego lento con papel de arroz y alcaparras para una comida reconfortante y sabrosa.",
         "correo": "Laurianne_Ziemann28@yahoo.com",
         "usuario": "Laurianne.Ziemann46"
       }
     ],
-    "etiquetas": ["Soft", "Licensed", "Rustic", "Electronic", "Elegant"]
+    "etiquetas": ["Suave", "Licenciado", "Rústico", "Electrónico", "Elegante"]
   },
   {
     "id": 29,
@@ -1274,48 +1287,48 @@
     "criticas": [
       {
         "puntaje": 1.74,
-        "comentario": "A slow-roasted Tricolored Blackbird with a crispy, tender exterior. Stuffed with guava and covered in custard apple sauce. Sides with dried chinese broccoli puree and wild cos lettuce.",
+        "comentario": "Un Tricolored Blackbird asado lentamente con un exterior crujiente y tierno. Relleno con guayaba y cubierto con salsa de manzana de azúcar. Acompañado con puré de brócoli chino seco y lechuga cos silvestre.",
         "correo": "Armand.Rippin41@hotmail.com",
         "usuario": "Armand_Rippin"
       },
       {
         "puntaje": 3.66,
-        "comentario": "Fresh kenchur with a pinch of anise, topped by a caramelized longan with whipped cream",
+        "comentario": "Kenchur fresco con un toque de anís, cubierto con un longan caramelizado con crema batida.",
         "correo": "Kristoffer_Pacocha-Ziemann79@gmail.com",
         "usuario": "Kristoffer.Pacocha-Ziemann34"
       },
       {
         "puntaje": 3.68,
-        "comentario": "A delightful tart combining zesty french eschallots and sweet tangelo, set in a buttery pastry shell and finished with a hint of peppercorns.",
+        "comentario": "Una tarta deliciosa que combina chalotas francesas picantes y tangelo dulce, en una masa de mantequilla y terminada con un toque de granos de pimienta.",
         "correo": "Catalina.Gulgowski23@yahoo.com",
         "usuario": "Catalina_Gulgowski30"
       },
       {
         "puntaje": 0.28,
-        "comentario": "A robust zesty stew featuring Caribbean flavors, loaded with creamy meat, salty vegetables, and a smoky, smoky broth.",
+        "comentario": "Un estofado picante robusto con sabores caribeños, cargado con carne cremosa, vegetales salados y un caldo ahumado.",
         "correo": "Karolann_Murray@hotmail.com",
         "usuario": "Karolann.Murray"
       },
       {
         "puntaje": 3.99,
-        "comentario": "A heartwarming Bashkir soup, featuring fresh muesli and an aromatic blend of traditional spices.",
+        "comentario": "Una sopa bashkir reconfortante, con muesli fresco y una mezcla aromática de especias tradicionales.",
         "correo": "Sally_Greenfelder@gmail.com",
         "usuario": "Sally.Greenfelder97"
       }
     ],
     "etiquetas": [
-      "Sleek",
-      "Bespoke",
-      "Refined",
-      "Unbranded",
-      "Fresh",
-      "Practical",
-      "Awesome"
+      "Elegante",
+      "Hecho a medida",
+      "Refinado",
+      "Sin marca",
+      "Fresco",
+      "Práctico",
+      "Impresionante"
     ]
   },
   {
     "id": 30,
-    "nombre": "dark chocolate",
+    "nombre": "chocolate oscuro",
     "precio": 14.128,
     "cantidad": 8,
     "peso": 16.587,
@@ -1324,35 +1337,35 @@
     "criticas": [
       {
         "puntaje": 0.79,
-        "comentario": "A robust moist stew featuring Punjabi flavors, loaded with tangy meat, golden vegetables, and a moist, bitter broth.",
+        "comentario": "Un guiso robusto y húmedo con sabores punjabíes, cargado de carne ácida, verduras doradas y un caldo húmedo y amargo.",
         "correo": "Linnie.Buckridge@yahoo.com",
         "usuario": "Linnie_Buckridge73"
       },
       {
         "puntaje": 3.75,
-        "comentario": "92-day aged goose steak, with choice of 3 sides.",
+        "comentario": "Filete de ganso envejecido durante 92 días, con elección de 3 guarniciones.",
         "correo": "Hanna.Olson@yahoo.com",
         "usuario": "Hanna_Olson61"
       },
       {
         "puntaje": 0.91,
-        "comentario": "Tenderly braised chicken in a rich colombo and asian greens sauce, served with a side of creamy potatoes.",
+        "comentario": "Pollo estofado tiernamente en una rica salsa colombo con verduras asiáticas, servido con un acompañamiento de papas cremosas.",
         "correo": "Lowell.Kuvalis@gmail.com",
         "usuario": "Lowell.Kuvalis72"
       },
       {
         "puntaje": 3.11,
-        "comentario": "Tender quail skewers, glazed with a sweet and tangy tomato sauce, served over a bed of fragrant jasmine rice.",
+        "comentario": "Brochetas de codorniz tiernas, glaseadas con una salsa de tomate dulce y ácida, servidas sobre una cama de arroz jazmín aromático.",
         "correo": "Kayleigh.Keebler@gmail.com",
         "usuario": "Kayleigh.Keebler50"
       },
       {
         "puntaje": 3.17,
-        "comentario": "A succulent beef steak, encased in a golden sweet laurel crust, served with a side of french lavender mashed chives.",
+        "comentario": "Un suculento filete de res, envuelto en una corteza dorada y dulce de laurel, servido con puré de cebollino y lavanda francesa.",
         "correo": "Irving.Grimes43@hotmail.com",
         "usuario": "Irving_Grimes"
       }
     ],
-    "etiquetas": ["Refined"]
+    "etiquetas": ["Refinado"]
   }
 ]

@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "nombre": "Hank",
+    "nombre": "Oddie",
     "tipo": "salvaje",
     "edad": 4,
     "peso": 18.9,
     "genero": "hermafrodita",
     "amo": {
-      "nombre": "Kamryn",
-      "apellido": "Steuber",
-      "correo": "Kamryn.Steuber29@gmail.com",
+      "nombre": "Karen",
+      "apellido": "Flores",
+      "correo": "Karen.Flores29@gmail.com",
       "edad": 20,
       "pais": "Bangladesh"
     }
@@ -22,26 +22,26 @@
     "peso": 38.62,
     "genero": "hembra",
     "amo": {
-      "nombre": "Kaley",
-      "apellido": "Lesch",
-      "correo": "Kaley_Lesch@hotmail.com",
+      "nombre": "Carla",
+      "apellido": "Leba",
+      "correo": "carlaLe@hotmail.com",
       "edad": 28,
-      "pais": "Spain"
+      "pais": "Portugal"
     }
   },
   {
     "id": 3,
-    "nombre": "Buddy",
+    "nombre": "Bob",
     "tipo": "domestico",
     "edad": 3,
     "peso": 16.15,
     "genero": "macho",
     "amo": {
       "nombre": "Evelyn",
-      "apellido": "Lockman",
-      "correo": "Evelyn.Lockman18@hotmail.com",
+      "apellido": "Bonilla",
+      "correo": "EvelynBon@hotmail.com",
       "edad": 55,
-      "pais": "Democratic People's Republic of Korea"
+      "pais": "Korea"
     }
   },
   {
@@ -52,54 +52,54 @@
     "peso": 25.33,
     "genero": "hermafrodita",
     "amo": {
-      "nombre": "Beatrice",
+      "nombre": "Beatriz",
       "apellido": "Will",
-      "correo": "Beatrice.Will@hotmail.com",
+      "correo": "Beatriz.Will@hotmail.com",
       "edad": 44,
-      "pais": "Iceland"
+      "pais": "Islandia"
     }
   },
   {
     "id": 5,
-    "nombre": "Nova",
+    "nombre": "Fido",
     "tipo": "cautivo",
     "edad": 3,
     "peso": 42.3,
     "genero": "hermafrodita",
     "amo": {
-      "nombre": "Dovie",
-      "apellido": "McLaughlin",
-      "correo": "Dovie_McLaughlin42@hotmail.com",
+      "nombre": "Dora",
+      "apellido": "Armando",
+      "correo": "Dora-armando@hotmail.com",
       "edad": 52,
       "pais": "Paraguay"
     }
   },
   {
     "id": 6,
-    "nombre": "Bandit",
+    "nombre": "Bandido",
     "tipo": "cautivo",
     "edad": 6,
     "peso": 28.97,
     "genero": "hermafrodita",
     "amo": {
-      "nombre": "Alford",
-      "apellido": "Lebsack",
-      "correo": "Alford.Lebsack99@hotmail.com",
+      "nombre": "Alfonso",
+      "apellido": "Ramirez",
+      "correo": "AlfRam99@hotmail.com",
       "edad": 22,
       "pais": "Canada"
     }
   },
   {
     "id": 7,
-    "nombre": "Stella",
+    "nombre": "Estrella",
     "tipo": "domestico",
     "edad": 2,
     "peso": 45.35,
     "genero": "hermafrodita",
     "amo": {
       "nombre": "Mollie",
-      "apellido": "Kunze",
-      "correo": "Mollie.Kunze@hotmail.com",
+      "apellido": "Mina",
+      "correo": "Mollie.Mina@hotmail.com",
       "edad": 38,
       "pais": "Nigeria"
     }
@@ -116,7 +116,7 @@
       "apellido": "Stanton",
       "correo": "Christophe_Stanton52@hotmail.com",
       "edad": 30,
-      "pais": "Guam"
+      "pais": "Guatemala"
     }
   },
   {
@@ -127,11 +127,11 @@
     "peso": 11.7,
     "genero": "macho",
     "amo": {
-      "nombre": "Trycia",
-      "apellido": "Schmidt",
-      "correo": "Trycia.Schmidt@hotmail.com",
+      "nombre": "Tina",
+      "apellido": "Danilo",
+      "correo": "Tina.09@hotmail.com",
       "edad": 36,
-      "pais": "Saint Kitts and Nevis"
+      "pais": "Salvador"
     }
   },
   {
@@ -151,90 +151,90 @@
   },
   {
     "id": 11,
-    "nombre": "Kobe",
+    "nombre": "Coni",
     "tipo": "domestico",
     "edad": 3,
     "peso": 19.69,
     "genero": "hembra",
     "amo": {
       "nombre": "Mohamed",
-      "apellido": "Pagac",
-      "correo": "Mohamed_Pagac@yahoo.com",
+      "apellido": "Pagani",
+      "correo": "Mohamed_Pagani@yahoo.com",
       "edad": 35,
-      "pais": "Kyrgyz Republic"
+      "pais": "India"
     }
   },
   {
     "id": 12,
-    "nombre": "Kobe",
+    "nombre": "Carlo",
     "tipo": "domestico",
     "edad": 1,
     "peso": 39.46,
     "genero": "hermafrodita",
     "amo": {
-      "nombre": "Mathilde",
-      "apellido": "Cartwright",
-      "correo": "Mathilde.Cartwright@yahoo.com",
+      "nombre": "Matilda",
+      "apellido": "Carter",
+      "correo": "Matild23@yahoo.com",
       "edad": 51,
-      "pais": "American Samoa"
+      "pais": "Ecuador"
     }
   },
   {
     "id": 13,
-    "nombre": "Molly",
+    "nombre": "Morgana",
     "tipo": "salvaje",
     "edad": 6,
     "peso": 27.83,
     "genero": "hermafrodita",
     "amo": {
-      "nombre": "Obie",
-      "apellido": "Christiansen",
-      "correo": "Obie.Christiansen@gmail.com",
+      "nombre": "Jose",
+      "apellido": "Chris",
+      "correo": "Jose.C@gmail.com",
       "edad": 40,
       "pais": "Iran"
     }
   },
   {
     "id": 14,
-    "nombre": "Stella",
+    "nombre": "Ramon",
     "tipo": "salvaje",
     "edad": 3,
     "peso": 37.13,
     "genero": "hermafrodita",
     "amo": {
-      "nombre": "Agnes",
-      "apellido": "Gulgowski",
-      "correo": "Agnes_Gulgowski@gmail.com",
+      "nombre": "Carmen",
+      "apellido": "Gael",
+      "correo": "carm.ga@gmail.com",
       "edad": 54,
-      "pais": "Saudi Arabia"
+      "pais": "Arabia Saudita"
     }
   },
   {
     "id": 15,
-    "nombre": "Cookie",
+    "nombre": "Luna",
     "tipo": "domestico",
     "edad": 2,
     "peso": 33.1,
     "genero": "hembra",
     "amo": {
       "nombre": "Miles",
-      "apellido": "Fay",
-      "correo": "Miles_Fay@gmail.com",
+      "apellido": "Falla",
+      "correo": "Miles_Falla@gmail.com",
       "edad": 48,
-      "pais": "Algeria"
+      "pais": "Argentina"
     }
   },
   {
     "id": 16,
-    "nombre": "Scout",
+    "nombre": "Estela",
     "tipo": "cautivo",
     "edad": 3,
     "peso": 21.62,
     "genero": "hermafrodita",
     "amo": {
-      "nombre": "Nils",
-      "apellido": "Leffler",
-      "correo": "Nils_Leffler87@hotmail.com",
+      "nombre": "Nicky",
+      "apellido": "Fernandez",
+      "correo": "Nicky_99@hotmail.com",
       "edad": 43,
       "pais": "Cuba"
     }
@@ -247,26 +247,26 @@
     "peso": 19.72,
     "genero": "macho",
     "amo": {
-      "nombre": "Stephon",
-      "apellido": "Mosciski",
-      "correo": "Stephon_Mosciski23@gmail.com",
+      "nombre": "Stephanie",
+      "apellido": "Mosaico",
+      "correo": "Mosaico23@gmail.com",
       "edad": 26,
       "pais": "Guatemala"
     }
   },
   {
     "id": 18,
-    "nombre": "Molly",
+    "nombre": "Monica",
     "tipo": "domestico",
     "edad": 4,
     "peso": 16.9,
     "genero": "hermafrodita",
     "amo": {
-      "nombre": "Glenna",
-      "apellido": "Ferry",
-      "correo": "Glenna_Ferry@yahoo.com",
+      "nombre": "Gerardo",
+      "apellido": "Roman",
+      "correo": "Gerardo_rom@yahoo.com",
       "edad": 45,
-      "pais": "Ukraine"
+      "pais": "Uruguay"
     }
   },
   {
@@ -277,11 +277,11 @@
     "peso": 25.81,
     "genero": "hembra",
     "amo": {
-      "nombre": "Walton",
-      "apellido": "Lind",
-      "correo": "Walton_Lind@yahoo.com",
+      "nombre": "Marta",
+      "apellido": "Linda",
+      "correo": "Landa_Mart33@yahoo.com",
       "edad": 25,
-      "pais": "Mongolia"
+      "pais": "Colombia"
     }
   },
   {
@@ -292,11 +292,11 @@
     "peso": 35.48,
     "genero": "hembra",
     "amo": {
-      "nombre": "Allen",
-      "apellido": "D'Amore",
-      "correo": "Allen.DAmore@gmail.com",
+      "nombre": "Alan",
+      "apellido": "Amore",
+      "correo": "Alan.Amore@gmail.com",
       "edad": 45,
-      "pais": "Macao"
+      "pais": "Mongolia"
     }
   },
   {
@@ -307,24 +307,24 @@
     "peso": 32.89,
     "genero": "hermafrodita",
     "amo": {
-      "nombre": "Harmony",
-      "apellido": "Kris",
-      "correo": "Harmony.Kris@hotmail.com",
+      "nombre": "Hernan",
+      "apellido": "Tomas",
+      "correo": "Herna.tomas@hotmail.com",
       "edad": 49,
       "pais": "Mongolia"
     }
   },
   {
     "id": 22,
-    "nombre": "Nova",
+    "nombre": "Garfield",
     "tipo": "cautivo",
     "edad": 2,
     "peso": 22.16,
     "genero": "hembra",
     "amo": {
-      "nombre": "Garfield",
-      "apellido": "Grimes",
-      "correo": "Garfield.Grimes34@hotmail.com",
+      "nombre": "Andres",
+      "apellido": "Gilbert",
+      "correo": "Garfield23@hotmail.com",
       "edad": 33,
       "pais": "Honduras"
     }
@@ -346,15 +346,15 @@
   },
   {
     "id": 24,
-    "nombre": "Bailey",
+    "nombre": "Armin",
     "tipo": "domestico",
     "edad": 10,
     "peso": 16.04,
     "genero": "hermafrodita",
     "amo": {
-      "nombre": "Arjun",
-      "apellido": "Bednar",
-      "correo": "Arjun_Bednar37@hotmail.com",
+      "nombre": "Andrea",
+      "apellido": "Barrientos",
+      "correo": "Barr37@hotmail.com",
       "edad": 30,
       "pais": "Austria"
     }
@@ -371,22 +371,22 @@
       "apellido": "Collier",
       "correo": "Clementina_Collier47@gmail.com",
       "edad": 31,
-      "pais": "Brunei Darussalam"
+      "pais": "Estados Unidos"
     }
   },
   {
     "id": 26,
-    "nombre": "Scout",
+    "nombre": "Sebastian",
     "tipo": "domestico",
     "edad": 1,
     "peso": 10.28,
     "genero": "hermafrodita",
     "amo": {
-      "nombre": "Carissa",
-      "apellido": "Ratke",
-      "correo": "Carissa_Ratke@hotmail.com",
+      "nombre": "Carito",
+      "apellido": "Rafaela",
+      "correo": "carito@hotmail.com",
       "edad": 31,
-      "pais": "United States Minor Outlying Islands"
+      "pais": "Chile"
     }
   },
   {
@@ -397,26 +397,26 @@
     "peso": 22.85,
     "genero": "hermafrodita",
     "amo": {
-      "nombre": "Reanna",
-      "apellido": "Orn",
-      "correo": "Reanna_Orn@yahoo.com",
+      "nombre": "Rihana",
+      "apellido": "Oregon",
+      "correo": "Oregon09@yahoo.com",
       "edad": 37,
       "pais": "Singapore"
     }
   },
   {
     "id": 28,
-    "nombre": "Bentley",
+    "nombre": "Ben",
     "tipo": "cautivo",
     "edad": 2,
     "peso": 18.83,
     "genero": "hermafrodita",
     "amo": {
-      "nombre": "Zora",
-      "apellido": "Gleichner",
-      "correo": "Zora_Gleichner@gmail.com",
+      "nombre": "Sonia",
+      "apellido": "Gambela",
+      "correo": "Sonia22@gmail.com",
       "edad": 21,
-      "pais": "Republic of Korea"
+      "pais": "Korea"
     }
   },
   {
@@ -427,26 +427,26 @@
     "peso": 36.51,
     "genero": "hembra",
     "amo": {
-      "nombre": "Vella",
-      "apellido": "Hand",
-      "correo": "Vella.Hand@gmail.com",
+      "nombre": "Bella",
+      "apellido": "Blanca",
+      "correo": "Bella.Blanca@gmail.com",
       "edad": 25,
       "pais": "Montenegro"
     }
   },
   {
     "id": 30,
-    "nombre": "Stella",
+    "nombre": "Estefani",
     "tipo": "salvaje",
     "edad": 7,
     "peso": 44.06,
     "genero": "hembra",
     "amo": {
-      "nombre": "Randy",
-      "apellido": "Paucek",
-      "correo": "Randy_Paucek0@hotmail.com",
+      "nombre": "Romeo",
+      "apellido": "Santos",
+      "correo": "RomeoSantos@hotmail.com",
       "edad": 35,
-      "pais": "Greenland"
+      "pais": "Alemania"
     }
   }
 ]
