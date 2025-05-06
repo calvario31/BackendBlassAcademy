@@ -6,24 +6,26 @@ import {
   productsController,
   videogamesController,
 } from "@src/controllers";
-import { auth } from "@src/middleware/auth";
+import { basicAuth, bearerAuth } from "@src/middleware/auth";
 
-export default async function routes(fastify: FastifyInstance) {
-  await auth(fastify);
-  registerRoutes(fastify, "animales", animalsController);
-  registerRoutes(fastify, "participantes", participantsController);
-  registerRoutes(fastify, "productos", productsController);
-  registerRoutes(fastify, "videojuegos", videogamesController);
+export function routeGenerator(prefix?: string) {
+  let root = prefix ? `${prefix}/` : "";
+  return (fastify: FastifyInstance) => {
+    registerRoutes(fastify, `${root}animales`, animalsController);
+    registerRoutes(fastify, `${root}participantes`, participantsController);
+    registerRoutes(fastify, `${root}productos`, productsController);
+    registerRoutes(fastify, `${root}videojuegos`, videogamesController);
+  };
+}
 
-  registerRoutes(fastify, "basic/animales", animalsController);
-  registerRoutes(fastify, "basic/participantes", participantsController);
-  registerRoutes(fastify, "basic/productos", productsController);
-  registerRoutes(fastify, "basic/videojuegos", videogamesController);
+export async function basicRoutes(fastify: FastifyInstance) {
+  await basicAuth(fastify);
+  routeGenerator("basic")(fastify);
+}
 
-  registerRoutes(fastify, "auth/animales", animalsController);
-  registerRoutes(fastify, "auth/participantes", participantsController);
-  registerRoutes(fastify, "auth/productos", productsController);
-  registerRoutes(fastify, "auth/videojuegos", videogamesController);
+export async function bearerRoutes(fastify: FastifyInstance) {
+  await bearerAuth(fastify);
+  routeGenerator("auth")(fastify);
 }
 
 function registerRoutes(
