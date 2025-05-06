@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "nombre": "Herzog",
+    "nombre": "God of War",
     "epoca": 2021,
     "precio": 50.44,
     "duracion": 7,
-    "genero": "genero",
+    "genero": "accion",
     "empresa": {
       "nombre": "Beer Group",
       "paginaWeb": "https://fake-lieu.net/",
@@ -13,9 +13,8 @@
       "direccion": {
         "direccion": "65349 8th Avenue",
         "ciudad": "Willowton",
-        "estado": "Maryland",
-        "pais": "Costa Rica",
-        "continente": "North America",
+        "pais": "Estados Unidos",
+        "continente": "America",
         "codigoPostal": "41942-8451",
         "coordenadas": {
           "latitud": 18.98,
@@ -26,7 +25,7 @@
   },
   {
     "id": 2,
-    "nombre": "The Pillars of the Earth",
+    "nombre": "Perfect Dark",
     "epoca": 2000,
     "precio": 51.26,
     "duracion": 9,
@@ -38,9 +37,8 @@
       "direccion": {
         "direccion": "9087 Waters Course",
         "ciudad": "Zemlakside",
-        "estado": "Idaho",
-        "pais": "Democratic Republic of the Congo",
-        "continente": "Antarctica",
+        "pais": "Japon",
+        "continente": "Asia",
         "codigoPostal": "36084",
         "coordenadas": {
           "latitud": 8.34,
@@ -51,21 +49,20 @@
   },
   {
     "id": 3,
-    "nombre": "Tom Jones",
+    "nombre": "Indiana Jones and the Great Circle",
     "epoca": 2010,
     "precio": 40.52,
     "duracion": 6,
-    "genero": "genero",
+    "genero": "accion",
     "empresa": {
-      "nombre": "Stoltenberg, Kris and Sawayn",
+      "nombre": "Bethesta",
       "paginaWeb": "https://enchanting-ruin.com/",
       "mision": "Ergonomic sustainable model",
       "direccion": {
         "direccion": "65202 King's Road",
         "ciudad": "East Miloside",
-        "estado": "Virginia",
-        "pais": "French Polynesia",
-        "continente": "Antarctica",
+        "pais": "Francia",
+        "continente": "Europa",
         "codigoPostal": "24576",
         "coordenadas": {
           "latitud": 118.79,
@@ -76,11 +73,11 @@
   },
   {
     "id": 4,
-    "nombre": "The Trial",
-    "epoca": 2005,
+    "nombre": "Red dead Redemption",
+    "epoca": 2009,
     "precio": 43.88,
     "duracion": 8,
-    "genero": "comedia",
+    "genero": "aventura",
     "empresa": {
       "nombre": "Morar Inc",
       "paginaWeb": "https://friendly-vibration.info",
@@ -88,9 +85,8 @@
       "direccion": {
         "direccion": "13244 Breitenberg Meadow",
         "ciudad": "Kettering",
-        "estado": "Oregon",
         "pais": "Belize",
-        "continente": "South America",
+        "continente": "Estados Unidos",
         "codigoPostal": "95663",
         "coordenadas": {
           "latitud": 53.84,
@@ -101,11 +97,11 @@
   },
   {
     "id": 5,
-    "nombre": "Dao De Jing: A Minimalist Translation",
-    "epoca": 2024,
+    "nombre": "Grand theft Auto III",
+    "epoca": 2004,
     "precio": 31.3,
     "duracion": 7,
-    "genero": "accion",
+    "genero": "aventura",
     "empresa": {
       "nombre": "Kuphal, Kris and Lubowitz",
       "paginaWeb": "https://afraid-summer.net",
@@ -113,9 +109,8 @@
       "direccion": {
         "direccion": "22257 W Pine Street",
         "ciudad": "Carmichael",
-        "estado": "North Carolina",
         "pais": "Malaysia",
-        "continente": "North America",
+        "continente": "Estados Unidos",
         "codigoPostal": "68268-3939",
         "coordenadas": {
           "latitud": 110.94,
@@ -126,7 +121,7 @@
   },
   {
     "id": 6,
-    "nombre": "Atlas Shrugged",
+    "nombre": "Super Mario Bros",
     "epoca": 1998,
     "precio": 41.37,
     "duracion": 5,
@@ -137,10 +132,9 @@
       "mision": "Managed mobile frame",
       "direccion": {
         "direccion": "248 Oxford Street",
-        "ciudad": "Lake Adrianmouth",
-        "estado": "Massachusetts",
-        "pais": "Isle of Man",
-        "continente": "South America",
+        "ciudad": "Tokio",
+        "pais": "Japon",
+        "continente": "Asia",
         "codigoPostal": "72812-7149",
         "coordenadas": {
           "latitud": 60.09,
@@ -151,8 +145,8 @@
   },
   {
     "id": 7,
-    "nombre": "Robinson Crusoe",
-    "epoca": 1992,
+    "nombre": "GoldenEye 007",
+    "epoca": 1997,
     "precio": 42.49,
     "duracion": 5,
     "genero": "accion",
@@ -163,9 +157,8 @@
       "direccion": {
         "direccion": "444 Immanuel Loaf",
         "ciudad": "Lemkefurt",
-        "estado": "Kansas",
         "pais": "Cape Verde",
-        "continente": "Africa",
+        "continente": "America",
         "codigoPostal": "82242",
         "coordenadas": {
           "latitud": 59.07,
@@ -176,8 +169,8 @@
   },
   {
     "id": 8,
-    "nombre": "The Master and Margarita",
-    "epoca": 1997,
+    "nombre": "Half-life 2",
+    "epoca": 2004,
     "precio": 38.58,
     "duracion": 8,
     "genero": "accion",
@@ -188,9 +181,8 @@
       "direccion": {
         "direccion": "7798 Jakubowski Circle",
         "ciudad": "Jedburgh",
-        "estado": "Rhode Island",
         "pais": "Cook Islands",
-        "continente": "South America",
+        "continente": "America",
         "codigoPostal": "24877",
         "coordenadas": {
           "latitud": 67.05,
@@ -213,7 +205,6 @@
       "direccion": {
         "direccion": "579 Monahan Divide",
         "ciudad": "Bradenton",
-        "estado": "Kentucky",
         "pais": "Malaysia",
         "continente": "Australia",
         "codigoPostal": "44141",
@@ -226,8 +217,8 @@
   },
   {
     "id": 10,
-    "nombre": "The Complete Works of Edgar Allen Poe",
-    "epoca": 2025,
+    "nombre": "Resident Evil 4",
+    "epoca": 2005,
     "precio": 52.14,
     "duracion": 6,
     "genero": "accion",
@@ -238,9 +229,8 @@
       "direccion": {
         "direccion": "210 N Cedar Street",
         "ciudad": "Cordiestead",
-        "estado": "North Dakota",
-        "pais": "Antigua and Barbuda",
-        "continente": "Europe",
+        "pais": "Japon",
+        "continente": "Asia",
         "codigoPostal": "87873-6115",
         "coordenadas": {
           "latitud": 81.67,
@@ -251,8 +241,8 @@
   },
   {
     "id": 11,
-    "nombre": "On the Duty of Civil Disobedience",
-    "epoca": 2003,
+    "nombre": "BioShock",
+    "epoca": 2007,
     "precio": 57.79,
     "duracion": 5,
     "genero": "accion",
@@ -263,7 +253,6 @@
       "direccion": {
         "direccion": "49272 Fisher Square",
         "ciudad": "Merlinshire",
-        "estado": "North Dakota",
         "pais": "Guyana",
         "continente": "Europe",
         "codigoPostal": "20090-8424",
@@ -276,11 +265,11 @@
   },
   {
     "id": 12,
-    "nombre": "Tom Jones",
+    "nombre": "Uncharted",
     "epoca": 1993,
     "precio": 39.16,
     "duracion": 6,
-    "genero": "genero",
+    "genero": "aventura",
     "empresa": {
       "nombre": "Crist LLC",
       "paginaWeb": "https://purple-pine.info",
@@ -288,9 +277,8 @@
       "direccion": {
         "direccion": "6218 Arthur Fork",
         "ciudad": "West Kory",
-        "estado": "Virginia",
         "pais": "Mozambique",
-        "continente": "South America",
+        "continente": "America",
         "codigoPostal": "34738",
         "coordenadas": {
           "latitud": 69.01,
@@ -301,11 +289,11 @@
   },
   {
     "id": 13,
-    "nombre": "On the Duty of Civil Disobedience",
-    "epoca": 1996,
+    "nombre": "Baldurs Gate 3",
+    "epoca": 2023,
     "precio": 36.48,
     "duracion": 6,
-    "genero": "comedia",
+    "genero": "rol",
     "empresa": {
       "nombre": "Little - Bahringer",
       "paginaWeb": "https://infatuated-license.name/",
@@ -313,7 +301,6 @@
       "direccion": {
         "direccion": "55589 McGlynn Corners",
         "ciudad": "Gloverberg",
-        "estado": "Florida",
         "pais": "Bermuda",
         "continente": "Africa",
         "codigoPostal": "13182-0137",
@@ -327,10 +314,10 @@
   {
     "id": 14,
     "nombre": "The Lord of the Rings",
-    "epoca": 1993,
+    "epoca": 2001,
     "precio": 35.77,
     "duracion": 10,
-    "genero": "comedia",
+    "genero": "aventura",
     "empresa": {
       "nombre": "Carroll - Jast",
       "paginaWeb": "https://dead-gripper.info/",
@@ -338,8 +325,7 @@
       "direccion": {
         "direccion": "4600 Clarendon Road",
         "ciudad": "East Aaliyahberg",
-        "estado": "Wisconsin",
-        "pais": "Cuba",
+        "pais": "Alemania",
         "continente": "Asia",
         "codigoPostal": "84573-3101",
         "coordenadas": {
@@ -351,11 +337,11 @@
   },
   {
     "id": 15,
-    "nombre": "Nostromo",
-    "epoca": 2007,
+    "nombre": "Tekken 3",
+    "epoca": 1998,
     "precio": 36.37,
     "duracion": 6,
-    "genero": "comedia",
+    "genero": "accion",
     "empresa": {
       "nombre": "Ryan, Gleichner and Douglas",
       "paginaWeb": "https://austere-developing.info/",
@@ -363,7 +349,6 @@
       "direccion": {
         "direccion": "68130 Reinhold Manors",
         "ciudad": "Lake Terrence",
-        "estado": "Rhode Island",
         "pais": "Belgium",
         "continente": "Asia",
         "codigoPostal": "41632-9361",
@@ -376,7 +361,7 @@
   },
   {
     "id": 16,
-    "nombre": "The Adventures of Augie March",
+    "nombre": "Mass Effect",
     "epoca": 2004,
     "precio": 57.62,
     "duracion": 6,
@@ -388,9 +373,8 @@
       "direccion": {
         "direccion": "3542 Haag Pike",
         "ciudad": "Joliet",
-        "estado": "Oklahoma",
-        "pais": "Turkey",
-        "continente": "Antarctica",
+        "pais": "Turquia",
+        "continente": "Antartica",
         "codigoPostal": "44451-3843",
         "coordenadas": {
           "latitud": 42.93,
@@ -401,11 +385,11 @@
   },
   {
     "id": 17,
-    "nombre": "Underworld",
-    "epoca": 2012,
+    "nombre": "Undertale",
+    "epoca": 2015,
     "precio": 31.51,
     "duracion": 7,
-    "genero": "genero",
+    "genero": "rol",
     "empresa": {
       "nombre": "Bergstrom, Renner and Hoeger",
       "paginaWeb": "https://unwieldy-earth.net/",
@@ -413,9 +397,8 @@
       "direccion": {
         "direccion": "82616 Trisha Fords",
         "ciudad": "Pourosshire",
-        "estado": "Michigan",
         "pais": "Lebanon",
-        "continente": "South America",
+        "continente": "America",
         "codigoPostal": "12502",
         "coordenadas": {
           "latitud": 105.06,
@@ -426,11 +409,11 @@
   },
   {
     "id": 18,
-    "nombre": "The Heart of the Matter",
-    "epoca": 1991,
+    "nombre": "Pokemon Fire red",
+    "epoca": 1993,
     "precio": 59.49,
     "duracion": 8,
-    "genero": "genero",
+    "genero": "rol",
     "empresa": {
       "nombre": "Pouros Group",
       "paginaWeb": "https://wrathful-curl.com",
@@ -438,7 +421,6 @@
       "direccion": {
         "direccion": "949 W 2nd Street",
         "ciudad": "Waukesha",
-        "estado": "Oregon",
         "pais": "Kazakhstan",
         "continente": "Australia",
         "codigoPostal": "80765-2349",
@@ -451,11 +433,11 @@
   },
   {
     "id": 19,
-    "nombre": "Hamlet",
-    "epoca": 2019,
+    "nombre": "Elden Ring",
+    "epoca": 2022,
     "precio": 55.59,
     "duracion": 10,
-    "genero": "genero",
+    "genero": "accion",
     "empresa": {
       "nombre": "Kunde, Durgan and Jacobs",
       "paginaWeb": "https://acceptable-solution.com",
@@ -463,9 +445,8 @@
       "direccion": {
         "direccion": "22898 Goyette Plain",
         "ciudad": "Nienowboro",
-        "estado": "New Jersey",
         "pais": "Tajikistan",
-        "continente": "Europe",
+        "continente": "Europa",
         "codigoPostal": "95060",
         "coordenadas": {
           "latitud": 6.78,
@@ -476,11 +457,11 @@
   },
   {
     "id": 20,
-    "nombre": "The Big Sleep",
-    "epoca": 1993,
+    "nombre": "The Legend of Zelda wind waker",
+    "epoca": 2003,
     "precio": 58.81,
     "duracion": 7,
-    "genero": "genero",
+    "genero": "aventura",
     "empresa": {
       "nombre": "Bernhard, Ledner and Ritchie",
       "paginaWeb": "https://legal-begonia.info/",
@@ -488,9 +469,8 @@
       "direccion": {
         "direccion": "79377 Misty Lodge",
         "ciudad": "Luisachester",
-        "estado": "Nebraska",
         "pais": "Switzerland",
-        "continente": "Asia",
+        "continente": "Europa",
         "codigoPostal": "31880-2709",
         "coordenadas": {
           "latitud": 22.41,
@@ -501,11 +481,11 @@
   },
   {
     "id": 21,
-    "nombre": "Anna Karenina",
+    "nombre": "Gran Turismo",
     "epoca": 2010,
     "precio": 59.17,
     "duracion": 8,
-    "genero": "genero",
+    "genero": "aventura",
     "empresa": {
       "nombre": "Rolfson - Kassulke",
       "paginaWeb": "https://peppery-essence.name/",
@@ -513,9 +493,8 @@
       "direccion": {
         "direccion": "1644 E 7th Street",
         "ciudad": "Wilkinsoncester",
-        "estado": "Arizona",
         "pais": "Bahrain",
-        "continente": "South America",
+        "continente": "America",
         "codigoPostal": "54030-8927",
         "coordenadas": {
           "latitud": 25.35,
@@ -526,11 +505,11 @@
   },
   {
     "id": 22,
-    "nombre": "The Call of the Wild",
-    "epoca": 2000,
+    "nombre": "Metal Gear Solid",
+    "epoca": 2001,
     "precio": 53.42,
     "duracion": 6,
-    "genero": "genero",
+    "genero": "aventura",
     "empresa": {
       "nombre": "McClure and Sons",
       "paginaWeb": "https://wee-halt.org/",
@@ -538,9 +517,8 @@
       "direccion": {
         "direccion": "79338 Baron Square",
         "ciudad": "Emmanuellefield",
-        "estado": "Alabama",
         "pais": "American Samoa",
-        "continente": "South America",
+        "continente": "America",
         "codigoPostal": "67806-0538",
         "coordenadas": {
           "latitud": 19.71,
@@ -551,8 +529,8 @@
   },
   {
     "id": 23,
-    "nombre": "Madame Bovary",
-    "epoca": 1991,
+    "nombre": "Halo",
+    "epoca": 2001,
     "precio": 30.54,
     "duracion": 8,
     "genero": "accion",
@@ -563,9 +541,8 @@
       "direccion": {
         "direccion": "5494 Old Lane",
         "ciudad": "North Jamartown",
-        "estado": "Alaska",
-        "pais": "United States Minor Outlying Islands",
-        "continente": "Europe",
+        "pais": "Estados Unidos",
+        "continente": "America",
         "codigoPostal": "11622-4830",
         "coordenadas": {
           "latitud": 36.83,
@@ -576,11 +553,11 @@
   },
   {
     "id": 24,
-    "nombre": "The Complete Works of Edgar Allen Poe",
-    "epoca": 1992,
+    "nombre": "Portal",
+    "epoca": 2008,
     "precio": 48.98,
     "duracion": 7,
-    "genero": "comedia",
+    "genero": "aventura",
     "empresa": {
       "nombre": "Cummings Group",
       "paginaWeb": "https://french-ruin.net/",
@@ -588,9 +565,8 @@
       "direccion": {
         "direccion": "768 Armstrong Pike",
         "ciudad": "Leschton",
-        "estado": "Virginia",
-        "pais": "French Polynesia",
-        "continente": "South America",
+        "pais": "Francia",
+        "continente": "America",
         "codigoPostal": "55557-8928",
         "coordenadas": {
           "latitud": 99.01,
@@ -601,11 +577,11 @@
   },
   {
     "id": 25,
-    "nombre": "Of Mice and Men",
-    "epoca": 1991,
+    "nombre": "Astro Bot",
+    "epoca": 2024,
     "precio": 56.66,
     "duracion": 7,
-    "genero": "comedia",
+    "genero": "aventura",
     "empresa": {
       "nombre": "Weissnat and Sons",
       "paginaWeb": "https://winding-zebra.net/",
@@ -613,9 +589,8 @@
       "direccion": {
         "direccion": "3241 Branson Streets",
         "ciudad": "Poway",
-        "estado": "North Carolina",
         "pais": "Saint Kitts and Nevis",
-        "continente": "North America",
+        "continente": "America",
         "codigoPostal": "64902-8286",
         "coordenadas": {
           "latitud": 108.22,
@@ -626,11 +601,11 @@
   },
   {
     "id": 26,
-    "nombre": "Catch-22",
-    "epoca": 2004,
+    "nombre": "Devil May Cry",
+    "epoca": 2001,
     "precio": 36.41,
     "duracion": 5,
-    "genero": "genero",
+    "genero": "accion",
     "empresa": {
       "nombre": "Mohr - Heathcote",
       "paginaWeb": "https://ignorant-attraction.org/",
@@ -638,9 +613,8 @@
       "direccion": {
         "direccion": "720 Sandringham Road",
         "ciudad": "New Odahaven",
-        "estado": "Vermont",
-        "pais": "Colombia",
-        "continente": "Africa",
+        "pais": "Japon",
+        "continente": "Asia",
         "codigoPostal": "51565-6201",
         "coordenadas": {
           "latitud": 80.38,
@@ -651,11 +625,11 @@
   },
   {
     "id": 27,
-    "nombre": "Fahrenheit 451",
-    "epoca": 2018,
+    "nombre": "Madden NFL 2002",
+    "epoca": 2002,
     "precio": 38.38,
     "duracion": 6,
-    "genero": "comedia",
+    "genero": "rol",
     "empresa": {
       "nombre": "Spencer LLC",
       "paginaWeb": "https://metallic-version.biz",
@@ -663,9 +637,8 @@
       "direccion": {
         "direccion": "37863 Rupert Mission",
         "ciudad": "Luisside",
-        "estado": "North Dakota",
-        "pais": "Dominican Republic",
-        "continente": "Europe",
+        "pais": "Puerto Rico",
+        "continente": "America",
         "codigoPostal": "53380-7261",
         "coordenadas": {
           "latitud": 71.35,
@@ -676,8 +649,8 @@
   },
   {
     "id": 28,
-    "nombre": "Charlotte's Web",
-    "epoca": 2002,
+    "nombre": "Ninja Gaiden",
+    "epoca": 2005,
     "precio": 32.26,
     "duracion": 9,
     "genero": "accion",
@@ -688,7 +661,6 @@
       "direccion": {
         "direccion": "7392 Wiza Extensions",
         "ciudad": "Lake Faustoberg",
-        "estado": "Iowa",
         "pais": "Guinea",
         "continente": "Asia",
         "codigoPostal": "77533-5660",
@@ -701,11 +673,11 @@
   },
   {
     "id": 29,
-    "nombre": "The Portrait of a Lady",
-    "epoca": 2004,
+    "nombre": "Gears of War",
+    "epoca": 2006,
     "precio": 42.48,
     "duracion": 7,
-    "genero": "genero",
+    "genero": "accion",
     "empresa": {
       "nombre": "Hoeger - Hackett",
       "paginaWeb": "https://likely-minion.com/",
@@ -713,9 +685,8 @@
       "direccion": {
         "direccion": "8681 Ivy Burgs",
         "ciudad": "North Ryan",
-        "estado": "Tennessee",
-        "pais": "Libyan Arab Jamahiriya",
-        "continente": "Africa",
+        "pais": "Estados Unidos",
+        "continente": "America",
         "codigoPostal": "27379-4897",
         "coordenadas": {
           "latitud": 4.18,
@@ -726,11 +697,11 @@
   },
   {
     "id": 30,
-    "nombre": "The Canterbury Tales",
-    "epoca": 2010,
+    "nombre": "Pac-Man",
+    "epoca": 1986,
     "precio": 36.48,
     "duracion": 10,
-    "genero": "genero",
+    "genero": "accion",
     "empresa": {
       "nombre": "Goldner, Boyle and Towne",
       "paginaWeb": "https://athletic-thyme.info/",
@@ -738,9 +709,8 @@
       "direccion": {
         "direccion": "61118 Rogahn Ports",
         "ciudad": "Brookline",
-        "estado": "North Carolina",
-        "pais": "Mexico",
-        "continente": "Antarctica",
+        "pais": "Estados Unidos",
+        "continente": "Antartica",
         "codigoPostal": "55384-4790",
         "coordenadas": {
           "latitud": 56.87,
