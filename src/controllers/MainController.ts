@@ -7,12 +7,12 @@ function isEmptyPayload(body: any) {
 }
 
 function emptyPayloadResolver(reply: FastifyReply) {
-  return reply.code(400).send({ message: "Debe especificar un payload" });
+  return reply.code(400).send({ mensaje: "Debe especificar un payload" });
 }
 
 function keysNotSupportedResolver(reply: FastifyReply, keys: string[]) {
   return reply.code(400).send({
-    message: `Los siguientes campos no son aceptados para este recurso: ${keys.join(",")}`,
+    mensaje: `Los siguientes campos no son aceptados para este recurso: ${keys.join(",")}`,
   });
 }
 
@@ -81,13 +81,13 @@ export class MainController {
     if (!product) return this.notFoundResolver(reply, id);
 
     return {
-      message: `${this.props.resourceName} con id ${id} se ha eliminado satisfactoriamente`,
+      mensaje: `${this.props.resourceName} con id ${id} se ha eliminado satisfactoriamente`,
     };
   }
 
   private notFoundResolver(reply: FastifyReply, id: string) {
     return reply.status(404).send({
-      message: `${this.props.resourceName} con id ${id} no encontrado`,
+      mensaje: `${this.props.resourceName} con id ${id} no encontrado`,
     });
   }
 

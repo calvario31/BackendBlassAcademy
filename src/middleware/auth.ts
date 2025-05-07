@@ -19,10 +19,10 @@ export function login(fastify: FastifyInstance) {
   fastify.post("/auth/login", (req, reply) => {
     const { username, password } = req.body || ({} as any);
     if (!username || !password) {
-      return reply.code(400).send({ message: "Falta usuario y/o contraseña" });
+      return reply.code(400).send({ mensaje: "Falta usuario y/o contraseña" });
     }
     if (!validateCredentials(username, password)) {
-      return reply.code(401).send({ message: "Usuario/Clave incorrectas" });
+      return reply.code(401).send({ mensaje: "Usuario/Clave incorrectas" });
     }
     const accessToken = sign({ ...loginPayload, i: "i" }, secretKey, {});
     setCache(accessToken);
