@@ -18,14 +18,13 @@ const loginPayload = {
 export function login(fastify: FastifyInstance) {
   fastify.post("/auth/login", (req, reply) => {
     const { username, password } = req.body as any;
+    if (!username || !password) {
+      return reply.code(400).send();
+    }
     if (!validateCredentials(username, password)) {
       return reply.code(401).send({ message: "Usuario/Clave incorrectas" });
     }
-    const accessToken = sign(
-      { ...loginPayload, i: "i" },
-      secretKey,
-      {},
-    );
+    const accessToken = sign({ ...loginPayload, i: "i" }, secretKey, {});
     setCache(accessToken);
     return reply
       .code(200)
