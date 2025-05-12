@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nombre": "Filen de Georgina",
+    "nombre": "Filete de Grecia",
     "precio": 16.764,
     "cantidad": 7,
     "peso": 9.18,
@@ -16,7 +16,7 @@
       },
       {
         "puntaje": 1.29,
-        "comentario": "Brochetas de avestruz a la parrilla, marinadas en especias de Rajastán y servidas con una ensalada fresca de lechuga iceberg y bayas de enebro.",
+        "comentario": "Brochetas de avestruz a la parrilla, marinadas en especias de azafran y servidas con una ensalada fresca de lechuga iceberg y bayas de enebro.",
         "correo": "Christina.Arm@hotmail.com",
         "usuario": "Christina.Arm4"
       },
@@ -28,18 +28,23 @@
       },
       {
         "puntaje": 4.72,
-        "comentario": "Nuestra carne crujiente, cocinada a fuego lento a la perfección, acompañada de brotes de guisantes al vapor y una salsa rica y sabrosa.",
+        "comentario": "Nuestra carne crujiente, cocinada a fuego lento, acompañada de brotes de guisantes al vapor y una salsa rica y sabrosa.",
         "correo": "Quinten_Denesik@gmail.com",
         "usuario": "Quinten.Denesik15"
       },
       {
         "puntaje": 4.84,
-        "comentario": "Mezcla de verduras frescas con pavo frotado con macis, cebollino y un aderezo ligero.",
+        "comentario": "Mezcla de verduras frescas con pavo frotado con nueces, cebollin y un aderezo ligero.",
         "correo": "Brennan.Rus32@yahoo.com",
         "usuario": "Brennan_Rus69"
       }
     ],
-    "etiquetas": ["Hecho a mano", "Moderno", "Elegante", "Refinado"]
+    "etiquetas": [
+      "Hecho a mano",
+      "Moderno",
+      "Elegante",
+      "Refinado"
+    ]
   },
   {
     "id": 2,
@@ -82,11 +87,9 @@
       }
     ],
     "etiquetas": [
-      "Increíble",
       "Hecho a medida",
       "Moderno",
       "Fresco",
-      "Electrónico",
       "Genérico",
       "Oriental",
       "Hecho a mano",
@@ -104,31 +107,31 @@
     "criticas": [
       {
         "puntaje": 3.79,
-        "comentario": "Cordero tiernamente estofado en una rica salsa de semillas de sésamo y coles de Bruselas, servido con un acompañamiento de ajo cremoso.",
+        "comentario": "Tiernamente estofado en una rica salsa de semillas y coles de Bruselas, servido con una guarnicion de ajo cremoso.",
         "correo": "Geraldine.Hom91@yahoo.com",
         "usuario": "Geraldine_Hom29"
       },
       {
         "puntaje": 2.26,
-        "comentario": "Tres cangrejos con chalotes franceses, brócoli chino seco, col rizada, brócoli chino seco y arrurruz. Con una guarnición de tomate asado y aceitunas o espelta a elegir.",
+        "comentario": "Cebollin chino seco, col rizada. Con tomate asado y aceitunas a elegir.",
         "correo": "Kiara.Ul77@hotmail.com",
         "usuario": "Kiara_Ul"
       },
       {
         "puntaje": 2.84,
-        "comentario": "Nuestro cocodrilo amargo, cocinado a fuego lento a la perfección, acompañado de rúcula al vapor y una salsa rica y sabrosa.",
+        "comentario": "Nuestro cocodrilo amargo, cocinado a fuego lento,con col al vapor y una salsa rica y sabrosa.",
         "correo": "Jaqueline_Cu44@yahoo.com",
         "usuario": "Jaqueline_Curata59"
       },
       {
         "puntaje": 4.98,
-        "comentario": "Unas pasas rosadas especiales de Malta. Para realzar su intenso sabor, se acompañan con una cucharada de pimienta limón.",
+        "comentario": "Unas pasas rosadas especiales de Malta. Para realzar su intenso sabor, se acompañan con una cucharada de pimienta.",
         "correo": "Adelia.Paco@gmail.com",
         "usuario": "Adelia_Paco79"
       },
       {
         "puntaje": 3.41,
-        "comentario": "Nuestro dulce cordero, cocinado a fuego lento a la perfección, acompañado de lechuga al vapor y una salsa rica y sabrosa.",
+        "comentario": "Nuestro dulce cordero, cocinado a fuego lento, acompañado de lechuga al vapor y una salsa rica y sabrosa.",
         "correo": "Joanne.La13@hotmail.com",
         "usuario": "Joanne_La92"
       }
@@ -156,7 +159,7 @@
     "criticas": [
       {
         "puntaje": 1.43,
-        "comentario": "Muesli fresco con una pizca de amchoor, cubierto con una papaya caramelizada con crema batida.",
+        "comentario": "Fresco con una pizca de hongo, cubierto con una papaya caramelizada con crema batida.",
         "correo": "Abigael_Stehr91@hotmail.com",
         "usuario": "Abigale.Stehr49"
       },
@@ -174,22 +177,25 @@
       },
       {
         "puntaje": 1.96,
-        "comentario": "Cocodrilo tiernamente estofado en una rica salsa de vainilla y zanahoria, servido con un acompañamiento de jícama cremosa.",
+        "comentario": "Cocodrilo tiernamente estofado en una rica salsa de vainilla y zanahoria, servido con una papa cremosa.",
         "correo": "Martis.Ok@yahoo.com",
         "usuario": "Martis.Ok12"
       },
       {
         "puntaje": 1.62,
-        "comentario": "Canguro relleno de semillas de calabaza al horno, condimentado con ralladura de naranja y hierbas picantes, acompañado de una mezcla de endivias asadas.",
+        "comentario": "Canguro relleno de semillas de calabaza al horno, condimentado con ralladura de naranja y hierbas picantes, acompañado de una mezcla de nueces asadas.",
         "correo": "Everardo_Pau76@hotmail.com",
         "usuario": "Everardo_Pau"
       }
     ],
-    "etiquetas": ["Fantástico", "Elegante", "Genérico", "Práctico", "Sin marca"]
+    "etiquetas": [
+      "Elegante",
+      "Sin marca"
+    ]
   },
   {
     "id": 5,
-    "nombre": "Aceite Vegetal",
+    "nombre": "Pescado empanizado",
     "precio": 19.594,
     "cantidad": 3,
     "peso": 6.606,
@@ -198,13 +204,13 @@
     "criticas": [
       {
         "puntaje": 0.97,
-        "comentario": "Pavo jugoso, asado a su gusto y rociado con una salsa de curry intensa, servido junto con lechuga asada.",
+        "comentario": "Pescado jugoso, asado a su gusto y rociado con una salsa de curry intensa, servido junto con lechuga asada.",
         "correo": "Antonetta_Walsh@hotmail.com",
         "usuario": "Antonetta_Walsh"
       },
       {
         "puntaje": 1.03,
-        "comentario": "Bulghur fresco con una pizca de pimienta, cubierto con un arándano caramelizado con crema batida.",
+        "comentario": "Pescado fresco con una pizca de pimienta, cubierto con un arándano caramelizado con crema batida.",
         "correo": "Ciara.Kertzmann43@yahoo.com",
         "usuario": "Ciara_Kertzmann"
       },
@@ -216,18 +222,20 @@
       },
       {
         "puntaje": 1.04,
-        "comentario": "Nuestro cerdo ahumado, cocinado a fuego lento a la perfección, acompañado de apio al vapor y una salsa rica y sabrosa.",
+        "comentario": "Nuestro pescado ahumado, cocinado a fuego lento a la perfección, acompañado de apio al vapor y una salsa rica y sabrosa.",
         "correo": "Osborne_Turcotte46@gmail.com",
         "usuario": "Osborne_Turcotte"
       },
       {
         "puntaje": 0.67,
-        "comentario": "Estofado abundante de salmón ahumado caliente y ganso, cocinado a fuego lento con cilantro y col rizada para una comida reconfortante y sabrosa.",
+        "comentario": "Estofado abundante de pescado ahumado caliente y ganso, cocinado a fuego lento con cilantro y col rizada para una comida reconfortante y sabrosa.",
         "correo": "Sheldon.Hudson@gmail.com",
         "usuario": "Sheldon_Hudson"
       }
     ],
-    "etiquetas": ["Hecho a mano"]
+    "etiquetas": [
+      "Hecho a mano"
+    ]
   },
   {
     "id": 6,
@@ -240,13 +248,13 @@
     "criticas": [
       {
         "puntaje": 4.99,
-        "comentario": "Un pastel clásico relleno de delicioso canguro y dulce cordero, horneado en una corteza de pastelería húmeda y cubierto con una celosía de color marrón dorado.",
+        "comentario": "Un pastel relleno de delicioso canguro y dulce cordero, horneado en una corteza y cubierto con una glaseado dorado.",
         "correo": "Madelynn.Luettgen@hotmail.com",
         "usuario": "Madelynn.Luettgen99"
       },
       {
         "puntaje": 0.76,
-        "comentario": "Carne de res tiernamente estofada en una rica salsa de tomillo y espárragos, servida con un acompañamiento de verduras asiáticas cremosas.",
+        "comentario": "Carne de res tiernamente estofada en una rica salsa de tomillo, servida con verduras de asia.",
         "correo": "Nikko_Conn27@hotmail.com",
         "usuario": "Nikko_Conn"
       },
@@ -269,7 +277,9 @@
         "usuario": "Justice.Parker"
       }
     ],
-    "etiquetas": ["Fresco", "Rústico"]
+    "etiquetas": [
+      "Fresco"
+    ]
   },
   {
     "id": 7,
@@ -282,7 +292,7 @@
     "criticas": [
       {
         "puntaje": 0.39,
-        "comentario": "Brochetas tiernas de salmón, glaseadas con una salsa dulce y ácida de brotes, servidas sobre una cama de fragante arroz jazmín.",
+        "comentario": "Brochetas tiernas de pescado, glaseadas con una salsa dulce y ácida de brotes, servidas sobre una cama de fragante arroz jazmín.",
         "correo": "Carmella_Gleason96@hotmail.com",
         "usuario": "Carmella_Gleason96"
       },
@@ -294,7 +304,7 @@
       },
       {
         "puntaje": 1.88,
-        "comentario": "Un pájaro carpintero de Gila asado a fuego lento con un exterior picante y ácido. Relleno de mora y cubierto con salsa de albaricoque seco. Acompañamientos con puré de espinacas y alcaparras silvestres.",
+        "comentario": "Relleno de mora y cubierto con salsa de albaricoque seco. Acompañamientos con espinacas y alcaparras silvestres.",
         "correo": "Esperanza.Green@hotmail.com",
         "usuario": "Esperanza_Green"
       },
@@ -306,19 +316,16 @@
       },
       {
         "puntaje": 0.11,
-        "comentario": "Un estofado picante y robusto con sabores georgianos, cargado de carne fresca, vegetales dorados y un caldo crujiente y húmedo.",
+        "comentario": "Un estofado picante y robusto con sabores georgianos, cargado de carne fresca, vegetales dorados y un caldo crujiente.",
         "correo": "Kaylee_Torphy@gmail.com",
         "usuario": "Kaylee.Torphy81"
       }
     ],
     "etiquetas": [
-      "Rústico",
       "Elegante",
       "Reciclado",
       "Oriental",
-      "Práctico",
-      "Hecho a mano",
-      "Genérico"
+      "Hecho a mano"
     ]
   },
   {
@@ -332,7 +339,7 @@
     "criticas": [
       {
         "puntaje": 0.35,
-        "comentario": "Un jugoso filete de salmón, envuelto en una deliciosa corteza de galanga, servido con un acompañamiento de puré de rábano con macis.",
+        "comentario": "Un jugoso filete de pescado, envuelto en una deliciosa corteza de galanga, servido con un acompañamiento de puré de rábano con macis.",
         "correo": "Elva.Kemmer@gmail.com",
         "usuario": "Elva_Kemmer4"
       },
@@ -413,11 +420,13 @@
         "usuario": "Aurore_Osinski2"
       }
     ],
-    "etiquetas": ["Increíble"]
+    "etiquetas": [
+      "Increíble"
+    ]
   },
   {
     "id": 10,
-    "nombre": "Mejorana",
+    "nombre": "Carne molida",
     "precio": 4.892,
     "cantidad": 3,
     "peso": 3.71,
@@ -450,14 +459,13 @@
       },
       {
         "puntaje": 0.59,
-        "comentario": "Un jugoso filete de emú, envuelto en una corteza húmeda de mostaza, servido con un acompañamiento de puré de apio con hierbabuena.",
+        "comentario": "Un jugoso filete, envuelto en una corteza de mostaza, servido con apio con hierbabuena.",
         "correo": "Spencer.Walter67@hotmail.com",
         "usuario": "Spencer.Walter"
       }
     ],
     "etiquetas": [
       "Con licencia",
-      "Práctico",
       "Inteligente",
       "Hecho a medida",
       "Fresco",
@@ -466,7 +474,7 @@
   },
   {
     "id": 11,
-    "nombre": "Frijoles haricot",
+    "nombre": "Frijoles",
     "precio": 4.62,
     "cantidad": 4,
     "peso": 19.26,
@@ -475,40 +483,42 @@
     "criticas": [
       {
         "puntaje": 4.52,
-        "comentario": "Mezcla de verduras frescas con paloma frotada con curry, chirivía y un aderezo ligero.",
+        "comentario": "Mezcla de verduras frescas con paloma frotada con curry, un aderezo ligero.",
         "correo": "Adolf_Hayes-Sauer14@gmail.com",
         "usuario": "Adolf_Hayes-Sauer20"
       },
       {
         "puntaje": 2.51,
-        "comentario": "Un pastel clásico relleno de delicioso cocodrilo y húmedos fideos de té verde, horneado en una corteza de pastelería crujiente y cubierto con una celosía de color marrón dorado.",
+        "comentario": "Un pastel relleno de delicioso cocodrilo y fideos de hierbas verdes, horneado en una corteza de pan.",
         "correo": "Hanna.DuBuque@gmail.com",
         "usuario": "Hanna_DuBuque"
       },
       {
         "puntaje": 2.9,
-        "comentario": "Pato al horno relleno de fideos asiáticos, sazonado con colombo y hierbas esponjosas, acompañado de una mezcla asada de alcachofas.",
+        "comentario": "Pato al horno relleno de fideos de asia, sazonado con colombo y hierbas esponjosas, acompañado de una mezcla asada de alcachofas.",
         "correo": "Valentina_Gerhold32@yahoo.com",
         "usuario": "Valentina.Gerhold"
       },
       {
         "puntaje": 0.47,
-        "comentario": "Un exquisito asado de venado, infundido con la esencia de bayas de enebro, asado a fuego lento para resaltar sus sabores naturales y servido con un acompañamiento de alcaparras cremosas.",
+        "comentario": "Un exquisito asado de venado, infundido con la esencia de bayas de enebro, asado a fuego lento para resaltar sus sabores naturales y servido con alcaparras cremosas.",
         "correo": "Aglae.Nitzsche62@yahoo.com",
         "usuario": "Aglae.Nitzsche"
       },
       {
         "puntaje": 2.13,
-        "comentario": "Mezcla de verduras frescas con pavo frotado con poudre de colombo, batata y un aderezo ligero.",
+        "comentario": "Mezcla de verduras frescas con pavo frotado con poudre de colombo, papa y un aderezo ligero.",
         "correo": "Una.Kunde86@gmail.com",
         "usuario": "Una_Kunde"
       }
     ],
-    "etiquetas": ["Elegante"]
+    "etiquetas": [
+      "Elegante"
+    ]
   },
   {
     "id": 12,
-    "nombre": "Bayas de goji",
+    "nombre": "Bayas",
     "precio": 14.28,
     "cantidad": 1,
     "peso": 11.402,
@@ -529,7 +539,7 @@
       },
       {
         "puntaje": 2.03,
-        "comentario": "Nuestro dulce salmón, cocinado a fuego lento a la perfección, acompañado de zanahoria de algarroba al vapor y una salsa rica y sabrosa.",
+        "comentario": "Nuestro dulce pescado, cocinado a fuego lento, con zanahoria de algarroba al vapor y una salsa rica y sabrosa.",
         "correo": "Curt.Hettinger23@hotmail.com",
         "usuario": "Curt.Hettinger"
       },
@@ -541,12 +551,14 @@
       },
       {
         "puntaje": 2.85,
-        "comentario": "Brochetas de pavo a la parrilla, marinadas en especias judías-israelíes y servidas con una ensalada fresca de batata y fruta del dragón.",
+        "comentario": "Brochetas de pavo a la parrilla, marinadas en especias de freijoles y servidas con una ensalada fresca de batata y fruta.",
         "correo": "Percy_Christiansen@hotmail.com",
         "usuario": "Percy_Christiansen"
       }
     ],
-    "etiquetas": ["Increíble", "Increíble", "Elegante"]
+    "etiquetas": [
+      "Elegante"
+    ]
   },
   {
     "id": 13,
@@ -559,7 +571,7 @@
     "criticas": [
       {
         "puntaje": 0.04,
-        "comentario": "Paloma al horno rellena de saúco, sazonada con hojas de laurel y hierbas cremosas, acompañada de una mezcla asada de calabacín.",
+        "comentario": "Paloma al horno rellena, sazonada con hojas de laurel y hierbas cremosas, acompañada de una mezcla asada de calabacín.",
         "correo": "Mohammed.Schultz84@yahoo.com",
         "usuario": "Mohammed.Schultz"
       },
@@ -571,7 +583,7 @@
       },
       {
         "puntaje": 0.06,
-        "comentario": "Tres vainas de vainilla con pimiento verde, hijiki, apio, zanahoria de algarroba y limoncillo. Con un acompañamiento de nectarina asada y a elegir entre atún o gruyer.",
+        "comentario": "Tres vainas de vainilla con pimiento verde, apio, zanahoria de algarroba y limoncillo. Con un acompañamiento de miel.",
         "correo": "Lenore_Toy@yahoo.com",
         "usuario": "Lenore_Toy55"
       },
@@ -583,16 +595,21 @@
       },
       {
         "puntaje": 1.52,
-        "comentario": "Mezcla de verduras frescas con avestruz frotado con hojas de kaffir, hijiki y un aderezo ligero.",
+        "comentario": "Mezcla de verduras frescas con avestruz frotado con hojas de kaffir y un aderezo ligero.",
         "correo": "Jimmy.Johnson71@hotmail.com",
         "usuario": "Jimmy.Johnson91"
       }
     ],
-    "etiquetas": ["Lujoso", "Pequeño", "Elegante", "Genérico", "Oriental"]
+    "etiquetas": [
+      "Lujoso",
+      "Pequeño",
+      "Elegante",
+      "Oriental"
+    ]
   },
   {
     "id": 14,
-    "nombre": "french eschallots",
+    "nombre": "Coles francesas",
     "precio": 15.369,
     "cantidad": 10,
     "peso": 3.657,
@@ -601,40 +618,44 @@
     "criticas": [
       {
         "puntaje": 1.9,
-        "comentario": "Una menta lavanda especial de Ruanda. Para resaltar su fuerte sabor, se acompaña con una cucharada de piri piri.",
+        "comentario": "Una menta lavanda especial de Ruanda. Para resaltar su fuerte sabor, se acompaña con una cucharada de miel.",
         "correo": "Cindy_Jacobson@yahoo.com",
         "usuario": "Cindy.Jacobson42"
       },
       {
         "puntaje": 0.84,
-        "comentario": "Brochetas de pollo a la parrilla, marinadas con especias chinas y servidas con una ensalada fresca de bok choy y kiwi.",
+        "comentario": "Brochetas de pollo a la parrilla, marinadas con especias chinas y servidas con una ensalada fresca de kiwi.",
         "correo": "Hassan.Runolfsdottir@yahoo.com",
         "usuario": "Hassan_Runolfsdottir83"
       },
       {
         "puntaje": 0.98,
-        "comentario": "Pan de montaña abundante y estofado de cocodrilo, cocido a fuego lento con anís estrellado y bok choy para una comida reconfortante y sabrosa.",
+        "comentario": "Pan de integral abundante y estofado de cocodrilo, cocido a fuego lento con hierba luisa estrellado para una comida reconfortante y sabrosa.",
         "correo": "Lacey_Hintz@gmail.com",
         "usuario": "Lacey.Hintz"
       },
       {
         "puntaje": 3.2,
-        "comentario": "Salmón relleno de queso brie al horno, sazonado con lavanda y hierbas picantes, acompañado de una mezcla de ajo asado.",
+        "comentario": "pescado relleno de queso al horno, sazonado con lavanda y hierbas picantes con ajo asado.",
         "correo": "Emmanuel.Tillman@gmail.com",
         "usuario": "Emmanuel.Tillman"
       },
       {
         "puntaje": 2.54,
-        "comentario": "Paloma jugosa, asada a tu gusto y rociada con una salsa de manzanilla audaz, servida junto con alcachofa de Jerusalén asada.",
+        "comentario": "Paloma jugosa, asada a tu gusto y rociada con una salsa de manzanilla audaz, servida junto con alcachofa.",
         "correo": "Alfonzo.Bradtke@yahoo.com",
         "usuario": "Alfonzo.Bradtke37"
       }
     ],
-    "etiquetas": ["Elegante", "Moderno", "Increíble"]
+    "etiquetas": [
+      "Elegante",
+      "Moderno",
+      "Increíble"
+    ]
   },
   {
     "id": 15,
-    "nombre": "guava",
+    "nombre": "Banana",
     "precio": 3.372,
     "cantidad": 2,
     "peso": 6.525,
@@ -643,13 +664,13 @@
     "criticas": [
       {
         "puntaje": 0.62,
-        "comentario": "Aceitunas azules especiales de Azerbaiyán. Para resaltar su fuerte sabor, se acompaña con una cucharada de canela.",
+        "comentario": "Aceitunas azules especiales. Para resaltar su fuerte sabor, se acompaña con una cucharada de canela.",
         "correo": "Delmer.Osinski15@gmail.com",
         "usuario": "Delmer.Osinski"
       },
       {
         "puntaje": 2.85,
-        "comentario": "Gula melaka fresca con un toque de romero, cubierta con una calabaza jarrahdale caramelizada con crema batida.",
+        "comentario": "Nueces frescas con un toque de romero, cubierta con una calabaza caramelizada con crema batida.",
         "correo": "Flo_Mosciski@yahoo.com",
         "usuario": "Flo.Mosciski58"
       },
@@ -661,28 +682,25 @@
       },
       {
         "puntaje": 1.65,
-        "comentario": "Brochetas de pato tiernas, glaseadas con una salsa dulce y ácida de pitahaya, servidas sobre una cama de arroz jazmín fragante.",
+        "comentario": "Brochetas de pato tiernas, glaseadas con una salsa dulce pitajaya, servidas sobre una cama de arroz.",
         "correo": "Kelsie.Hauck32@yahoo.com",
         "usuario": "Kelsie.Hauck0"
       },
       {
         "puntaje": 3.85,
-        "comentario": "Filete de cerdo añejado por 1 día, con elección de 3 acompañamientos.",
+        "comentario": "Filete de cerdo curado por 1 hora.",
         "correo": "Creola.Bechtelar32@hotmail.com",
         "usuario": "Creola_Bechtelar20"
       }
     ],
     "etiquetas": [
       "Hecho a medida",
-      "Increíble",
-      "Práctico",
-      "Refinado",
-      "Genérico"
+      "Refinado"
     ]
   },
   {
     "id": 16,
-    "nombre": "barley",
+    "nombre": "Jamon",
     "precio": 12.844,
     "cantidad": 8,
     "peso": 12.32,
@@ -691,31 +709,31 @@
     "criticas": [
       {
         "puntaje": 3.37,
-        "comentario": "Un filete de conejo suculento, envuelto en una corteza de vainilla amarga, servido con un acompañamiento de puré de frambuesa con fenogreco.",
+        "comentario": "Un filete de conejo suculento, envuelto en una corteza de vainilla amarga, servido con frambuesa.",
         "correo": "Hector_Balistreri-Romaguera@gmail.com",
         "usuario": "Hector_Balistreri-Romaguera"
       },
       {
         "puntaje": 2.92,
-        "comentario": "Tres semillas de chía con okra, calabacín, col rizada, bok choy y gruyere. Con un acompañamiento de granada al horno, y tu elección de nabos o queso cheddar.",
+        "comentario": "Tres semillas de calabacín, col rizada, soja y gruyere. Con un acompañamiento de granada al horno y queso cheddar.",
         "correo": "Cecilia_Smitham@gmail.com",
         "usuario": "Cecilia_Smitham77"
       },
       {
         "puntaje": 4.35,
-        "comentario": "Emú tiernamente estofado en una rica salsa de hojas de lima y pepino, servido con un acompañamiento de jícama cremosa.",
+        "comentario": "Ganso tiernamente estofado en una rica salsa de hojas de lima y pepino, servido con un acompañamiento.",
         "correo": "Bennett.Senger36@yahoo.com",
         "usuario": "Bennett_Senger52"
       },
       {
         "puntaje": 0.77,
-        "comentario": "Una sopa libanesa reconfortante, con champiñones enoki frescos y una mezcla aromática de especias tradicionales.",
+        "comentario": "Una sopa libanesa reconfortante, con champiñones enoki frescos y una mezcla de especias tradicionales.",
         "correo": "Marian_Renner@hotmail.com",
         "usuario": "Marian_Renner8"
       },
       {
         "puntaje": 1.22,
-        "comentario": "Codorniz jugosa, asada a tu gusto y rociada con una salsa de casia audaz, servida junto con judías verdes asadas.",
+        "comentario": "Codorniz jugosa, asada a tu gusto y rociada con una salsa de casia audaz.",
         "correo": "Adolfo_Nader-Sipes@gmail.com",
         "usuario": "Adolfo.Nader-Sipes"
       }
@@ -723,7 +741,6 @@
     "etiquetas": [
       "Moderno",
       "Elegante",
-      "Ergonómico",
       "Hermoso",
       "Lujoso",
       "Suave"
@@ -731,7 +748,7 @@
   },
   {
     "id": 17,
-    "nombre": "curry leaves",
+    "nombre": "Higado de pollo",
     "precio": 3.716,
     "cantidad": 2,
     "peso": 8.254,
@@ -740,40 +757,43 @@
     "criticas": [
       {
         "puntaje": 1.62,
-        "comentario": "Una sopa griega reconfortante, con limas frescas y una mezcla aromática de especias tradicionales.",
+        "comentario": "Una sopa griega reconfortante, con limas frescas y una mezcla de especias tradicionales.",
         "correo": "Nathen.Berge@yahoo.com",
         "usuario": "Nathen.Berge3"
       },
       {
         "puntaje": 3.32,
-        "comentario": "Brochetas de cordero tiernas, glaseadas con una salsa dulce y ácida de manzana de azúcar, servidas sobre una cama de arroz jazmín fragante.",
+        "comentario": "Brochetas de cordero tiernas, glaseadas con una salsa dulce, servidas sobre una cama de arroz.",
         "correo": "Shanna_Quitzon34@hotmail.com",
         "usuario": "Shanna.Quitzon"
       },
       {
         "puntaje": 3.5,
-        "comentario": "Cocodrilo relleno de semillas de mostaza al horno, sazonado con estragón y hierbas saladas, acompañado de una mezcla de brócoli asado.",
+        "comentario": "Cocodrilo relleno de semillas de mostaza al horno y hierbas saladas, acompañado de una mezcla de asado.",
         "correo": "Haskell_Becker@hotmail.com",
         "usuario": "Haskell.Becker"
       },
       {
         "puntaje": 4.43,
-        "comentario": "Verdes mixtos frescos mezclados con pavo frotado con semillas de ajwain, cebollino y un aderezo ligero.",
+        "comentario": "Verdes mixtos frescos mezclados con pavo frotado con semillas, cebollino y un aderezo ligero.",
         "correo": "Brook.Windler@gmail.com",
         "usuario": "Brook_Windler83"
       },
       {
         "puntaje": 2.43,
-        "comentario": "Un estofado picante robusto con sabores de Rajastán, cargado con carne crujiente, vegetales crujientes y un caldo ahumado y crujiente.",
+        "comentario": "Un estofado picante robusto con sabores picantes, cargado con carne crujiente, vegetales crujientes y un caldo ahumado y crujiente.",
         "correo": "Mireya_Upton@yahoo.com",
         "usuario": "Mireya_Upton"
       }
     ],
-    "etiquetas": ["Reciclado", "Elegante", "Rústico"]
+    "etiquetas": [
+      "Reciclado",
+      "Elegante"
+    ]
   },
   {
     "id": 18,
-    "nombre": "rhubarb",
+    "nombre": "Vinagreta",
     "precio": 16.869,
     "cantidad": 2,
     "peso": 7.247,
@@ -782,19 +802,19 @@
     "criticas": [
       {
         "puntaje": 0.19,
-        "comentario": "Nuestro salmón esponjoso, cocido a fuego lento a la perfección, acompañado de cebollino al vapor y una salsa rica y sabrosa.",
+        "comentario": "Nuestro pescado esponjoso, cocido a fuego lento, cebollino al vapor y una salsa rica y sabrosa.",
         "correo": "Vito_Shields95@yahoo.com",
         "usuario": "Vito_Shields"
       },
       {
         "puntaje": 0.07,
-        "comentario": "Un exquisito asado de cordero, infusionado con la esencia de tomate de monte, asado lentamente para resaltar sus sabores naturales y servido con un acompañamiento de verduras asiáticas cremosas.",
+        "comentario": "Un exquisito asado de cordero, infusionado con la esencia de tomate de monte, asado lentamente para resaltar sus sabores naturales y servido con un acompañamiento de verduras cremosas.",
         "correo": "Newell_Mayer82@yahoo.com",
         "usuario": "Newell_Mayer"
       },
       {
         "puntaje": 4.22,
-        "comentario": "Verdes mixtos frescos mezclados con carne de res frotada con papel de arroz, rúcula y un aderezo ligero.",
+        "comentario": "Verdes mixtos frescos mezclados con carne de res frotada con papel de arroz, un aderezo ligero.",
         "correo": "Rolando_Mraz@hotmail.com",
         "usuario": "Rolando.Mraz"
       },
@@ -806,25 +826,23 @@
       },
       {
         "puntaje": 4.9,
-        "comentario": "Bocados de venado fritos crujientes, sazonados con hojas de laurel y servidos con una salsa de saúco ácida.",
+        "comentario": "Bocados de venado fritos crujientes, sazonados con hojas de laurel y servidos con una salsa.",
         "correo": "Rigoberto_Bergstrom37@hotmail.com",
         "usuario": "Rigoberto.Bergstrom7"
       }
     ],
     "etiquetas": [
       "Sin marca",
-      "Práctico",
       "Hecho a mano",
       "Sabroso",
       "Lujoso",
-      "Fantástico",
       "Hermoso",
       "Hecho a medida"
     ]
   },
   {
     "id": 19,
-    "nombre": "besan",
+    "nombre": "Tocino",
     "precio": 8.973,
     "cantidad": 4,
     "peso": 5.648,
@@ -839,7 +857,7 @@
       },
       {
         "puntaje": 0.18,
-        "comentario": "Tres nabos con zanahoria morada, brócoli, rábano, zanahoria morada y amaranto. Con un acompañamiento de dátil al horno, y tu elección de harina de soja o agar.",
+        "comentario": "Tres nabos con zanahoria morada, brócoli, rábano, zanahoria morada y amaranto. Con un acompañamiento de verduras al horno.",
         "correo": "Asia_Runolfsdottir81@yahoo.com",
         "usuario": "Asia_Runolfsdottir"
       },
@@ -851,22 +869,27 @@
       },
       {
         "puntaje": 3.69,
-        "comentario": "Un Northern Waterthrush asado lentamente con un exterior cremoso y ácido. Relleno con kumquat y cubierto con salsa de higo. Acompañado con puré de achicoria y chalotas francesas silvestres.",
+        "comentario": "Un lomo fino asado lentamente con un exterior cremoso. Relleno con kumquat y cubierto con salsa de higo. Acompañado con puré de achicoria y chalotas francesas silvestres.",
         "correo": "Mustafa.Dare@yahoo.com",
         "usuario": "Mustafa_Dare70"
       },
       {
         "puntaje": 4.85,
-        "comentario": "Brochetas de emú a la parrilla, marinadas con especias alemanas y servidas con una ensalada fresca de lechuga cos y uvas.",
+        "comentario": "Brochetas de lomo a la parrilla, marinadas con especias alemanas y servidas con una ensalada fresca de lechuga cos y uvas.",
         "correo": "Palma.Torphy-Huels54@hotmail.com",
         "usuario": "Palma.Torphy-Huels24"
       }
     ],
-    "etiquetas": ["Congelado", "Artesanal", "Moderno", "Pequeño"]
+    "etiquetas": [
+      "Congelado",
+      "Artesanal",
+      "Moderno",
+      "Pequeño"
+    ]
   },
   {
     "id": 20,
-    "nombre": "margarine",
+    "nombre": "Mantequilla",
     "precio": 16.669,
     "cantidad": 6,
     "peso": 17.704,
@@ -875,25 +898,25 @@
     "criticas": [
       {
         "puntaje": 0.81,
-        "comentario": "Una calabaza jarrahdale plateada especial de Papúa Nueva Guinea. Para resaltar su fuerte sabor, se acompaña con una cucharada de albahaca.",
+        "comentario": "Una calabaza plateada especial de mantequilla. Para resaltar su fuerte sabor, se acompaña con una cucharada de albahaca.",
         "correo": "Myrna.Haley85@gmail.com",
         "usuario": "Myrna_Haley18"
       },
       {
         "puntaje": 1.02,
-        "comentario": "Filete de ganso añejado por 95 días, con elección de 4 acompañamientos.",
+        "comentario": "Filete de ganso curado por 95 horas.",
         "correo": "Theodore.Price58@gmail.com",
         "usuario": "Theodore_Price88"
       },
       {
         "puntaje": 4.75,
-        "comentario": "Estofado abundante de quinua y pato, cocido a fuego lento con fenogreco y chalotas francesas para una comida reconfortante y sabrosa.",
+        "comentario": "Estofado abundante de quinua y pato, cocido a fuego lento  y chalotas francesas para una comida reconfortante y sabrosa.",
         "correo": "Jocelyn.Boehm@hotmail.com",
         "usuario": "Jocelyn_Boehm"
       },
       {
         "puntaje": 1.39,
-        "comentario": "Estofado abundante de miel y ganso, cocido a fuego lento con barbacoa e hijiki para una comida reconfortante y sabrosa.",
+        "comentario": "Estofado abundante de miel y ganso, cocido a fuego lento con barbacoa para una comida reconfortante y sabrosa.",
         "correo": "Garrison_Weber-Abernathy5@hotmail.com",
         "usuario": "Garrison_Weber-Abernathy72"
       },
@@ -907,7 +930,6 @@
     "etiquetas": [
       "Moderno",
       "Sabroso",
-      "Ergonómico",
       "Suave",
       "Oriental",
       "Pequeño"
@@ -915,7 +937,7 @@
   },
   {
     "id": 21,
-    "nombre": "fingerlime",
+    "nombre": "Pizza congelada",
     "precio": 7.081,
     "cantidad": 1,
     "peso": 18.009,
@@ -924,7 +946,7 @@
     "criticas": [
       {
         "puntaje": 4.65,
-        "comentario": "Nuestro canguro amargo, cocido a fuego lento a la perfección, acompañado de colinabo al vapor y una salsa rica y sabrosa.",
+        "comentario": "Cocido a fuego lento a la perfección, acompañado de colinabo al vapor y una salsa rica y sabrosa.",
         "correo": "Brendon.Hahn90@gmail.com",
         "usuario": "Brendon.Hahn73"
       },
@@ -948,16 +970,20 @@
       },
       {
         "puntaje": 1.27,
-        "comentario": "Brochetas de conejo a la parrilla, marinadas con especias brasileñas y servidas con una ensalada fresca de acelga suiza y mora.",
+        "comentario": "Brochetas de conejo a la parrilla, marinadas con especias y servidas con una ensalada fresca de acelga suiza y mora.",
         "correo": "Jessy.Wilkinson-Borer@gmail.com",
         "usuario": "Jessy_Wilkinson-Borer42"
       }
     ],
-    "etiquetas": ["Inteligente", "Sin marca", "Rústico", "Sabroso"]
+    "etiquetas": [
+      "Inteligente",
+      "Sin marca",
+      "Sabroso"
+    ]
   },
   {
     "id": 22,
-    "nombre": "mint",
+    "nombre": "Menta",
     "precio": 3.217,
     "cantidad": 3,
     "peso": 15.903,
@@ -978,28 +1004,25 @@
       },
       {
         "puntaje": 3.33,
-        "comentario": "Canguro tiernamente estofado en una rica salsa de macis y chirivía, servido con un acompañamiento de camote cremoso.",
+        "comentario": "Canguro tiernamente estofado en una rica salsa de masorca, servido con un camote glaseado.",
         "correo": "Guiseppe_Fisher@hotmail.com",
         "usuario": "Guiseppe_Fisher"
       },
       {
         "puntaje": 1.76,
-        "comentario": "Un pastel clásico relleno con delicioso venado y fideos hokkien picantes, horneado en una masa dulce y cubierto con un enrejado dorado.",
+        "comentario": "Un pastel relleno con delicioso venado y fideos picantes, horneado en una masa dulce y cubierto con un glaseado dorado.",
         "correo": "Anabelle_Renner@yahoo.com",
         "usuario": "Anabelle.Renner"
       },
       {
         "puntaje": 2.57,
-        "comentario": "Una sopa cajún reconfortante, con semillas de cilantro frescas y una mezcla aromática de especias tradicionales.",
+        "comentario": "Una sopa pollo reconfortante, con semillas de cilantro frescas y una mezcla aromática de especias tradicionales.",
         "correo": "Harold_Bergnaum10@yahoo.com",
         "usuario": "Harold.Bergnaum47"
       }
     ],
     "etiquetas": [
-      "Ergonómico",
-      "Práctico",
       "Pequeño",
-      "Rústico",
       "Sabroso",
       "Inteligente",
       "Oriental"
@@ -1007,7 +1030,7 @@
   },
   {
     "id": 23,
-    "nombre": "amaranth",
+    "nombre": "Cerdo rostizado",
     "precio": 9.592,
     "cantidad": 2,
     "peso": 17.535,
@@ -1016,40 +1039,44 @@
     "criticas": [
       {
         "puntaje": 4.53,
-        "comentario": "Un estofado rico robusto con sabores de Zanzíbar, cargado con carne picante, vegetales ácidos y un caldo húmedo y picante.",
+        "comentario": "Un estofado rico y robusto, cargado con carne picante, vegetales y un caldo picante.",
         "correo": "Candace.Dibbert23@hotmail.com",
         "usuario": "Candace_Dibbert"
       },
       {
         "puntaje": 4.78,
-        "comentario": "Estofado abundante de aceite de té y conejo, cocido a fuego lento con curry y cebolla para una comida reconfortante y sabrosa.",
+        "comentario": "Estofado abundante conejo, cocido a fuego lento con curry y cebolla para una comida reconfortante y sabrosa.",
         "correo": "Antonia.Johns88@gmail.com",
         "usuario": "Antonia_Johns54"
       },
       {
         "puntaje": 1.94,
-        "comentario": "Nuestro venado crujiente, cocido a fuego lento a la perfección, acompañado de repollo chino al vapor y una salsa rica y sabrosa.",
+        "comentario": "Nuestro venado crujiente, cocido a fuego lento, repollo chino al vapor y una salsa rica y sabrosa.",
         "correo": "Zita.OConner-Wisoky@yahoo.com",
         "usuario": "Zita_OConner-Wisoky"
       },
       {
         "puntaje": 3.79,
-        "comentario": "Un estofado dulce robusto con sabores asirios, cargado con carne dorada, vegetales húmedos y un caldo ácido y amargo.",
+        "comentario": "Un estofado dulce robusto con sabores dulces, cargado con carne dorada, vegetales y un caldo picante.",
         "correo": "Houston.Volkman47@yahoo.com",
         "usuario": "Houston_Volkman6"
       },
       {
         "puntaje": 4.64,
-        "comentario": "Un pastel clásico relleno con deliciosa codorniz y macis sabroso, horneado en una masa jugosa y cubierto con un enrejado dorado.",
+        "comentario": "Un pastel relleno con deliciosa codorniz y masorca sabroso, horneado en una masa jugosa y cubierto con un enrejado dorado.",
         "correo": "Yasmine_Lesch@gmail.com",
         "usuario": "Yasmine_Lesch"
       }
     ],
-    "etiquetas": ["Refinado", "Congelado", "Genérico", "Lujoso"]
+    "etiquetas": [
+      "Refinado",
+      "Congelado",
+      "Lujoso"
+    ]
   },
   {
     "id": 24,
-    "nombre": "fish sauce",
+    "nombre": "Pescado en salsa blanca",
     "precio": 2.332,
     "cantidad": 8,
     "peso": 10.959,
@@ -1070,28 +1097,30 @@
       },
       {
         "puntaje": 4.93,
-        "comentario": "Emú jugoso, asado a tu gusto y rociado con una salsa de asafétida audaz, servido junto con rábano asado.",
+        "comentario": "Emú jugoso, asado a tu gusto y rociado con una salsa de asafétida audaz, servido junto con berenjena asada.",
         "correo": "Deonte_Breitenberg@gmail.com",
         "usuario": "Deonte.Breitenberg58"
       },
       {
         "puntaje": 0.12,
-        "comentario": "Tres nueces de cajú con cebollino, alcaparras, achicoria, nabos y bayas de goji. Con un acompañamiento de melón al horno, y tu elección de carambola o plátano.",
+        "comentario": "Tres nueces de con cebollin, algarroba, nabos y bayas de goji. Con un acompañamiento de arbejas al horno y banana.",
         "correo": "Ruben.Abshire97@yahoo.com",
         "usuario": "Ruben.Abshire63"
       },
       {
         "puntaje": 4.34,
-        "comentario": "Nuestro venado jugoso, cocido a fuego lento a la perfección, acompañado de achicoria al vapor y una salsa rica y sabrosa.",
+        "comentario": "Nuestro venado jugoso, cocido a fuego lento, con de albahaca al vapor y una salsa rica y sabrosa.",
         "correo": "Rosalia.Kulas@yahoo.com",
         "usuario": "Rosalia.Kulas"
       }
     ],
-    "etiquetas": ["Sin marca"]
+    "etiquetas": [
+      "Sin marca"
+    ]
   },
   {
     "id": 25,
-    "nombre": "pear juice",
+    "nombre": "Pera",
     "precio": 10.495,
     "cantidad": 5,
     "peso": 9.128,
@@ -1100,13 +1129,13 @@
     "criticas": [
       {
         "puntaje": 3.33,
-        "comentario": "Filete de paloma añejado por 52 días, con elección de 4 acompañamientos.",
+        "comentario": "Fruta de curada por 52 horas.",
         "correo": "Abel_Ratke55@gmail.com",
         "usuario": "Abel_Ratke"
       },
       {
         "puntaje": 3.33,
-        "comentario": "Tres vinagres de vino blanco con bok choy, brotes de frijol, verduras asiáticas, lechuga mantecosa y jugo de manzana. Con un acompañamiento de kiwiberry al horno, y tu elección de pasas o semillas de calabaza.",
+        "comentario": "Tres vinagres de vino blanco de brotes de frijol, verduras, lechuga mantecosa y jugo de manzana con semillas de calabaza.",
         "correo": "Justus_Bauch@gmail.com",
         "usuario": "Justus.Bauch"
       },
@@ -1118,22 +1147,27 @@
       },
       {
         "puntaje": 3.66,
-        "comentario": "Brochetas de paloma tiernas, glaseadas con una salsa dulce y ácida de ciruela, servidas sobre una cama de arroz jazmín fragante.",
+        "comentario": "Brochetas de paloma tiernas, glaseadas con una salsa dulce y ácida de ciruela, servidas sobre una cama de arroz.",
         "correo": "Lyric.Metz@gmail.com",
         "usuario": "Lyric.Metz89"
       },
       {
         "puntaje": 2.18,
-        "comentario": "Filete de pollo añejado por 30 días, con elección de 3 acompañamientos.",
+        "comentario": "Filete de pollo añejado por 30 horas, con elección de 3 frutas.",
         "correo": "Ryley_Feest@hotmail.com",
         "usuario": "Ryley_Feest"
       }
     ],
-    "etiquetas": ["Oriental", "Sin marca", "Práctico", "Increíble", "Moderno"]
+    "etiquetas": [
+      "Oriental",
+      "Sin marca",
+      "Increíble",
+      "Moderno"
+    ]
   },
   {
     "id": 26,
-    "nombre": "warehou",
+    "nombre": "Res al olivo",
     "precio": 5.512,
     "cantidad": 7,
     "peso": 16.801,
@@ -1142,50 +1176,47 @@
     "criticas": [
       {
         "puntaje": 2.53,
-        "comentario": "Brochetas de pato a la parrilla, marinadas con especias de Gujarat y servidas con una ensalada fresca de zanahoria carob y albaricoque seco.",
+        "comentario": "Brochetas de res a la parrilla, marinadas con especias y servidas con una ensalada fresca de zanahoria y albaricoque.",
         "correo": "Louisa.Hamill@gmail.com",
         "usuario": "Louisa.Hamill"
       },
       {
         "puntaje": 1.89,
-        "comentario": "Una tarta deliciosa que combina brócoli crujiente y arándano dulce, en una masa de mantequilla y terminada con un toque de mostaza.",
+        "comentario": "Una tarta deliciosa que combina berenjena dulce, en una masa de mantequilla y terminada con un toque de mostaza.",
         "correo": "Caesar.OKeefe@hotmail.com",
         "usuario": "Caesar.OKeefe30"
       },
       {
         "puntaje": 3.28,
-        "comentario": "Tres tabascos con radicchio, ruibarbo, ruibarbo, chalotas francesas y mango. Con un acompañamiento de arándano al horno, y tu elección de brócoli o garam masala.",
+        "comentario": "Tres tabascos con zanahoria, chalotas francesas y mango. Con arándano al horno.",
         "correo": "Kylee.Lynch11@gmail.com",
         "usuario": "Kylee_Lynch8"
       },
       {
         "puntaje": 2.24,
-        "comentario": "Filete de avestruz añejado por 48 días, con elección de 4 acompañamientos.",
+        "comentario": "Filete de res curado por 48 horas.",
         "correo": "Casper.Hintz@yahoo.com",
         "usuario": "Casper_Hintz"
       },
       {
         "puntaje": 1.74,
-        "comentario": "Una sopa de Hyderabad reconfortante, con dátiles frescos y una mezcla aromática de especias tradicionales.",
+        "comentario": "Una sopa de cebolla reconfortante de especias tradicionales.",
         "correo": "Maud_Greenholt90@yahoo.com",
         "usuario": "Maud_Greenholt"
       }
     ],
     "etiquetas": [
-      "Fantástico",
       "Elegante",
       "Congelado",
-      "Electrónico",
       "Inteligente",
       "Sabroso",
       "Hecho a mano",
-      "Ergonómico",
       "Lujoso"
     ]
   },
   {
     "id": 27,
-    "nombre": "stevia",
+    "nombre": "Pavo rostizado",
     "precio": 8.871,
     "cantidad": 4,
     "peso": 16.135,
@@ -1194,31 +1225,31 @@
     "criticas": [
       {
         "puntaje": 1.26,
-        "comentario": "Una sopa ucraniana reconfortante, con champiñones cultivados comunes frescos y una mezcla aromática de especias tradicionales.",
+        "comentario": "Una sopa ucraniana reconfortante, con champiñones cultivados comunes frescos y una mezcla de especias tradicionales.",
         "correo": "Teresa_Lindgren-Yundt@hotmail.com",
         "usuario": "Teresa.Lindgren-Yundt"
       },
       {
         "puntaje": 0.97,
-        "comentario": "Fresas violetas especiales de Guinea-Bisáu. Para resaltar su fuerte sabor, se acompaña con una cucharada de nuez moscada.",
+        "comentario": "Fresas violetas especiales de Guinea. Para resaltar su fuerte sabor, se acompaña con una cucharada de nuez moscada.",
         "correo": "Lourdes.Corkery@hotmail.com",
         "usuario": "Lourdes.Corkery62"
       },
       {
         "puntaje": 4.55,
-        "comentario": "Filete de cordero añejado por 27 días, con elección de 3 acompañamientos.",
+        "comentario": "Filete de pavo curado por 27 horas, con 3 guarniciones.",
         "correo": "Elmer.Upton40@yahoo.com",
         "usuario": "Elmer.Upton20"
       },
       {
         "puntaje": 0.67,
-        "comentario": "Bocados de pavo fritos crujientes, sazonados con vainilla y servidos con una salsa de lima ácida.",
+        "comentario": "Bocados de pavo fritos crujientes, sazonados con vainilla y servidos con una salsa de lima.",
         "correo": "Reyes.Conroy@yahoo.com",
         "usuario": "Reyes_Conroy85"
       },
       {
         "puntaje": 0.79,
-        "comentario": "Un estofado fresco robusto con sabores kurdos, cargado con carne amarga, vegetales jugosos y un caldo jugoso y ahumado.",
+        "comentario": "Un estofado fresco robusto con sabores picantes, cargado con carne amarga, vegetales jugosos y un caldo jugoso y ahumado.",
         "correo": "Guy_Tillman9@gmail.com",
         "usuario": "Guy.Tillman"
       }
@@ -1229,14 +1260,13 @@
       "Inteligente",
       "Fresco",
       "Moderno",
-      "Increíble",
       "Artesanal",
       "Lujoso"
     ]
   },
   {
     "id": 28,
-    "nombre": "marjoram",
+    "nombre": "Ganso rostizado",
     "precio": 8.538,
     "cantidad": 5,
     "peso": 17.448,
@@ -1251,7 +1281,7 @@
       },
       {
         "puntaje": 3.5,
-        "comentario": "Un pastel clásico relleno con delicioso ganso y hojas de pandano ahumadas, horneado en una masa fresca y cubierto con un enrejado dorado.",
+        "comentario": "Un pastel relleno con delicioso ganso y hojas de pandano ahumadas, horneado en una masa fresca y cubierto con un enrejado dorado.",
         "correo": "Craig.MacGyver97@yahoo.com",
         "usuario": "Craig_MacGyver71"
       },
@@ -1263,22 +1293,28 @@
       },
       {
         "puntaje": 1.04,
-        "comentario": "Filete de pollo añejado por 53 días, con elección de 4 acompañamientos.",
+        "comentario": "Filete de pollo curado por 53 horas, con elección de 4 guarniciones.",
         "correo": "Gwen.Wiza@yahoo.com",
         "usuario": "Gwen_Wiza35"
       },
       {
         "puntaje": 2.31,
-        "comentario": "Estofado abundante de barramundi y conejo, cocido a fuego lento con papel de arroz y alcaparras para una comida reconfortante y sabrosa.",
+        "comentario": "Estofado de conejo, cocido a fuego lento con papel de arroz y alcaparras para una comida reconfortante y sabrosa.",
         "correo": "Laurianne_Ziemann28@yahoo.com",
         "usuario": "Laurianne.Ziemann46"
       }
     ],
-    "etiquetas": ["Suave", "Licenciado", "Rústico", "Electrónico", "Elegante"]
+    "etiquetas": [
+      "Suave",
+      "Licenciado",
+      "Rustico",
+      "Electrónico",
+      "Elegante"
+    ]
   },
   {
     "id": 29,
-    "nombre": "walnut",
+    "nombre": "Nuez con frutas",
     "precio": 14.682,
     "cantidad": 4,
     "peso": 12.776,
@@ -1287,13 +1323,13 @@
     "criticas": [
       {
         "puntaje": 1.74,
-        "comentario": "Un Tricolored Blackbird asado lentamente con un exterior crujiente y tierno. Relleno con guayaba y cubierto con salsa de manzana de azúcar. Acompañado con puré de brócoli chino seco y lechuga cos silvestre.",
+        "comentario": "Un asado con un exterior crujiente y tierno. Relleno con guayaba y cubierto con salsa de manzana de azúcar. Acompañado con puré de brócoli chino seco y lechuga cos silvestre.",
         "correo": "Armand.Rippin41@hotmail.com",
         "usuario": "Armand_Rippin"
       },
       {
         "puntaje": 3.66,
-        "comentario": "Kenchur fresco con un toque de anís, cubierto con un longan caramelizado con crema batida.",
+        "comentario": "Fresco con un toque de anís, cubierto con un caramelizado con crema batida.",
         "correo": "Kristoffer_Pacocha-Ziemann79@gmail.com",
         "usuario": "Kristoffer.Pacocha-Ziemann34"
       },
@@ -1305,13 +1341,13 @@
       },
       {
         "puntaje": 0.28,
-        "comentario": "Un estofado picante robusto con sabores caribeños, cargado con carne cremosa, vegetales salados y un caldo ahumado.",
+        "comentario": "Un estofado picante robusto con sabores del caribe, cargado con carne cremosa, vegetales salados y un caldo ahumado.",
         "correo": "Karolann_Murray@hotmail.com",
         "usuario": "Karolann.Murray"
       },
       {
         "puntaje": 3.99,
-        "comentario": "Una sopa bashkir reconfortante, con muesli fresco y una mezcla aromática de especias tradicionales.",
+        "comentario": "Una sopa fresca, con hongos frescos y una mezcla aromática de especias tradicionales.",
         "correo": "Sally_Greenfelder@gmail.com",
         "usuario": "Sally.Greenfelder97"
       }
@@ -1328,7 +1364,7 @@
   },
   {
     "id": 30,
-    "nombre": "chocolate oscuro",
+    "nombre": "Pollo",
     "precio": 14.128,
     "cantidad": 8,
     "peso": 16.587,
@@ -1343,7 +1379,7 @@
       },
       {
         "puntaje": 3.75,
-        "comentario": "Filete de ganso envejecido durante 92 días, con elección de 3 guarniciones.",
+        "comentario": "Filete de ganso envejecido durante 92 horas, con elección de 3 guarniciones.",
         "correo": "Hanna.Olson@yahoo.com",
         "usuario": "Hanna_Olson61"
       },
@@ -1366,6 +1402,8 @@
         "usuario": "Irving_Grimes"
       }
     ],
-    "etiquetas": ["Refinado"]
+    "etiquetas": [
+      "Refinado"
+    ]
   }
 ]
