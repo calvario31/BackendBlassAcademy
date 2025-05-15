@@ -56,7 +56,7 @@ export class MainController {
 
     return {
       ...(request.body as any),
-      id,
+      id: product.id,
     };
   }
 
