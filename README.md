@@ -23,7 +23,7 @@ Proyecto de Blass Academy para uso de API
 4. Instalar las dependencias con:
 
 ```bash
-  npm ci
+  npm install
 ```     
     
 ## Ejecución
