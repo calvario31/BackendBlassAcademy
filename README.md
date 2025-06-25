@@ -10,6 +10,11 @@ Proyecto de Blass Academy para uso de API
   * [Link Oficial de VSCode](https://code.visualstudio.com/download)
   * [Guía para Windows](https://www.youtube.com/watch?v=R3D9lAW_eho)
   * [Guía para MacOS](https://www.youtube.com/watch?v=2f5lwSlvBDk)
+ 
+* Instalar Postman:
+  * [Link Oficial de Postman](https://www.postman.com)
+  * [Guía para Windows](https://www.youtube.com/watch?v=dmqVKGUW1rY)
+  * [Guía para MacOS](https://www.youtube.com/watch?v=Rv9x11yPThs)
 
 * Opcional: tener instalado/configurado git para clonar el proyecto
 
