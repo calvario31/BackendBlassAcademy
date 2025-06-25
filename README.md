@@ -5,14 +5,12 @@ Proyecto de Blass Academy para uso de API
 
 ## Requerimientos
 
-* Instalar Node:
-  * [Link Oficial](https://nodejs.org/en/download)
-  * [Guía para Windows](https://www.youtube.com/watch?v=M_veZSGIX_w)
-  * [Guía para MacOS](https://www.youtube.com/watch?v=CDcf1sJZTlE)
-* Instalar VSCode:
-  * [Link Oficial](https://code.visualstudio.com/download)
-  * [Guía para Windows](https://www.youtube.com/watch?v=FwOJXIN2_po)
-  * [Guía para MacOS](https://www.youtube.com/watch?v=A84-F-JWb2g)
+* Instalar Node & VSCode:
+  * [Link Oficial de Node](https://nodejs.org/en/download)
+  * [Link Oficial de VSCode](https://code.visualstudio.com/download)
+  * [Guía para Windows](https://www.youtube.com/watch?v=R3D9lAW_eho)
+  * [Guía para MacOS](https://www.youtube.com/watch?v=2f5lwSlvBDk)
+
 * Opcional: tener instalado/configurado git para clonar el proyecto
 
 ## Instalación
