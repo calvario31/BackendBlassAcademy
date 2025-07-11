@@ -14,7 +14,7 @@ export default function (
     return;
   }
   if (err.statusCode === 400 && err.code === "FST_ERR_CTP_EMPTY_JSON_BODY") {
-    reply.code(400).send({ mensaje: "Por favor, agregar un payload" });
+    reply.code(400).send({ mensaje: "Debe especificar un payload" });
     return;
   }
   reply.send(err);
